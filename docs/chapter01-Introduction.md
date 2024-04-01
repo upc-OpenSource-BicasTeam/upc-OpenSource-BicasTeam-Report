@@ -18,6 +18,13 @@ MoviGestion proporciona una solución completa que abarca todas las necesidades 
 | Codigo del Estudiante  | U202116207                         |
 | Carrera                | Ingeniería de Software             |
 | Descripcion            | Soy estudiante de 7mo ciclo. Cuento con conocimientos en JavaScript, TypeScript, HTML, CSS, Vue y Angular. Soy una persona responsable y colaborativa. |
+| Foto                   | ![Nestor](/assets/chapter01/Foto%20Perfil%20Integrante%20Nestor.png) |
+
+| Integrante             | Velarde Gonzales Nestor Hernan             |
+|------------------------|------------------------------------|
+| Codigo del Estudiante  | U20211C221                         |
+| Carrera                | Ingeniería de Software             |
+| Descripcion            | Actualmente soy de 6 ciclo en la Universidad Peruana de Ciencias Aplicadas, cuento con conocimientos en C++, C#, Python.  |
 | Foto                   | ![Miguel](/assets/chapter01/Foto%20Perfil%20Integrante%20Miguel.jpg) |
 
 
