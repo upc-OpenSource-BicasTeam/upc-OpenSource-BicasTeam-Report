@@ -144,7 +144,23 @@ Para analizar los antecedentes y la problemática a la que nuestro proyecto se a
 * **Creemos que** diseñando una interfaz intuitiva y fácil de usar, **sabemos que** los usuarios adoptarán rápidamente la aplicación y aumentará su satisfacción con el producto, **cuando** encuentren que la aplicación es fácil de navegar y utilizar, incluso sin experiencia previa en aplicaciones de gestión de flotas.
 
 #### 1.2.2.4 Lean UX Canvas
-<!-- MIGUEL: RECOMIENDO HACER UNA IMAGEN Y SUBIRLA AL DRIVE Y JALARLO AQUI, HACER UN CUADRO SERIA DEMASIADO PESADO -->
+
+<table>
+    <tr>
+        <td>Business Problem<br><br>Las empresas que gestionan flotas de transporte enfrentan dificultades para optimizar la eficiencia operativa, monitorear el rendimiento de la flota y garantizar la seguridad y cumplimiento normativo.</td>
+        <td rowspan="2">Solutions<br><br>Desarrollar una aplicación de gestión de flotas que centralice la información, proporcione herramientas de seguimiento en tiempo real y facilite la comunicación entre los usuarios.</td>
+        <td>Business Outcomes<br><br>*Mejora de la eficiencia operativa.<br>*Reducción de costos operativos.<br>*Mejora en la seguridad y cumplimiento normativo.<br>*Aumento de la satisfacción del cliente.</td>
+    </tr>
+    <tr>
+        <td>Users<br><br>*Empresarios responsables de la gestión de flotas de transporte.<br>*Transportistas que operan vehículos de la flota.</td>
+        <td>User Outcomes & Benefits<br><br>*Empresarios: Mejor toma de decisiones, optimización de rutas, reducción de tiempos de respuesta.<br>*Transportistas: Seguimiento en tiempo real de envíos, comunicación eficiente con la empresa, mejora en la seguridad laboral.</td>
+    </tr>
+    <tr>
+        <td>Hypothesis<br><br>*Si proporcionamos una herramienta intuitiva de gestión de flotas, entonces los empresarios podrán mejorar la eficiencia operativa de sus flotas.<br>*Si ofrecemos seguimiento en tiempo real de envíos, entonces los transportistas podrán garantizar la puntualidad en las entregas y aumentar la satisfacción del cliente.</td>
+        <td>What’s the most important thing we need to learn first?<br><br>La aceptación y adopción de la aplicación por parte de los usuarios principales: empresarios y transportistas.</td>
+        <td>What’s the least amount of work we need to do to learn the next most important thing?<br><br>Validar la eficacia de las funcionalidades clave de la aplicación a través de pruebas de usuario y prototipos de baja fidelidad.</td>
+    </tr>
+</table>
 
 ## 1.3 Segmentos objetivos
 Los segmentos objetivos de MoviGestion son:
