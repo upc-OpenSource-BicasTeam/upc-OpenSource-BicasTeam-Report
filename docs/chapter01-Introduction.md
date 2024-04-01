@@ -13,57 +13,13 @@ MoviGestion proporciona una solución completa que abarca todas las necesidades 
 ### 1.1.2 Perfiles de integrantes del equipo
 <!-- Idea de formato -->
 
-<table>
-    <tr>
-        <th>Integrante</th>
-        <td>Mauricio Sebastián Chacon Martinez</td>
-    </tr>
-    <tr>
-        <th>Codgio del Estudiante</th>
-        <td>U202212911</td>
-    </tr>
-    <tr>
-        <th>Carrera</th>
-        <td>Ingeniería de Software</td>
-    </tr>
-    <tr>
-        <th>Descripcion</th>
-        <td>Soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Tengo 18 años. Me gusta la programación y tengo conocimientos en HTML, CSS, JS y C++. Me considero una persona responsable.</td>
-    </tr>
-    <tr>
-        <th>Foto</th>
-        <td>fotito falta</td>
-    </tr>
-</table>
+| Integrante             | Miguel Huarcaya Chavez             |
+|------------------------|------------------------------------|
+| Codigo del Estudiante  | U202116207                         |
+| Carrera                | Ingeniería de Software             |
+| Descripcion            | Soy estudiante de 7mo ciclo. Cuento con conocimientos en JavaScript, TypeScript, HTML, CSS, Vue y Angular. Soy una persona responsable y colaborativa. |
+| Foto                   | ![Miguel](/assets/chapter01/Foto%20Perfil%20Integrante%20Miguel.jpg) |
 
-</br>
-</br>
-</br>
-
-<table>
-    <tr>
-        <th>Integrante</th>
-        <td>Miguel Huarcaya Chavez</td>
-    </tr>
-    <tr>
-        <th>Codgio del Estudiante</th>
-        <td>U202116207</td>
-    </tr>
-    <tr>
-        <th>Carrera</th>
-        <td>Ingeniería de Software</td>
-    </tr>
-    <tr>
-        <th>Descripcion</th>
-        <td>Soy estudiante de 7mo ciclo. Cuento con conocimientos en JavaScript, TypeScript, HTML, CSS, Vue y Angular. Soy una persona responsable y colaborativa.</td>
-    </tr>
-    <tr>
-        <th>Foto</th>
-        <td>
-        <img src="http://drive.google.com/uc?export=view&id=15OkOHA80ilo5waqsoPyt4h5rFm5_2tGv" alt="Imagen Perfil Miguel">
-        </td>
-    </tr>
-</table>
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y Problematica
