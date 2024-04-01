@@ -20,17 +20,27 @@ MoviGestion proporciona una solución completa que abarca todas las necesidades 
 | Descripcion            | Soy estudiante de 7mo ciclo. Cuento con conocimientos en JavaScript, TypeScript, HTML, CSS, Vue y Angular. Soy una persona responsable y colaborativa. |
 | Foto                   |![Miguel](/assets/chapter01/Foto%20Perfil%20Integrante%20Miguel.jpg) |
 
+<br>
+<br>
+
 | Integrante             | Velarde Gonzales Nestor Hernan             |
 |------------------------|------------------------------------|
 | Codigo del Estudiante  | U20211C221                         |
 | Carrera                | Ingeniería de Software             |
 | Descripcion            | Actualmente soy de 6 ciclo en la Universidad Peruana de Ciencias Aplicadas, cuento con conocimientos en C++, C#, Python.  |
 | Foto                   |![Nestor](/assets/chapter01/Foto%20Perfil%20Integrante%20Nestor.png)|
-| Integrante             | Torres Espinoza Elias             |------------------------------------|
-| Codigo del Estudiante  | U20191A453                         |
+
+<br>
+<br>
+
+| Integrante             | Torres Espinoza Elias             |
+|------------------------|------------------------------------|
+| Codigo del Estudiante  | U20191A453                          |
 | Carrera                | Ingeniería de Software             |
 | Descripcion            | Actualmente soy de 7 ciclo en la Universidad Peruana de Ciencias Aplicadas, cuento con conocimientos en C++, C#, Python, HTML y css.  |
 | Foto                   |![Elias](/assets/chapter01/Foto%20Perfil%20Integrante%20Elias.jpg)|
+
+
 
 
 
