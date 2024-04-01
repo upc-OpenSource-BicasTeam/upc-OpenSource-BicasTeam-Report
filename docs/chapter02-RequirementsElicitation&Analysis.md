@@ -1,4 +1,3 @@
-
 # CAPITULO 2: Requirements Elicitation & Analysis
 ## 2.1 Competidores
 
@@ -393,8 +392,10 @@ RESUMEN:
 TRANSPORTISTAS
 
 ENTREVISTA 1:
-![Entrevista 1 Transportistas](http://drive.google.com/uc?export=view&id=1uPQmzhiGYfqR2OqecIX4xLjZbzsZJWFZ)
-https://www.youtube.com/watch?v=Jae7MyQCcLc
+
+![Entrevista 1 Transportistas](/assets/chapter02/TransEntrevista%201.png)
+
+LINK: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EXSD46lHMXBHhtXU68u21MAB1k4GPVrGtb73aiHuhk-O4A?e=baM5qv
 
 Inicia: 0:00
 
@@ -420,8 +421,10 @@ Le parece interesante la opción de tener una aplicación que gestione la inform
 Le gustaría crear una empresa aprovechando la experiencia que tiene en el rubro de transporte. Asimismo, considera que la aplicación propuesta lo apoyaría en sus gestiones.
 
 ENTREVISTA 2:
-![Entrevista 2 Transportistas](http://drive.google.com/uc?export=view&id=1D-57fks4FfQc2YbKrS3x3xF7MM9aQ34i)
-https://www.youtube.com/watch?v=3CMkwkj_wVs
+
+![Entrevista 2 Transportistas](/assets/chapter02/TransEntrevista%202.png)
+
+LINK: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/Ee0tJI_1TaVDlx1FOyZIwjwBiTQSNEtbkeaMh9ggxyFgFQ?e=vercnA
 
 Inicia: 0:00 
 
@@ -445,9 +448,9 @@ Tiene idea a futuro de crear una empresa de transporte dado su experiencia en va
 
 ENTREVISTA 3:
 
-![Entrevista 3 Transportistas](http://drive.google.com/uc?export=view&id=1SItMuDN0DGpaF7AQj7WrfCBB16KpL_kc)
+![Entrevista 3 Transportistas](/assets/chapter02/TransEntrevista%203.png)
 
-https://www.youtube.com/watch?v=pNpHUvLLnX0
+LINK: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EY5rIHwdoYJEo1060clcg08Bj9EUW4PKzVWG0qSQZ9iLKw?e=qVv4x8
 
 Inicia: 0:00 
 
@@ -490,11 +493,11 @@ De las entrevistas realizadas podemos determinar ciertos aspectos.
 
 CONDUCTOR
 
-![User Persona Transportista](http://drive.google.com/uc?export=view&id=11onQm2QL_AqS7FAnasnx_SlUsP7mIqg8)
+![User Persona Transportista](/assets/chapter02/UserPersona%20Transportista.png)
 
 EMPRESARIO
 
-![User Persona Empresario](http://drive.google.com/uc?export=view&id=1w_yWVXZzAqRjgDEfI89id8Gs57If90xu)
+![User Persona Empresario](/assets/chapter02/UserPersona%20Empresario.png)
 
 
 
@@ -502,20 +505,20 @@ EMPRESARIO
 
 Los segmentos a analizar son empresarios a cargo de un flota de vehiculos y Transportistas encrgados en llevar un paquete de una scursal a un punto B.
 
-| Tarea                                       | Descripción                                                                                   | Frecuencia (1-5) | Importancia (1-5) |
-|---------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------|-------------------|
-| **Empresarios**                             |                                                                                               |                   |                   |
-| Monitoreo del rendimiento de la flota      | Seguimiento del desempeño de vehículos y conductores para identificar áreas de mejora.       |        5          |     5              |
-| Registro y seguimiento de incidencias      | Documentación y seguimiento de problemas y eventos relacionados con la flota.                 |            5       |      3             |
-| Planificación de rutas                     | Diseño y optimización de rutas para maximizar la eficiencia y minimizar los costos.           |         1         |      5             |
-| Análisis de costos de operación            | Evaluación y control de los gastos asociados con la operación de la flota.                     |         1          |    5               |
-| Gestión de la seguridad                    | Implementación y seguimiento de medidas para garantizar la seguridad de la flota y los conductores. |           1        |         5          |
-| **Transportistas**                          |                                                                                               |                   |                   |
-| Seguimiento de envíos                      | Monitoreo en tiempo real de la ubicación y estado de los envíos para garantizar la puntualidad. |          5         |       5            |
-| Mantenimiento de vehículos                 | Programación y seguimiento de tareas de mantenimiento para garantizar el funcionamiento óptimo. |          5         |       5            |
-| Comunicación con conductores               | Coordinación y transmisión de información importante a los conductores sobre rutas y entregas. |           5        |   3                |
-| Registro de horas de trabajo               | Documentación y seguimiento de las horas de trabajo de los conductores para cumplir con regulaciones laborales. |       5            |    3               |
-| Reporte de incidentes y problemas          | Documentación y comunicación de problemas operativos y situaciones inesperadas.                |         1          |    4           |
+| Tarea                                      | Descripción                                                                                         | Frecuencia (1-5) | Importancia (1-5) |
+|--------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------|-------------------|
+| **Empresarios**                            |                                                                                                     |                  |                   |
+| Monitoreo del rendimiento de la flota      | Seguimiento del desempeño de vehículos y conductores para identificar áreas de mejora.              |         5        |          5        |
+| Registro y seguimiento de incidencias      | Documentación y seguimiento de problemas y eventos relacionados con la flota.                       |         5        |          3        |
+| Planificación de rutas                     | Diseño y optimización de rutas para maximizar la eficiencia y minimizar los costos.                 |         1        |          5        |
+| Análisis de costos de operación            | Evaluación y control de los gastos asociados con la operación de la flota.                          |         1        |          4        |
+| Gestión de la seguridad                    | Implementación y seguimiento de medidas para garantizar la seguridad de la flota y los conductores. |         1        |          5        |
+| **Transportistas**                         |                                                                                                     |                  |                   |
+| Seguimiento de envíos                      | Monitoreo en tiempo real de la ubicación y estado de los envíos para garantizar la puntualidad.     |         5        |          5        |
+| Mantenimiento de vehículos                 | Programación y seguimiento de tareas de mantenimiento para garantizar el funcionamiento óptimo.     |         5        |          5        |
+| Comunicación con conductores               | Coordinación y transmisión de información importante a los conductores sobre rutas y entregas.      |         5        |          3        |
+| Registro de horas de trabajo               | Documentación y seguimiento de las horas de trabajo de los conductores para cumplir con regulaciones laborales. |         5        |          3        |
+| Reporte de incidentes y problemas          | Documentación y comunicación de problemas operativos y situaciones inesperadas.                     |         1        |          4        |
 
 Diferencias:
 
@@ -532,11 +535,11 @@ Tanto los empresarios como los transportistas valoran la eficiencia operativa, c
 
 CONDUCTOR
 
-![Journey Transportista](http://drive.google.com/uc?export=view&id=1So3GaJAZKg6EUm7_we1xgi6bIVfNCP2e)
+![Journey Transportista](/assets/chapter02/journey%20conductor.png)
 
 EMPRESARIO
 
-![Journey Empresario](http://drive.google.com/uc?export=view&id=1n8RpB1aXxKDUj-RL_2eIriTWWKV7ml2c)
+![Journey Empresario](/assets/chapter02/Journey%20Map%20Empresario.png)
 
 
 
@@ -544,21 +547,22 @@ EMPRESARIO
 
 TRANSPORTISTA
 
-![Empathy Mapping Transportista](http://drive.google.com/uc?export=view&id=1ScSIZDzwsM5IG7i2u5UE2D1_yaUzstbz)
+![Empathy Mapping Transportista](/assets/chapter02/empatyMap%20Transportista.png)
 
 EMPRESARIO
 
-![Empathy Mapping Empresario](http://drive.google.com/uc?export=view&id=1_F0dt2nUWZ47izDhGhdKcqypU_kNUFwy)
+![Empathy Mapping Empresario](/assets/chapter02/empathyMap%20empresario.png)
 
 
 ### 2.3.5 As-is Scenario Mapping
 
 CONDUCTOR
 
-<!-- MIGUEL: ESTA TABLA AS IS ESTA MAL, NO TIENE LAS FUNCONALIDADES QUE OFRECEMOS -->
-<!-- ![Scenario Conductor](http://drive.google.com/uc?export=view&id=1R_1xf7fOTvpIcFf1B2Poab-F6rWE6HgN) -->
+![As-Is Conductor](/assets/chapter02/as-is%20transportistas.png)
 
 EMPRESARIO
+
+![As-Is Empresario](/assets/chapter02/as-is%20empresarios.png)
 
 ## 2.4 Ubiquitous Language
 
@@ -571,3 +575,4 @@ EMPRESARIO
 - Características de Gestión de Flotas: Incluyen estadísticas de rendimiento, reporte de infracciones, registro de incidencias, seguimiento de envíos exitosos y control de sitios enviados.
 
 - Planes de Suscripción: Ofrecidos para adaptarse a las necesidades y tamaño de cada empresa usuaria.
+
