@@ -11,17 +11,44 @@ EMPRESARIO:
 
 ## 3.2 User Stories
 
-| Epic / Story ID            | Titulo                                    | Descripcion                               | Criterios de Aceptacion               | Relacionado con (Epic ID)   |
-|----------------------------|-------------------------------------------| ------------------------------------------|---------------------------------------|-----------------------------|
-| Epic01                     |                                           |                                           |                                       |                             |
-| Epic02                     |                                           |                                           |                                       |                             |
+<table>
+    <tr>
+        <th>Epic ID</th>
+        <th>User Story ID</th>
+        <th>Titulo</th>
+        <th>Descripcion.</th>
+        <th>Criterios de Aceptacion</th>
+    </tr>
+    <tr>
+        <td rowspan="2">EP001</td>
+        <td rowspan="2">US001</td>
+        <td rowspan="2">titulo</td>
+        <td rowspan="2">Description</td>
+        <td>Criterio 1</td>
+    </tr>
+    <tr>
+        <td>Criterio 2</td>
+    </tr>
+</table>
 
 ## 3.3 Impact Mapping
 
 
 ## 3.4 Product Backlog
 
-| #Orden       | User Story Id       | Titulo                               | Descripcion               | Story Points (1/2/3/5/8)   |
-|--------------|---------------------|--------------------------------------|---------------------------|----------------------------|
-| 1            | US01                |                                      | Como.. deseo.. para..     |                            |
-| 2            | US02                |                                      | Como.. deseo.. para..     |                            |
+<table>
+    <tr>
+        <th>#Orden</th>
+        <th>User Story ID</th>
+        <th>Titulo</th>
+        <th>Descripcion</th>
+        <th>Story Points (1/2/3/5/8)</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>US01</td>
+        <td>title</td>
+        <td>Description</td>
+        <td>1</td>
+    </tr>
+</table>
