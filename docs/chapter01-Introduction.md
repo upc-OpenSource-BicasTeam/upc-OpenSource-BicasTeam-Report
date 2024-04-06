@@ -18,19 +18,8 @@ MoviGestion proporciona una solución completa que abarca todas las necesidades 
 | Codigo del Estudiante  | U202116207                         |
 | Carrera                | Ingeniería de Software             |
 | Descripcion            | Soy estudiante de 7mo ciclo. Cuento con conocimientos en JavaScript, TypeScript, HTML, CSS, Vue y Angular. Soy una persona responsable y colaborativa. |
-| Foto                   |![Miguel](/assets/chapter01/Foto%20Perfil%20Integrante%20Miguel.jpg) |
+| Foto                   | ![Miguel](/assets/chapter01/Foto%20Perfil%20Integrante%20Miguel.jpg) |
 
-<br>
-<br>
-
-| Integrante             | Velarde Gonzales Nestor Hernan             |
-|------------------------|------------------------------------|
-| Codigo del Estudiante  | U20211C221                         |
-| Carrera                | Ingeniería de Software             |
-| Descripcion            | Actualmente soy de 6 ciclo en la Universidad Peruana de Ciencias Aplicadas, cuento con conocimientos en C++, C#, Python.  |
-| Foto                   |![Nestor](/assets/chapter01/Foto%20Perfil%20Integrante%20Nestor.png)|
-
-<br>
 <br>
 
 | Integrante             | Torres Espinoza Elias             |
@@ -40,12 +29,25 @@ MoviGestion proporciona una solución completa que abarca todas las necesidades 
 | Descripcion            | Actualmente soy de 7 ciclo en la Universidad Peruana de Ciencias Aplicadas, cuento con conocimientos en C++, C#, Python, HTML y css.  |
 | Foto                   |![Elias](/assets/chapter01/Foto%20Perfil%20Integrante%20Elias.jpg)|
 
+<br>
 
+| Integrante             | Huamani Sanchez Jose Diego             |
+|------------------------|------------------------------------|
+| Codigo del Estudiante  | U202110458                          |
+| Carrera                | Ingeniería de Software             |
+| Descripcion            | Actualmente soy de séptimo ciclo en la Universidad Peruana de Ciencias Aplicadas, cuento con conocimientos en C++, C#, Python, HTML y css. Tengo la capacidad demostrada para trabajar en equipo aplicando las metodologías aliges y scrum. Me gusta ser empático durante el trabajo en equipo  |
+| Foto                   |![Elias](/assets/chapter01/Foto%20Perfil%20Integrante%20Diego.png)|
 
+<br>
 
+| Integrante             | Velarde Gonzales Nestor Hernan             |
+|------------------------|------------------------------------|
+| Codigo del Estudiante  | U20211C221                         |
+| Carrera                | Ingeniería de Software             |
+| Descripcion            | Actualmente cursando el 6 ciclo de la carrera en la Universidad Peruana de Ciencias Aplicadas, cuento con conocimientos en C++, C#, Python, js y base de datos, mi hobby favorito es jugar videojuegos y ir a la playa con mis amigos.  |
+| Foto                   |![Nestor](/assets/chapter01/Foto%20Perfil%20Integrante%20Nestor.png)|
 
-
-
+<br>
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y Problematica
