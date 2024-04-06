@@ -348,7 +348,7 @@ encuentra en el país que perjudican su trabajo?
 
 ### 2.2.2 Registro de entrevistas
 
-EMPRESARIOS
+#### Empresarios
 
 <!-- AQUI VA LAS ENTREVISTAS DE LOS EMPRESARIOS - HAGANSE 2 PS GENTE, CON 2 YO CREO QUE ES MAS QUE SUFICIENTE,, NO TIENE QUE SER REALES XD-->
 
@@ -371,25 +371,29 @@ RESUMEN:
 
 
 ENTREVISTA 2
-![Entrevista 2 Empresarios]()
+![Corp_Beth](/assets/chapter02/Foto_Corpo_Beth.png)
 
-Link:
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EXDku-n-Pj9ButBywOx7AN0Be6DVSGjmhOcfNFPVrSWQjw?e=DGxDSW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Inicia: 
+Inicia: 0:00 Min
 
-Duración:
+Duración: 4:29 Min
 
-Nombre: 
+Nombre: Beth Oneglio Alvarez
 
-Edad: 
+Edad: 26
 
-Distrito: 
+Distrito: San Borja, Lima
 
 RESUMEN:
+Beth Oneglio Alvarez, propietaria y gerente de la empresa 'Cargo Express Alvarez', ella es administradora de empresas de profesión y actualmente ella tiene 29 años de edad, Beth ya cuenta con 4 años de experiencia en la gestión de su empresa. 'Cargo Express Alvarez' es una empresa de transporte especializada en el transporte de cargas de alimentos de Qali Warma. Actualmente, cuenta con 4 camiones y planifica sus rutas de transporte en base a coordinaciones con la institución de Qali Warma para garantizar la entrega de alimentos en cada destino.
+Beth supervisa a un equipo de 6 choferes y 4 ayudantes, con quienes coordina para brindar un servicio de carga eficiente. Su principal preocupación radica en la seguridad de los vehículos y la integridad de los alimentos durante el transporte. Utiliza los medios tecnológicos de WhatsApp y llamadas telefónicas para comunicarse con su equipo, además usa herramientas como Excel y PowerBi para organizar sus tareas de manera más eficiente.
+Beth busca una herramienta que facilite la gestión y coordinación directa con sus trabajadores, con el objetivo de mejorar la organización y aprovechar la tecnología para aumentar la productividad. La aplicación web de TransLogic presentada durante la entrevista, ella percibe como una solución beneficiosa para su empresa y está interesada a implementarla para optimizar sus operaciones en un futuro tambien estaría dispuesta a tomarla.
 
 
 
-TRANSPORTISTAS
+
+#### Transportistas
 
 ENTREVISTA 1:
 
