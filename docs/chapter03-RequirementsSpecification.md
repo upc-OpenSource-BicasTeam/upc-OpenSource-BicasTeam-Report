@@ -229,3 +229,6 @@ TRANSPORTISTA
 | 14 | US12 | Transportista - Estadistica | Como transportista, quiero poder ver mis propias estadísticas, incluyendo viajes completados, por completar y cancelados, así como los reportes enviados para tener un control de mi rendimiento. | 2 |
 | 15 | US03 | Gerente - Perfil | Como gerente, quiero poder modificar mi perfil, incluyendo nombre, número de contacto y correo electrónico. | 1 |
 | 16 | US04 | Transportista - Perfil | Como transportista, quiero poder modificar mi perfil, incluyendo nombre, número de contacto y correo electrónico. | 1 |
+
+Jira Software Imagen:
+![Product Backlog](/assets/chapter03/Product%20backlog.png)
