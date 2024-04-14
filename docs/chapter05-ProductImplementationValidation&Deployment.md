@@ -44,7 +44,7 @@ En este proyecto, utilizaremos GitHub como plataforma y sistema de control de ve
 
 **Repositorios en GitHub**
 - Organización: https://github.com/upc-OpenSource-BicasTeam
-- Landing Page: FALTA
+- Landing Page: https://github.com/upc-OpenSource-BicasTeam/upc-opensource-bicasteam-landingpage.github.io.git
 - Report : https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-Report.git
 
 **GitFlow Workflow**
@@ -154,7 +154,9 @@ En esta sección, se detallan los aspectos principales del Sprint Planning Meeti
 El Sprint 1 está centrado en la implementación de las funcionalidades clave de la landing page del sitio web, priorizando las historias de usuario identificadas. Nuestro objetivo principal es proporcionar a los visitantes una experiencia inicial sólida al presentar de manera clara y concisa las características y beneficios del sitio, junto con una navegación intuitiva y acceso rápido a la información relevante. Al completar las tareas asociadas a las historias de usuario definidas, sentaremos las bases para futuras iteraciones, asegurando que la página de inicio cumpla con las expectativas de los usuarios y contribuya al éxito del proyecto.
 
 URL del Board en Trello: https://trello.com/invite/b/9fFNzPVl/ATTId6d62a99d06e758b547d220c4b08a09131B77500/appweb
-![Board Trello](/assets/boardTrello.png)
+
+![Board Trello](/assets/chapter05/boardTrello.png)
+
 <table>
     <tr>
         <td colspan="2">Sprint #</td>
@@ -181,7 +183,7 @@ URL del Board en Trello: https://trello.com/invite/b/9fFNzPVl/ATTId6d62a99d06e75
         <td>Desarrollar resumen claro y conciso sobre las características y beneficios del sitio web en la página de inicio.</td>
         <td>Crear una sección de resumen en la página de inicio que presente de manera clara y concisa las principales características y beneficios del sitio web, destacando los puntos más relevantes de manera atractiva y fácil de entender.</td>
         <td>2 hora</td>
-        <td>Piero Tarazona</td>
+        <td>Jose Diego huamani</td>
         <td>Done</td>
     </tr>
     <tr>
@@ -191,7 +193,7 @@ URL del Board en Trello: https://trello.com/invite/b/9fFNzPVl/ATTId6d62a99d06e75
         <td>Implementar acceso claro y visible a la información detallada de los planes ofrecidos en la página de inicio.</td>
         <td>Integrar un acceso claro y visible en la página de inicio que permita a los visitantes buscar información detallada sobre los planes ofrecidos, incluyendo características, beneficios, limitaciones, términos y condiciones, precio y cualquier otra información relevante.</td>
         <td>3 hora</td>
-        <td>Mauricio Chacon</td>
+        <td>Jose diego Huamani</td>
         <td>Done</td>
     </tr>
     <tr>
@@ -221,7 +223,7 @@ URL del Board en Trello: https://trello.com/invite/b/9fFNzPVl/ATTId6d62a99d06e75
         <td>Presentar contenido claro, detallado y preciso sobre lo que ofrece el sitio web en la página de inicio.</td>
         <td>Proporcionar contenido claro, detallado y preciso en la página de inicio que describa las características, funcionalidades y beneficios del sitio web de manera comprensible y convincente.</td>
         <td>1 hora</td>
-        <td>Moises Donayre</td>
+        <td>Nestor velarde</td>
         <td>Done</td>
     </tr>
     <tr>
@@ -239,12 +241,19 @@ URL del Board en Trello: https://trello.com/invite/b/9fFNzPVl/ATTId6d62a99d06e75
 ### 5.2.1.3 Development Evidence for Sprint Review.
 Esta sección documenta y presenta la serie de commits realizados en el repositorio del Landing Page. Estos commits, que son una parte integral del proceso de desarrollo, se han gestionado utilizando la metodología GitFlow y siguiendo estrictamente las convenciones establecidas para los commits. Esta evidencia sirve como un registro transparente y trazable de nuestro progreso y esfuerzos de desarrollo a lo largo del sprint.
 
-![Lista de commits]()
-<!--TODO: HACER SCREENSHOTS DE COMMITS AL LANDING PAFE -->
+![Lista de commits](/assets/chapter05/commits.pPng)
 
 | Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
-| upc-AppWeb-BicasTeam-LandingPage.github.io   | main     | d3b094b | chore: ...                      | initial commit         | 10-04             |
+| upc-OpenSource-BicasTeam-LandingPage.github.io   | main     | 4ad069c28a25992a9201a92858002309e0bf4df7 | chore: ...                      | initial commit         | 10-04             |
+| upc-OpenSource-BicasTeam-LandingPage.github.io   | feature/section-about      | 9a37f7ee1756f0f868e45e7c1b3c71848007824a | feat: ...                      | create services         | 10-04             |
+| upc-OpenSource-BicasTeam-LandingPage.github.io   | feature/section-footer      | | upc-OpenSource-BicasTeam-LandingPage.github.io   | feature/section-about      | 9a37f7ee1756f0f868e45e7c1b3c71848007824a | feat: ...           | create footer         | 10-04             | | feat: ...                      | create services         | 10-04             |
+| upc-OpenSource-BicasTeam-LandingPage.github.io   | feature/section-footer service     | | upc-OpenSource-BicasTeam-LandingPage.github.io   | feature/section-about service     | d5e5a6eb2c9ad42feed3ed4f36c5aba0654202e5 | fix: ...        | fix footer         | 10-04             | | fix: ...                      | create services         | 10-04             |
+| upc-OpenSource-BicasTeam-LandingPage.github.io   | feature/section-pricing      | | upc-OpenSource-BicasTeam-LandingPage.github.io   | feature/section-pricing      | d5e5a6eb2c9ad42feed3ed4f36c5aba0654202e5 | fix: ...   | fix footer         | 10-04             | | feat: ...                      | create services         | 10-04             |
+| upc-OpenSource-BicasTeam-LandingPage.github.io   | feat     | cbb29c4b819970c09e9b3de1b84c0de61c758c4e | feat: ...                      | create section header       | 10-04             |
+| upc-OpenSource-BicasTeam-LandingPage.github.io   | feat     | d7f5a246629c7aa309e2c2816d2fb1c38a953b85 | feat: ...                      | create section hero       | 10-04             |
+| upc-OpenSource-BicasTeam-LandingPage.github.io   | feat     | 09ed97a86a2413031145c4413ec161ff07af625f | feat: ...                      | create section about team       | 10-04             |
+| upc-OpenSource-BicasTeam-LandingPage.github.io   | feat     | 09ed97a86a2413031145c4413ec161ff07af625f | feat: ...                      | create section about us       | 10-04             |
 
 
 ### 5.2.1.4 Testing Suite Evidence for Sprint Review. 
@@ -252,7 +261,9 @@ En esta sección, presentamos la evidencia de las pruebas realizadas durante el 
 
 | Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
-| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-header  | 1fbb6f6                           | feat: ...                        | add tests for header section            | 10/04  |
+| upc-OpenSource-BicasTeam-LandingPage.github.io   | feature/section-header  | 1fbb6f6                           | feat: ...                        | add tests for header section            | 10/04  |
+| upc-OpenSource-BicasTeam-LandingPage.github.io   | feature/section-footer  | ee12b07                          | feat: ...                        | add test for footer section           | 10/04  |
+| upc-OpenSource-BicasTeam-LandingPage.github.io   | feature/section-services  | e36977f                            | feat: ...                        | add test for pricing section            | 10/04  |      
 
 
 ### 5.2.1.5 Execution Evidence for Sprint Review. 
@@ -284,8 +295,8 @@ Capturas de pantalla:
 
 ![Contacto](/assets/chapter05/contacto.png)
 
-<!--TODO: REEMPLAZAR EL VIDEO -->
-<!-- Video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212911_upc_edu_pe/EdWszOh699pDu919Y5P6xZcBELghHGlX6WIoZ03PN5I0mA?e=5AvfFc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D -->
+
+Video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EcibyFqJONpAp8yWRYzs3c8BmX47KlQ4sjigq6VeGem_6g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CeppC1
 
 ### 5.2.1.6 Services Documentation Evidence for Sprint Review. 
 
