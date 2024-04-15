@@ -189,10 +189,10 @@ Si el usuario elige registrarse como “Transportist”, el proceso también com
 
 ### 4.4.3 Web Applications Mock-ups
 ![Web Applications Mock-ups](/assets/chapter04/macbook-pro-14_-4.png)
-![Web Applications Mock-ups](/assets/chapter04/macbook-pro-14_-3.png)
-![Web Applications Mock-ups](/assets/chapter04/macbook-pro-14_-2.png)
-![Web Applications Mock-ups](/assets/chapter04/macbook-pro-14_-1.png)
-![Web Applications Mock-ups](/assets/chapter04/macbook-pro-14_-3(1).png)
+![Web Applications Mock-ups](/assets/chapter04/Seccion-register.png)
+![Web Applications Mock-ups](/assets/chapter04/Dates.png)
+![Web Applications Mock-ups](/assets/chapter04/Validate.png)
+![Web Applications Mock-ups](/assets/chapter04/Succesfull.png)
 
 
 ### 4.4.4 Web Applications User Flow Diagrams
