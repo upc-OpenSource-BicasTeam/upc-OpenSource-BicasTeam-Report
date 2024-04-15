@@ -67,15 +67,10 @@ Universidad Peruana de Ciencias Aplicadas
 # Project Report Collaboration Insights
 Link de Repositorio: https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-Report.git
 
-<!--  Adicionalmente, para cada entrega explica cómo
-se han desarrollado las actividades de elaboración del informe y se presenta
-capturas en imagen de los analíticos de colaboración y commits en GitHub para el
-repositorio del informe, realizados por los miembros del equipo. Todos los miembros
-del equipo deben tener participación en la elaboración del informe. Esta sección
-debe ir expandiéndose con descripciones y evidencias en cada entrega. Lo descrito y
-evidenciado debe tener coherencia con el Registro de Versiones del Informe -->
+EVIDENCIA COMMITS REPORT: 
 
-<!-- TODO: Subir screenshot de commits luego dew hacer merge -->
+![COMITS REPORT](/assets/chapter00/commits%20report.png)
+
 ---
 ---
 ---
