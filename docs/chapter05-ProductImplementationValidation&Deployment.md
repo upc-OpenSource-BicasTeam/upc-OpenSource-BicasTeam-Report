@@ -241,7 +241,7 @@ URL del Board en Trello: https://trello.com/invite/b/9fFNzPVl/ATTId6d62a99d06e75
 ### 5.2.1.3 Development Evidence for Sprint Review.
 Esta sección documenta y presenta la serie de commits realizados en el repositorio del Landing Page. Estos commits, que son una parte integral del proceso de desarrollo, se han gestionado utilizando la metodología GitFlow y siguiendo estrictamente las convenciones establecidas para los commits. Esta evidencia sirve como un registro transparente y trazable de nuestro progreso y esfuerzos de desarrollo a lo largo del sprint.
 
-![Lista de commits](/assets/chapter05/commits.pPng)
+![Lista de commits](/assets/chapter05/commits.png)
 
 | Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
