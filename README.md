@@ -361,13 +361,13 @@ Tune, N. (2018, 1 agosto). Domain-Driven Architecture Diagrams - Strategy, Archi
 
 
 # Anexos
-Link gitHub Repositorio: h
+Link gitHub Repositorio: https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-Report.git
 
-Link Github Landing page: 
+Link Github Landing page: https://github.com/upc-OpenSource-BicasTeam/upc-opensource-bicasteam-landingpage.github.io.git
 
-LandingPage Desplegado:  
+LandingPage Desplegado:  https://upc-opensource-bicasteam.github.io/upc-opensource-bicasteam-landingpage.github.io/
 
-Figma Landing Page: 
+Figma Landing Page: https://www.figma.com/file/gu0SdYkebsOKLB8p5YvOzL/BicasTeam-OpenSource?type=design&node-id=0%3A1&mode=design&t=nmvBnCRmQ5e71hnB-1
 
 Figma App Web: https://www.figma.com/file/UznJufoIMBwWow9ny8cXO5/Web-Application_BicasTeam?type=design&node-id=126%3A98&mode=design&t=QAcsG0V5XHFwF6rg-1
 
