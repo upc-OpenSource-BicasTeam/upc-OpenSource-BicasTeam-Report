@@ -75,7 +75,7 @@ del equipo deben tener participación en la elaboración del informe. Esta secci
 debe ir expandiéndose con descripciones y evidencias en cada entrega. Lo descrito y
 evidenciado debe tener coherencia con el Registro de Versiones del Informe -->
 
-
+<!-- TODO: Subir screenshot de commits luego dew hacer merge -->
 ---
 ---
 ---
