@@ -195,6 +195,8 @@ Si el usuario elige registrarse como “Transportist”, el proceso también com
 ![Web Applications Mock-ups](/assets/chapter04/Succesfull.png)
 
 
+Link del Figma: https://www.figma.com/file/UznJufoIMBwWow9ny8cXO5/Web-Application_BicasTeam?type=design&node-id=250%3A490&mode=design&t=GOKAY8ODTttUllvI-1 
+
 ### 4.4.4 Web Applications User Flow Diagrams
 User Goal: El usuario tiene dos opciones de registro en la aplicación: como “Businessmen” o como “Transportist”.
 
