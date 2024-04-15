@@ -123,11 +123,29 @@ Para mejorar la visibilidad y optimizar el rendimiento de nuestra Landing Page e
 Estas etiquetas se han incorporado en el encabezado de nuestra Landing Page para proporcionar información relevante a los motores de búsqueda y mejorar nuestra clasificación en los resultados de búsqueda. Además, hemos asegurado que nuestro sitio sea indexado y seguido por los motores de búsqueda para garantizar una mayor visibilidad en la web.
 
 ### 4.2.4 Searching Systems
-
+Para los searching systems se ha utilizado un lenguaje formal y fácil de entender en nuestro proyecto. 
+listar paquetes, arma tu paquete .
+<table>
+	<tbody>
+		<tr>
+			<td>Barra lateral de 
+filtros </td>
+			<td>En esta sección encontraras los diferentes filtros que están 
+relacionados a servicos de MoviGestion como organización, Reportes y planes de suscripción.</td>
+		</tr>
+		<tr>
+			<td>Barra de filtrado 
+por opciones </td>
+			<td>En esta sección podrás ver todas las funcionalidades de nuestro sistema de MoviGestión </td>
+		</tr>
+	</tbody>
+</table>
 
 ### 4.2.5 Navigation Systems
 En esta sección, se detalla las estrategias clave diseñadas para guiar a los usuarios a través del Landing Page y las aplicaciones de la empresa. Se describe cómo estas acciones y técnicas están destinadas a facilitar a los usuarios el logro de sus objetivos y a garantizar una interacción satisfactoria con el producto. Además, se explora la forma en que los usuarios navegarán por el contenido, proporcionando una visión general de la experiencia de usuario planificada.
 Para brindar una experiencia fluida y satisfactoria, se implementan las siguientes acciones y técnicas:
+
+![Mock-Ups](/assets/chapter04/Mock-up.jpeg)
 
 1. Menú de navegación claro: Se ha implementado un menú de navegación en la parte superior del Landing Page con enlaces a las secciones principales, como Inicio, Acerca de Nosotros, Equipo, Servicios, Precios y Contacto. Esto permite a los usuarios acceder rápidamente a las áreas de interés.
 2. Botones de llamada a la acción (CTA): Se han agregado botones CTA para descargar la aplicación desde la App Store y Google Play Store, lo que facilita a los usuarios acceder a la aplicación desde sus dispositivos móviles.
