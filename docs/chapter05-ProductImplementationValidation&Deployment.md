@@ -27,10 +27,10 @@ Por otro lado, para la creación de User Personas, Empathy Maps, Journey Maps e 
 - Miro: https://miro.com/es/
 
 4. Software Development:
-Para el desarrollo de software se utilizó HTML5, CSS3 y JavaScript para el desarrollo de la Landing Page de la startup, por otro lado, para la creación del Web Application de la startup se utilizarán el framework de Vue por el lado del Frontend y en el Backend se utilizará ASP.NET Core Framework y C#.
+Para el desarrollo de software se utilizó HTML5, CSS3 y JavaScript para el desarrollo de la Landing Page de la startup, por otro lado, para la creación del Web Application de la startup se utilizarán el framework de AngularJS por el lado del Frontend y en el Backend se utilizará SpringBoot con Java.
 Para trabajar con estas tecnologías, se emplearon los siguientes IDEs:
-Visual Studio Code: Herramienta principal para el desarrollo Frontend y Backend, que ofrece una amplia gama de extensiones para mejorar la productividad del equipo. (En nuestro caso solo fue utilizado para la Landing Page).
-JetBrains Toolbox: Proporciona un entorno integrado para el desarrollo web, con características avanzadas de edición y depuración que faciitan la creación de aplicaciones web robustas.
+Visual Studio Code: Herramienta principal para el desarrollo Frontend, que ofrece una amplia gama de extensiones para mejorar la productividad del equipo. (En nuestro caso solo fue utilizado para la Landing Page).
+JetBrains Toolbox: Proporciona un entorno integrado para el desarrollo web, con características avanzadas de edición y depuración que faciitan la creación de aplicaciones web robustas tanto para el lado FrontEnd como BackEnd.
 - Visual Studio Code: https://code.visualstudio.com/
 - JetBrains Toolbox: https://www.jetbrains.com/toolbox-app/
 
@@ -82,10 +82,10 @@ En esta sección, se establece las convenciones y prácticas que seguiremos para
 - Se tomarán en cuenta las directrices proporcionadas por MDN para la escritura de JavaScript, que incluyen el uso de nombres descriptivos para variables y funciones en camelCase, el uso de declaración de variavles con `let` o `const` en lugar de `var`, y el uso de punto y coma al final de cada declaración.
 - Se seguirán las convenciones de codificación recomendadas por Google para JavaScript, que incluyen el uso de comillas simples para literales de cadena, el uso de comentarios descriptivos y el uso de funciones de flecha para expresiones de función.
 
-3. **Vue.js**:
-- Se adoptarán las convenciones de codificación recomendadas por la comunidad de aplicaciones Vue.js, que incluyen el uso de directivas v-bind y v-on abreviadas, el uso de ciclo de vida y la organización de componentes en carpetas y subcarpetas según su función.
+3. **AngularJS**:
+- Se adoptarán las convenciones de codificación recomendadas por la comunidad de aplicaciones de AngularJS, que incluyen el uso de directivas de flujo de control declarativas, manipualcion de componentes, el uso de ciclo de vida y la organización de los componentes en carpetas y subcarpetas según su función utilizando el Domain Driven Design (DDD).
 
-4. **C# (ASP.NET Core)**:
+4. **Java (SpringBoot)**:
 - Se seguirán las convenciones de codificación establecidas por Microsoft para el lenguaje C#, que incluyen el uso de PascalCase para nombres de clases y métodos, el uso de camelCase para nombres de variables locales y parámetros, y el uso de comentarios XML para documentar el código.
 - Para el desarrollo en ASP.NET Core, se adoptarán las directrices proporcionadas por Microsoft en sus guías de codificación, que incluyen el uso de inyección de dependencias, la separación clara entre capas de la aplicación y el uso de modelos de vista para la comunicación entre el controlador y la vista.
 
