@@ -362,28 +362,46 @@ del ABET – EAC - Student Outcome 5
         TB1:</strong> <br>
         Durante este entregable aprendí a realizar correctamente los user persona e impact map.
         <br>
+        TP:</strong> <br>
+        Durante este proceso de desarrollo del Sprint 2 aprendí usar correctamente la lógica del negocio en una aplicación web desarrollada en Angular.
+        <br>
         <strong>Velarde Gonzales Nestor Hernan
         <br>
         TB1:</strong> <br>
         Para esta entrega supimos elegir nuestros segmentos y personas para la entrevista, de esta manera conocemos sus puntos de vista.
+        <br>
+        TP:</strong> <br>
+        Para esta entrega nos esforzamos en la mejora y desarrollo del Front-end de nuestra AppWeb para nuestros segmentos objetivos.
         <br>
         <strong>Elias Torres
         <br>
         TB1:</strong> <br>
         He trabajado en el proyecto con nuevas herramientas vistas en el statement, así tendremos un entregable más profesional.
         <br>
+        TB1:</strong> <br>
+        Aprendí usar Angular frameword especialmente para los desarroolos del Front-End en aplicaciones Web y estuve activo durante el desarrollo del sprint 2.
+        <br>
         <strong>Huamani Sanchez Jose Diego
         <br>
         TB1:</strong> <br>
         En el desarrollo nos enfocamos en analizar la competencia para observar las necesidades del entorno.
         <br>
+        TP:</strong> <br>
+        Durante el desarrollo fue encargado de coordinar con el equipo para mejoras e implementación del front-end, aprendí usar nuevas herramientas en el angular.
+        <br>
         <td>Es esencial que el equipo se coordine para adaptarse a los cambios de planes en respuesta a los desafíos emergentes. Esta adaptabilidad no solo permite una resolución eficaz de los problemas, sino que también fomenta la resiliencia del equipo, permitiendo una mayor capacidad para manejar futuros obstáculos.</td>
     </tr>
 </table>
 
-# Conclusiones (Avance)
+# Conclusiones progresivas:
 
+## TB1:
 La implementación del proceso Lean UX en el Capítulo 1 ha facilitado una comprensión más profunda y una aplicación más eficaz de las herramientas en nuestra propuesta orientada al servicio de transporte para clientes. Además, ha contribuido a una definición más precisa de nuestro público objetivo o segmento al cual se dirige nuestra aplicación. Al finalizar la fase inicial de nuestro proyecto y tras identificar los principales problemas enfrentados por nuestros segmentos, llegamos a la conclusión de que la aplicación web MoviGestion sería beneficiosa para mejorar la experiencia tanto de los transportistas como de los empresarios que tienen flotas de camiones al utilizar la herramienta. El proceso de entrevistas ha sido fundamental para esclarecer la visión del proyecto desde la perspectiva del usuario, lo que ha resultado crucial para mejorar las funcionalidades de la aplicación.
+
+## TP: 
+Para esta entrega, hemos llegado a la conclusión de que las coordinaciones constantes dentro de nuestro equipo han sido esenciales para lograr un buen avance en este trabajo parcial. Durante el desarrollo del Sprint 2, hemos aplicado buenas técnicas y fomentado un ambiente de trabajo colaborativo en el equipo. Esta combinación de comunicación efectiva y enfoque en las mejores prácticas ha sido fundamental para alcanzar nuestros objetivos.
+
+Durante este período, hemos visto una mejora significativa en la productividad y calidad del trabajo realizado. La aplicación de las buenas técnicas de desarrollo nos ha permitido abordar los desafíos de manera más eficiente y responder de manera efectiva a los cambios en los requisitos del proyecto. Además, el trabajo en equipo ha fortalecido nuestra capacidad para resolver problemas de manera conjunta y aprovechar al máximo las habilidades individuales de cada miembro del equipo, el Sprint 2 fue desarrollada y desplegada a la nube. 
 
 # Bibliografia 
 Berné, M. (2023, 8 marzo). Criterios de aceptación: ejemplos para elaborarlos. Blog. https://www.scrummanager.com/blog/2023/03/criterios-de-aceptacion-definicion-y-ejemplos/ 
