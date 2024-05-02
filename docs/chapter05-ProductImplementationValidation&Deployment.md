@@ -511,6 +511,35 @@ Para la entrega de este Sprint, se alcanzó a implementar la actualización del 
 
 ### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
+En esta parte del Sprint, se detallará la secuencia de pasos que se llevó a cabo para realizar nuestro deployment de la Web Application con el servicio de Hosting de *Google Firebase*.
+
+1. Instalamos el CLI de Firebase en el root de nuestro proyecto.
+
+![Firebase CLI]()
+
+2. Procedemos a logearnos con nuestro coreo gmail y luego inicializamos el proyecto desde la root folder.
+
+![Login Firebase CLI]()
+
+
+3. Después, habilitamos las dependencias de hosting y database in real-time y lo vinculamos con nuestro proyecto.
+
+![]()
+
+![]()
+
+4. Finalmente, nos saldrá 2 enlaces (uno que es del hosting y otro para la consola del proyecto), de lo cual nos permitirá visualizar nuestro proyecto ya desplegado en el browser.
+
+![]()
+
+
+5. Y este seria el resultado final...
+
+![]()
+
+
+> [!TIP]  
+> Si necesitas una guía más detallada y quisieras conocer que servicios adicionales ofrece Firebase, te recomendamos que puedas acceder a su página para obtener toda la información que necesitas y así absolver tus dudas.
 
 
 ### 5.2.2.8.Team Collaboration Insights during Sprint.
@@ -529,15 +558,12 @@ A continuación, presentamos algunas capturas de pantalla que muestran los commi
 
 ### Landing Pages (Update version)
 
-![Contributors]()
+![Contributors](../assets/chapter05/Contributors_Landing.png)
 
-![Network Graph]()
+![Network Graph](../assets/chapter05/Network_Graph_Landing.png)
 
 ### Web Application
 
-![Contributors]()
+![Commits](../assets/chapter05/Commits_AppWeb.png)
 
-![Network Graph]()
-
-
-
+![Network Graph](../assets/chapter05/Network-Graph-WebApp.png)
