@@ -320,4 +320,10 @@ En cuanto a la elaboración del código, hemos asignado a cada miembro del equip
 Además, hemos realizado reuniones adicionales para intercambiar ideas y resolver cualquier duda o problema que pudiera surgir durante el desarrollo del landing page. Estas sesiones han contribuido de manera positiva al éxito del proyecto.
 A continuación, presentamos algunas capturas de pantalla que muestran los commits realizados por los miembros del equipo en GitHub:
 
-<!-- TODO: IMAGENES DE COMMITS -->
+### Evidences
+
+![Team Members](../assets/chapter05/teamMembers.png)
+
+![Contributors](../assets/chapter05/Sprint1_Team_Collaboration_Insights.png)
+
+![Network Graph](../assets/chapter05/sprint1_NetworkGraph.png)
