@@ -503,7 +503,42 @@ Para la entrega de este Sprint, se alcanzó a implementar la actualización del 
 
 ### 5.2.2.5.Execution Evidence for Sprint Review.
 
+Funcionalidades Implementadas en el desarrollo del FrontEnd:
+- Visualización de Login y Register para Businessman y Carrier
 
+![Login Bussinessman](../assets/chapter05/Acces-Businessman.png)
+
+- Acceso a su perfil con login y password personal. 
+
+![Login_Acces Bussinessman](../assets/chapter05/Login-Businessman.png)
+
+- Para Businessman se incluyó lo las funcionalidades de 'Reporte', 'Organización', 'Vehicules' y 'Home'.
+
+![Organizations Businessman](../assets/chapter05/Organizations-Businessman.png)
+
+- Verificación de reportes 
+
+![Report Businessman](../assets/chapter05/Report-Businessman.png)
+
+- Puede verificar los vehiculos registrados y monitorear en ello. 
+
+![Vehicule Carrier](../assets/chapter05/vehicules.png)
+
+
+Por otro lado, desarrollamos los interfaces para los carrier o transportistas, a continuación las funcionalidades. 
+
+- Login del trasportista para acceder a su cuenta
+
+![Login Carrier](../assets/chapter05/Login-carrier.png)
+
+- Vista principal del carrier para verifcar algunos tareas para la entrega u otros por parte de Businessman. 
+
+![Home Carrier](../assets/chapter05/Home-carrier.png)
+
+
+- Vista para realizar reportes por parte de carrier
+
+![Report Carrier](../assets/chapter05/Report-carrier.png)
 
 ### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
@@ -536,11 +571,6 @@ En esta parte del Sprint, se detallará la secuencia de pasos que se llevó a ca
 5. Y este seria el resultado final...
 
 ![]()
-
-
-> [!TIP]  
-> Si necesitas una guía más detallada y quisieras conocer que servicios adicionales ofrece Firebase, te recomendamos que puedas acceder a su página para obtener toda la información que necesitas y así absolver tus dudas.
-
 
 ### 5.2.2.8.Team Collaboration Insights during Sprint.
 
