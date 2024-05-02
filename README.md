@@ -274,6 +274,15 @@ del ABET – EAC - Student Outcome 5
         <br>
         -Contribución en puntos del Needfinding
         <br>
+        TP:</strong> <br>
+        -Desarrollo de font-end en la aplicación web.
+        <br>
+        -Mejora con el landing page
+        <br>
+        -Creación de ramas para el desarrollo de Aplicación web.
+        <br>
+        -Realización de Login, Register y vesualización de vehiculos en AppWeb.
+        <br>
         <strong>Velarde Gonzales Nestor Hernan
         <br>
         TB1:</strong> <br>
@@ -284,6 +293,15 @@ del ABET – EAC - Student Outcome 5
         -Implementación del diagrama de clases
         <br>
         -Mejora del Software Configuration Management
+        <br>
+         TP:</strong> <br>
+        -Aportar en el apartado del capitulo 05.
+        <br>
+        -Aporte en mejora en landing page.
+        <br>
+        -Desarollo de la parte organización en la AppWeb en front-end.
+        <br>
+        -Mejora general del informe.
         <br>
         <strong>Elias Torres
         <br>
@@ -298,6 +316,17 @@ del ABET – EAC - Student Outcome 5
         <br>
         -Implementación del landing page
         <br>
+        TP:</strong> <br>
+        -Mejora en Landing page
+        <br>
+        -Contribución en el Cap. 05.
+        <br>
+        -Desarrollo del front-end de la aplicación web. 
+        <br>
+        -Implementación del API-Services en Front-end.
+        <br>
+        -Implementación y mejora en el informe según las observaciones dadas en TB1.
+        <br>
         <strong>Huamani Sanchez Jose Diego
         <br>
         TB1:</strong> <br>
@@ -310,6 +339,17 @@ del ABET – EAC - Student Outcome 5
         -Ayuda en el Product Design
         <br>
         -Contribución con el landing page
+        <br>
+        TP:</strong> <br>
+        -Desarrollo del Capitulo 05.
+        <br>
+        -Desarollo del Front-End de la parte de reportes tanto del Bussinesman y Carrier.
+        <br>
+        -Contribución en la mejora del lading page.
+        <br>
+        -Despliegue del AppWeb del front-end.
+        <br>
+        -Mojora general del informe según las observaciones dadas en TB1.
         <br>
         <td>-La planificación del proyecto aseguró una buena distribución de tareas. Además, la colaboración activa de los miembros del equipo permitió la revision y corrección múltiple de tareas que se consideraban completadas.
         <br>
