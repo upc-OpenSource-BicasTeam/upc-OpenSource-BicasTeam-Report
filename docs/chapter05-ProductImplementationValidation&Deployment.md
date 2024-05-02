@@ -490,7 +490,16 @@ Como parte de la revisión del segundo sprint y para proporcionar pruebas tangib
 
 ### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 
+Para la entrega de este Sprint, se alcanzó a implementar la actualización del Landing Page que se presentó en el Sprint 1, y además se desarrolló la creación de la primera versión del Web Application de nuestro Startup donde este se enfoca en la parte funcional y visual de los principales apartados donde interactuará cada uno de nuestros segmentos objetivos.
 
+| Repository                                | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
+| [BicasTeam-AppWeb](https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-AppWeb) | main | asdasd     | conventional commit | deploy AppWeb | 01/05/2024|
+
+<br>
+
+| Web Application Desplegada                                          |[BicasTeam-WebApp]()                | 
+|---------------------|---------------------|
 
 ### 5.2.2.5.Execution Evidence for Sprint Review.
 ### 5.2.2.6.Services Documentation Evidence for Sprint Review.
