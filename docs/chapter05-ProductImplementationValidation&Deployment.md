@@ -490,56 +490,9 @@ Como parte de la revisión del segundo sprint y para proporcionar pruebas tangib
 
 ### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 
-En esta sección, presentamos la evidencia de las pruebas realizadas durante el sprint 2. Se detallan los 
-resultados de las pruebas unitarias, de integración y de aceptación, junto con cualquier otra forma de prueba 
-implementada. La documentación incluye los casos de prueba ejecutados, los resultados obtenidos y cualquier problema 
-o anomalía identificados durante las pruebas. Esta evidencia es crucial para evaluar la calidad del software 
-desarrollado y garantizar que cumpla con los criterios de aceptación definidos para el sprint.
+
 
 ### 5.2.2.5.Execution Evidence for Sprint Review.
-
-En esta sección, se proporciona evidencia de la documentación de los servicios desarrollados durante 
-el sprint actual. Se incluyen descripciones detalladas de los servicios, sus funcionalidades, puntos 
-de acceso, parámetros de entrada y salida, y cualquier otra información relevante para su implementación 
-y uso. Esta documentación es esencial para facilitar la comprensión y el uso adecuado de los servicios por 
-parte de otros equipos de desarrollo, así como para garantizar su integración efectiva en el sistema global.
-
 ### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 ### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 ### 5.2.2.8.Team Collaboration Insights during Sprint.
-
-En el desarrollo del trabajo del Sprint 2, se realizó usando algumas herramientas como el GitHub
-para trabajar colaborativamente en el desarrollo del proyecto y por otro lado para la comunicación 
-del equipo usamos el google meet y finalmente para la comunicación urgencias o consultas 
-rápidas se usó la plataforma de WhatsApp.
-
-WhatsApp
-
-![WhatsApp](../assets/chapter05/WhatsApp.png)
-
-Google Meet
-
-![GoogleMeet](../assets/chapter05/GoogleMeet.png)
-
-GitHub
-
-![GitHub](../assets/chapter05/GitHub.png)
-
-Tambien otras herramientas de desarrollo: 
-
-<table>
-	<tbody>
-		<tr>
-			<td>WebStorm</td>
-			<td>Entorno principal para nuestro desarrollo de software</td>
-		</tr>
-		<tr>
-			<td>Rider</td>
-			<td>Para el desarrollo de informes (MarkDown)</td>
-		</tr>
-		<tr>
-			<td>Firebase</td>
-			<td>Para el deploy del nuestra Front-end de App Web.</td>
-		</tr>
-	</tbody>
-</table>
