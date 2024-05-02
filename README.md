@@ -418,7 +418,7 @@ Link gitHub Repositorio: https://github.com/upc-OpenSource-BicasTeam/upc-OpenSou
 
 Link Github Landing page: https://github.com/upc-OpenSource-BicasTeam/upc-opensource-bicasteam-landingpage.github.io.git
 
-LandingPage Desplegado:  https://upc-opensource-bicasteam.github.io/upc-opensource-bicasteam-landingpage.github.io/
+LandingPage Desplegado:  https://6633f8d952829c3da8cab57f--capable-crumble-c0e22a.netlify.app/
 
 Repositorio de AppWeb: https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-AppWeb.git
 

@@ -326,26 +326,68 @@ A continuación, presentamos algunas capturas de pantalla que muestran los commi
 ------
 ------
 ### 5.2.2 SPRINT 2
-#### 5.2.2.1 Sprint Planing 2
+En esta sección, comentaremos y explicaremos el progreso tanto en el desarrollo del producto como en la colaboración del equipo durante el Sprint 2. Seguimos un proceso definido que abarca desde la planificación hasta la revisión y documentación del trabajo realizado. A lo largo de las siguientes secciones, detallaremos cómo se llevó a cabo la planificación del sprint, qué tareas se incluyeron en el Sprint Backlog, las pruebas y evidencia de desarrollo para la revisión del sprint, así como la documentación de los servicios y las percepciones clave sobre la colaboración del equipo durante este periodo.
 
+#### 5.2.2.1 Sprint Planing 2
+En esta sección, se detallan los aspectos principales del Sprint Planning Meeting para el Sprint n. Este encuentro es crucial para establecer los objetivos del sprint, determinar las user stories que se abordarán y asignar tareas al equipo. A continuación, se presenta un resumen del Sprint Planning Meeting para este período
+
+![Sprint Planing 2](/assets/chapter05/sprintPlaning2.png)
 
 #### 5.2.2.2 Sprint Backlog 2
+El Sprint 2 está centrado en el frontend de nuestra aplicación web, priorizando las historias de usuario identificadas. Nuestro objetivo principal es proporcionar a los usuarios una experiencia inicial sólida al presentar una navegación intuitiva y acceso rápido a las funcionalidades relevantes. Al completar las tareas asociadas a las historias de usuario definidas, sentaremos una buena base para la aplicación web, asegurando que lo propuesto contribuya al éxito del proyecto.
+URL del Board en Trello: 
 
+Link Trello: https://trello.com/invite/b/5B5dHJXJ/ATTI89c324fa13b11e255137811b14e197e78549A8F8/appweb-sprinbacklog-2 
+
+![ Trello Sprint Backlog 2](/assets/chapter05/trelloSprintPlaning2.png)
+
+![ Sprint backlog 2](/assets/chapter05/sprint%20backlog%202.png)
 
 #### 5.2.2.3 Development Evidence for Sprint review
+Esta sección documenta y presenta la serie de commits realizados en el repositorio de la Aplicación Web. Estos commits, que son una parte integral del proceso de desarrollo, se han gestionado utilizando la metodología GitFlow y siguiendo estrictamente las convenciones establecidas para los commits. Esta evidencia sirve como un registro transparente y trazable de nuestro progreso y esfuerzos de desarrollo a lo largo del sprint.
+
+![ development Evidence](/assets/chapter05/developmentEvidence.png)
 
 
 #### 5.2.2.4 Testing Suite Evidence for Sprint Review
+En esta sección, presentamos la evidencia de las pruebas realizadas durante el sprint. Hemos utilizado Gherkin para definir los escenarios de prueba y hemos registrado cada prueba en commits específicos en nuestro repositorio. A continuación, se muestra un registro de estos commits:
+![ Test Sprint backlog](/assets/chapter05/testSprintBacklog2.png)
 
 
 #### 5.2.2.5 Execution Evidence for Sprint Review
+Durante el Sprint 2, se logró un progreso significativo en la implementación de las características clave del frontend en la aplicación web. El equipo completó con éxito las historias de usuario asignadas para este sprint, que incluyeron el desarrollo del frontend en nuestra aplicación web, también con la integración de acceso visible a todas las opciones, incluso de un llamado a la acción prominente para dirigir a los visitantes a la aplicación web. El equipo trabajó de manera colaborativa para garantizar que las características implementadas cumplan con los requisitos y contribuyan a una experiencia de usuario positiva.
+
+![Evidence](/assets/chapter05/evidenceApp/homeBusinessman.png)
+![Evidence](/assets/chapter05/evidenceApp/homeCarrier.png)
+![Evidence](/assets/chapter05/evidenceApp/login.png)
+![Evidence](/assets/chapter05/evidenceApp/profile.png)
+![Evidence](/assets/chapter05/evidenceApp/registerInfo.png)
+![Evidence](/assets/chapter05/evidenceApp/registerSucessfully.png)
+![Evidence](/assets/chapter05/evidenceApp/registerType.png)
+![Evidence](/assets/chapter05/evidenceApp/reportsBusinessman.png)
+![Evidence](/assets/chapter05/evidenceApp/reportsCarrier.png)
+![Evidence](/assets/chapter05/evidenceApp/shipmentsBusinessman.png)
+![Evidence](/assets/chapter05/evidenceApp/shipmentsCarrier.png)
+![Evidence](/assets/chapter05/evidenceApp/vehicleCarrier.png)
+![Evidence](/assets/chapter05/evidenceApp/vehiclesBusinessman.png)
+
 
 
 #### 5.2.2.6 Services Documentation Evidence for Sprint Review
-
+Durante este Sprint 2, nos enfocamos en desarrollar el “App web Solution”, sin implementación de ningún servicio. Por lo tanto, este punto quedará sin actividad en este aspecto.
 
 #### 5.2.2.7 Software Deployment Evidence for Sprint Review
+Durante el Sprint 2, llevamos a cabo el despliegue de nuestra aplicación web en GitHub Pages. A continuación, detallamos los pasos realizados:
+- Creación del Repositorio en GitHub: Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de aplicación web.
+- Configuración de la Rama main: Aseguramos que la rama principal del repositorio se llamará main, ya que GitHub Pages toma esta rama como base para el despliegue automático.
+- Preparación del Contenido: Desarrollamos y diseñamos nuestra aplicación web, asegurándonos de que todos los archivos y recursos necesarios estuvieran presentes en el repositorio.
+- Generación del enlace de GitHub Pages: Navegamos a la sección "Pages" en la configuración del repositorio en GitHub. Configuramos la fuente del GitHub Pages para que tomara el contenido de la rama main.
+- Despliegue Automático: GitHub Pages automáticamente detectó los cambios en la rama main y desplegó la aplicación web en la URL proporcionada por GitHub Pages.
 
 
 #### 5.2.2.8 Team Collaboration Insights during Sprint
+Durante este segundo Sprint, hemos avanzado el desarrollo de la aplicación web y hemos colaborado estrechamente en su implementación. La colaboración entre los miembros del equipo se refleja en los diversos commits realizados en el repositorio de GitHub, los cuales han sido debidamente documentados en las capturas de pantalla adjuntas. Para asegurar una colaboración efectiva, hemos implementado GitFlow como nuestra metodología de trabajo colaborativo en Git. Con GitFlow, hemos creado ramas para cada una de las secciones de nuestra aplicación web. Esto nos ha permitido trabajar de manera organizada y centrarnos en completar correctamente las historias de usuario designadas para cada sección. En cuanto a la elaboración del código, hemos asignado a cada miembro del equipo una sección específica de la aplicación web. Esta estrategia nos ha permitido avanzar de manera más eficiente y completar el trabajo antes de la fecha de entrega. Además, hemos realizado reuniones adicionales para intercambiar ideas y resolver cualquier duda o problema que pudiera surgir durante el desarrollo del landing page. Estas sesiones han contribuido de manera positiva al éxito del proyecto. A continuación, presentamos algunas capturas de pantalla que muestran los commits realizados por los miembros del equipo en GitHub:
 
+![ANALitica](/assets/chapter05/analityc1.png)
+![ANALitica](/assets/chapter05/analityc2.png)
+![ANALitica](/assets/chapter05/analityc3.png)
