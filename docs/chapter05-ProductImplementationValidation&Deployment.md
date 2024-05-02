@@ -321,3 +321,31 @@ Además, hemos realizado reuniones adicionales para intercambiar ideas y resolve
 A continuación, presentamos algunas capturas de pantalla que muestran los commits realizados por los miembros del equipo en GitHub:
 
 <!-- TODO: IMAGENES DE COMMITS -->
+
+------
+------
+------
+### 5.2.2 SPRINT 2
+#### 5.2.2.1 Sprint Planing 2
+
+
+#### 5.2.2.2 Sprint Backlog 2
+
+
+#### 5.2.2.3 Development Evidence for Sprint review
+
+
+#### 5.2.2.4 Testing Suite Evidence for Sprint Review
+
+
+#### 5.2.2.5 Execution Evidence for Sprint Review
+
+
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review
+
+
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review
+
+
+#### 5.2.2.8 Team Collaboration Insights during Sprint
+

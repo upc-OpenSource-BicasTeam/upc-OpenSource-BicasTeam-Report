@@ -420,6 +420,10 @@ Link Github Landing page: https://github.com/upc-OpenSource-BicasTeam/upc-openso
 
 LandingPage Desplegado:  https://upc-opensource-bicasteam.github.io/upc-opensource-bicasteam-landingpage.github.io/
 
+Repositorio de AppWeb: https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-AppWeb.git
+
+AppWeb desplegada: https://upc-opensource-bicasteam.github.io/upc-OpenSource-BicasTeam-AppWeb/login
+
 Figma Landing Page: https://www.figma.com/file/gu0SdYkebsOKLB8p5YvOzL/BicasTeam-OpenSource?type=design&node-id=0%3A1&mode=design&t=nmvBnCRmQ5e71hnB-1
 
 Figma App Web: https://www.figma.com/file/UznJufoIMBwWow9ny8cXO5/Web-Application_BicasTeam?type=design&node-id=126%3A98&mode=design&t=QAcsG0V5XHFwF6rg-1
