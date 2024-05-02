@@ -496,3 +496,42 @@ Como parte de la revisión del segundo sprint y para proporcionar pruebas tangib
 ### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 ### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 ### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+Llegamos a nuestro segundo Sprint. Logramos completar el desarrollo de la primera versión de nuestro Web Application y hemos logrado actualizar nuestro Landing Page; nos apoyamos de manera crucial ante cualquier inconveniente o duda que ocurría durante la implementación de nuestro proyecto. La colaboración entre los miembros del equipo, queda como siempre, más que reflejada en los diversos *commits* realizados en el repositorio de GitHub, los cuales han sido debidamente documentados en las capturas de pantalla adjuntas para una mejor interpretación y busqueda de la información.
+En cuanto a la elaboración del código, mediante una reunión hemos asignado a cada miembro del equipo una sección específica del Web Application. Esta estrategia nos ha permitido avanzar de manera muy proactiva y de forma continua para llegar al fin del Sprint.
+Adicionalmente, hemos realizado reuniones adicionales para intercambiar ideas y resolver cualquier duda o problema que pudiera surgir durante el desarrollo del Web Application; por lo que, estas sesiones han contribuido de manera positiva para seguir alcanzando el éxito esperado.
+
+A continuación, presentamos algunas capturas de pantalla que muestran los commits realizados por todos los miembros del equipo en cada repositorio de GitHub:
+
+- Herramientas usadas
+
+WhatsApp
+
+![WhatsApp](../assets/chapter05/WhatsApp.png)
+
+Google Meet
+
+![GoogleMeet](../assets/chapter05/GoogleMeet.png)
+
+GitHub
+
+![GitHub](../assets/chapter05/GitHub.png)
+
+Tambien otras herramientas de desarrollo:
+
+<table>
+	<tbody>
+		<tr>
+			<td>WebStorm</td>
+			<td>Entorno principal para nuestro desarrollo de software</td>
+		</tr>
+		<tr>
+			<td>Rider</td>
+			<td>Para el desarrollo de informes (MarkDown)</td>
+		</tr>
+		<tr>
+			<td>Firebase</td>
+			<td>Para el deploy del nuestra Front-end de App Web.</td>
+		</tr>
+	</tbody>
+</table>
