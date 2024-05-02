@@ -350,10 +350,97 @@ Para este segundo Sprint, se detallan los aspectos principales del Sprint Planni
 | Sprint 1 – 1 Retrospective Summary   |  Como restrospectiva, sentimos que la parte de adaptibilidad y posicionamiento de algunos componentes visuales dentro del Web Application, pueden mejorar para el siguiente Sprint.  |
 | Sprint Goal & User Stories                                |
 | Sprint 1 Goal                        | Focalizar la interoperabilidad de cada uno de los componentes de nuestro Web Application para que este se encuentre funcional para los diferentes escenarios en base a nuestros segmentos objetivos.    |
-| Sprint 1 Velocity                    | Acordamos aceptar 18 Story Points para este segundo Sprint, esto en base tanto al tiempo que el cual nos encontrabamos como nuestra capacidad de entrega para este sprint.     |
-| Sum of Story Points                  | Abarcando desde el US1 al US6, hemos establecedio que cada uno de ellos tiene un estimation points de 3.  |
+| Sprint 1 Velocity                    | Acordamos aceptar 12 Story Points para este segundo Sprint, esto en base tanto al tiempo que el cual nos encontrabamos como nuestra capacidad de entrega para este sprint.     |
+| Sum of Story Points                  | Abarcando desde el US1 al US6, hemos establecedio que cada uno de ellos tiene un estimation points de 2.  |
 
+### 5.2.2.2 Sprint Backlog 2
 
+El Sprint 2 está centrado en la implementación de las funcionalidades clave de la aplicación web, priorizando las historias de usuario identificadas. El objetivo principal que tenemos es proporcionar a nuestros segmentos objetivos, los cuales vienen a ser los choferes como los administradores de flota, una interacción dinámica y simple al momento de utilizar nuestra aplicación; buscando que se atiendan a sus principales actividades cotidianas. Al completar las tareas asociadas a las historias de usuario definidas, sentaremos las bases para futuras iteraciones, asegurando que la página de inicio cumpla con las expectativas de los usuarios y contribuya al éxito del proyecto.
+
+URL del Board en Trello: https://trello.com/invite/b/TT8YPgUz/ATTI4bb05e4b7d8c2ff4ea3deb78d28ab54e3E09ABBF/movigestion-product-backlog
+
+![Board Trello](../assets/chapter05/Sprint_Backlog_2_board.png)
+
+<table>
+    <tr>
+        <td colspan="2">Sprint #</td>
+        <td colspan="6">Sprint 1</td>
+    </tr>
+    <tr>
+        <td colspan="2">User Story</td>
+        <td colspan="6">Work-Item / Task</td>
+    </tr>
+    <tr>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Descripcion</td>
+        <td>Estimation (Hours)</td>
+        <td>Assigned To</td>
+        <td>Status (To-do / In / Process / ToReview / Done)</td>
+    </tr>
+    <tr>
+        <td>US01</td>
+        <td>Web Application - Visualización de estadísticas de transportistas</td>
+        <td>T11</td>
+        <td>Visualización de paquetes entregados por un transportista.</td>
+        <td>Mostrar la Visualización del registro de paquetes entregados por un transportista para medir su rendimiento.</td>
+        <td>3 hora</td>
+        <td>Nestor Velarde</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Web Application - Visualización de estadísticas de transportistas</td>
+        <td>T12</td>
+        <td>Visualización de reportes de un transportista.</td>
+        <td>Permitir la visualización de los reportes hechos por los transportistas para que el gerente tome decisiones estratégicas en los próximos envíos.</td>
+        <td>3 hora</td>
+        <td>Jose diego Huamani</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US03</td>
+        <td>Web Application - Visualización de estadísticas de transportistas</td>
+        <td>T13</td>
+        <td>Visualización de envíos asignados a un transportista.</td>
+        <td>Crear una Visualización de los envíos asignados de un transportista para el gerente mida el rendimiento de sus empleados durante sus trayectos.</td>
+        <td>3 hora</td>
+        <td>Nestor Velarde</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US04</td>
+        <td>Web Application - Visualización de envíos asignados a un transportista</td>
+        <td>T14</td>
+        <td>Visualización de envíos asignados.</td>
+        <td>Crear una Visualización de los envíos que se le ha hecho a un determinado transportista y que este incluya detalles sobre los envíos y destinos correspondientes para que pueda organizar mejor el orden de sus tareas.</td>
+        <td>3 hora</td>
+        <td>Elias Torres</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US05</td>
+        <td>Web Application - Visualización de estadísticas propias</td>
+        <td>T15</td>
+        <td>Visualización de paquetes entregados.</td>
+        <td>Mostrar la Visualización los paquetes que el transportista ha entregado, para que este pueda tener un comprobante de medición del trabajo diario.</td>
+        <td>3 hora</td>
+        <td>Miguel Huarcaya</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US06</td>
+        <td>Web Application - Visualización de estadísticas propias</td>
+        <td>T16</td>
+        <td>Visualización de reportes realizados.</td>
+        <td>Mostrar la visualización de los reportes que desarrolló el transportista durante su labor, con la finalidad de tener un historial de incidencia en su trabajo.</td>
+        <td>3 hora</td>
+        <td>José Huamani</td>
+        <td>Done</td>
+    </tr>
+</table>
 
 ### 5.2.2.3.Development Evidence for Sprint Review.
 
