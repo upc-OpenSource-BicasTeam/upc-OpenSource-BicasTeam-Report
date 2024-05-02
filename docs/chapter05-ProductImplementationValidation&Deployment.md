@@ -327,3 +327,29 @@ A continuación, presentamos algunas capturas de pantalla que muestran los commi
 ![Contributors](../assets/chapter05/Sprint1_Team_Collaboration_Insights.png)
 
 ![Network Graph](../assets/chapter05/sprint1_NetworkGraph.png)
+
+
+### 5.2.1 Sprint 2
+
+En esta sección, documentaremos y explicaremos el progreso tanto en el desarrollo del producto como en la colaboración del equipo durante el Sprint 1. Seguimos un proceso definido que abarca desde la planificación hasta la revisión y documentación del trabajo realizado. A lo largo de las siguientes secciones, detallaremos cómo se llevó a cabo la planificación del sprint, qué tareas se incluyeron en el Sprint Backlog, las pruebas y evidencia de desarrollo para la revisión del sprint, así como la documentación de los servicios y las percepciones clave sobre la colaboración del equipo durante este periodo
+
+### 5.2.2.1 Sprint Planning 1
+
+Para este segundo Sprint, se detallan los aspectos principales del Sprint Planning Meeting que tuvimos mediante la plataforma Discord. Este encuentro es crucial para establecer los objetivos de este nuevo sprint, determinar las nuevas user stories que se abordarán y asignar tareas al equipo. Es por ello que se presentará un breve resumen del Sprint Planning Meeting para este período.
+
+
+| Sprint #                             | Sprint 1           |
+|--------------------------------------|--------------------|
+| Sprint Planning Background                                |
+| Date                                 |  2024-04-23        |
+| Time                                 |  07:50 PM          |
+| Location                             |  Virtual (Discord) |
+| Prepared By                          |   Miguel Huarcaya Chavez   |
+| Attendees (to planning meeting)      |  Todo el equipo |
+| Sprint 1 – 1 Review Summary          |  Durante el segundo sprint, se actualizó la
+version de nuestro Landing Page, añadiendo una pequeña funcionalidad; asímismo, se elaboró y desplegó la primera versión de nuestro Web Applicaction, consolidando algunos features  de los user stories que tenemos en nuestro Sprint Backlog.  |
+| Sprint 1 – 1 Retrospective Summary   |  Como restrospectiva, sentimos que la parte de adaptibilidad y posicionamiento de algunos componentes visuales dentro del Web Application, pueden mejorar para el siguiente Sprint.  |
+| Sprint Goal & User Stories                                |
+| Sprint 1 Goal                        | Focalizar la interoperabilidad de cada uno de los componentes de nuestro Web Application para que este se encuentre funcional para los diferentes escenarios en base a nuestros segmentos objetivos.    |
+| Sprint 1 Velocity                    | Acordamos aceptar 18 Story Points para este segundo Sprint, esto en base tanto al tiempo que el cual nos encontrabamos como nuestra capacidad de entrega para este sprint.     |
+| Sum of Story Points                  | Abarcando desde el US1 al US6, hemos establecedio que cada uno de ellos tiene un estimation points de 3.  |
