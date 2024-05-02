@@ -444,6 +444,8 @@ URL del Board en Trello: https://trello.com/invite/b/TT8YPgUz/ATTI4bb05e4b7d8c2f
 
 ### 5.2.2.3.Development Evidence for Sprint Review.
 
+Como parte de la revisión del segundo sprint y para proporcionar pruebas tangibles de nuestro progreso, hemos documentado todos los cambios realizados en forma de *commits* en el repositorio donde se aloja nuestro Web Application. Durante este sprint, nos enfocamos en el desarrollo de la primera versión de nuestro Frontend Web Application de nuestra startup. Los commits registrados, reflejan el trabajo árduo que hemos realizado:
+
 <table>
 	<tbody>
 		<tr>
