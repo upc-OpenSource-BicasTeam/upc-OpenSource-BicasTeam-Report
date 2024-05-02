@@ -69,25 +69,25 @@ Con estas prácticas y convenciones adaptadas a una organización en GitHub, bus
 
 ### 5.1.3 Source Code Style Guide & Conventions.
 
-En esta sección, se establece las convenciones y prácticas que seguiremos para nombrar elementos y programar en los lenguajes utilizados en la solución, que incluyen HTML, CSS, JavaScript, Vue.js, C#, y Gherkin para los archivos `.feature`. Todas las convenciones seguirán la nomenclatura en inglés y adoptarán convenciones estándares de codificación.
+En esta sección, se establece las convenciones y prácticas que seguiremos para nombrar elementos y programar en los lenguajes utilizados en la solución, que incluyen HTML, CSS, TypeScript, AngularJS, Java, y Gherkin para los archivos `.feature`. Todas las convenciones seguirán la nomenclatura en inglés y adoptarán convenciones estándares de codificación.
 
 1. **HTML y CSS**:
 - Basado en las recomendaciones de W3C y otras fuentes de la comunidad, se establecerán convenciones para el nombramiento de elemntos hTML y estilo de la codificación CSS.
 - Se seguirán las convenciones recomendadas por Google para HTML y CSS, que incluyen el uso de identaciones de 2 espacios, el uso de comillas dobles para atributos y el uso de comentarios descriptivos.
 - Se utilizará la metodologìa BEM para organizar las clases CSS en bloques, elementos y modificadores, lo que facilitará la modularidad y la reutilización del código. 
 - Se debe utilizar los elementos HTML de manera semántica para una correcta descripción del contenido del sitio web, incluyendo el uso adecuado de etiquetas.
-- Para el desarrollo con Vue.js, se adoptarán las convenciones recomendadas por la comunidad de Vue, que incluyen el uso de PascalCase para los nombres y componentes y el uso de camelCase para las propiedades y métodos de los componentes.
+- Para el desarrollo con AngularJS, se adoptarán las convenciones recomendadas por la comunidad de Angular, que incluyen el uso de PascalCase para los nombres y componentes y el uso de camelCase para las propiedades y métodos de los componentes.
 
-2. **JavaScript**:
-- Se tomarán en cuenta las directrices proporcionadas por MDN para la escritura de JavaScript, que incluyen el uso de nombres descriptivos para variables y funciones en camelCase, el uso de declaración de variavles con `let` o `const` en lugar de `var`, y el uso de punto y coma al final de cada declaración.
+2. **TypeScript**:
+- Se tomarán en cuenta las directrices proporcionadas por TypeScript Handbook para la escritura del superset JavaScript, que incluyen el uso de nombres descriptivos para variables y funciones en camelCase, el uso de declaración de variables con `let` o `const` en lugar de `var`, y el uso de punto y coma al final de cada declaración.
 - Se seguirán las convenciones de codificación recomendadas por Google para JavaScript, que incluyen el uso de comillas simples para literales de cadena, el uso de comentarios descriptivos y el uso de funciones de flecha para expresiones de función.
 
 3. **AngularJS**:
 - Se adoptarán las convenciones de codificación recomendadas por la comunidad de aplicaciones de AngularJS, que incluyen el uso de directivas de flujo de control declarativas, manipualcion de componentes, el uso de ciclo de vida y la organización de los componentes en carpetas y subcarpetas según su función utilizando el Domain Driven Design (DDD).
 
 4. **Java (SpringBoot)**:
-- Se seguirán las convenciones de codificación establecidas por Microsoft para el lenguaje C#, que incluyen el uso de PascalCase para nombres de clases y métodos, el uso de camelCase para nombres de variables locales y parámetros, y el uso de comentarios XML para documentar el código.
-- Para el desarrollo en ASP.NET Core, se adoptarán las directrices proporcionadas por Microsoft en sus guías de codificación, que incluyen el uso de inyección de dependencias, la separación clara entre capas de la aplicación y el uso de modelos de vista para la comunicación entre el controlador y la vista.
+- Se seguirán las convenciones de codificación establecidas por Manual de Código Limpio para el lenguaje Java, que incluyen el uso de PascalCase para nombres de clases y métodos, el uso de camelCase para nombres de variables locales y parámetros, y el uso de comentarios XML para documentar el código.
+- Para el desarrollo en SpringBoot, se adoptarán las directrices proporcionadas por Spring en sus guías de codificación, que incluyen el uso de inyección de dependencias, la separación clara entre capas de la aplicación y el uso de modelos de vista para la comunicación entre el controlador y la vista.
 
 5. **Gherkin**:
 - Se aplicarán las convenciones recomendadas para escribir especificaciones legibles en Gherkin, que incluyen el uso de palabras clave como Given, When y Then para describir el comportamiento del sistema, el uso de un lenguaje sencillo y claro, y la organización de los escenarios en contextos, acciones y resultados.
@@ -364,7 +364,7 @@ URL del Board en Trello: https://trello.com/invite/b/TT8YPgUz/ATTI4bb05e4b7d8c2f
 <table>
     <tr>
         <td colspan="2">Sprint #</td>
-        <td colspan="6">Sprint 1</td>
+        <td colspan="6">Sprint 2</td>
     </tr>
     <tr>
         <td colspan="2">User Story</td>
