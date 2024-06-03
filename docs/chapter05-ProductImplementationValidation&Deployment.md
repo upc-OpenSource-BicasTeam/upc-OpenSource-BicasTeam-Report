@@ -398,3 +398,24 @@ Durante este segundo Sprint, hemos avanzado el desarrollo de la aplicación web 
 
 #### 5.2.3.1 Sprint Planning 3
 
+#### 5.2.3.2 Sprint Backlog 3
+
+#### 5.2.3.3 Development Evidence for Sprint Review
+
+#### 5.2.3.4 Execution Evidence for Sprint Review
+
+#### 5.2.3.5 Services Documentation Evidence for Sprint Review
+
+#### 5.2.3.6 Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.7 Team Collaboration Insights during Sprint
+
+## 5.3  Validation Interviews
+
+### 5.3.1 Diseño de Entrevsitas
+
+### 5.3.2 Regsitro de Entrevistas
+
+### 5.3.3 Evaluaciones segun heuristicas
+
+## 5.4 Video About-The-Product
