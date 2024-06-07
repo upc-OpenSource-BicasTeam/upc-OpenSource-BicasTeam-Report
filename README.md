@@ -417,11 +417,16 @@ Link gitHub Repositorio: https://github.com/upc-OpenSource-BicasTeam/upc-OpenSou
 
 Link Github Landing page: https://github.com/upc-OpenSource-BicasTeam/upc-opensource-bicasteam-landingpage.github.io.git
 
-LandingPage Desplegado:  https://6633f8d952829c3da8cab57f--capable-crumble-c0e22a.netlify.app/
+Landing Page Desplegado:  https://6633f8d952829c3da8cab57f--capable-crumble-c0e22a.netlify.app/
 
 Repositorio de AppWeb: https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-AppWeb.git
 
 AppWeb desplegada: https://upc-opensource-bicasteam.github.io/upc-OpenSource-BicasTeam-AppWeb/login
+
+Repositorio Api: <https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-api.git>
+
+TODO:
+Api Desplegado:
 
 Figma Landing Page: https://www.figma.com/file/gu0SdYkebsOKLB8p5YvOzL/BicasTeam-OpenSource?type=design&node-id=0%3A1&mode=design&t=nmvBnCRmQ5e71hnB-1
 
@@ -433,3 +438,9 @@ Video EXPO TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc
 
 VIDEO EXPO TP1:
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EfaLmMLckx1Kq_ZuYNLlGUABYdZCjkFYCZa6iPgSWQVWKg?e=nfmfOf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+VIDEO EXPO TB2: 
+
+VIDEO ABOUT THE TEAM: 
+
+VIDEO ABOUT THE PRODUCT: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EVzNfjl7ZRtAvgrVtGxeeSEB24lFo7SCNzRMpCjNjY7bRg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sBmRa5>
