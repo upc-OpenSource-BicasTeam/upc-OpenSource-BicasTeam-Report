@@ -425,8 +425,6 @@ AppWeb desplegada: https://upc-opensource-bicasteam.github.io/upc-OpenSource-Bic
 
 Repositorio Api: <https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-api.git>
 
-TODO:
-Api Desplegado:
 
 Figma Landing Page: https://www.figma.com/file/gu0SdYkebsOKLB8p5YvOzL/BicasTeam-OpenSource?type=design&node-id=0%3A1&mode=design&t=nmvBnCRmQ5e71hnB-1
 
@@ -439,7 +437,7 @@ Video EXPO TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc
 VIDEO EXPO TP1:
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EfaLmMLckx1Kq_ZuYNLlGUABYdZCjkFYCZa6iPgSWQVWKg?e=nfmfOf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-VIDEO EXPO TB2: 
+VIDEO EXPO TB2: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EaEeMCxVb8hJvexNjeGlaMwBSEGAn7hs-3n_N0ktuo-S9Q?e=WDP9m7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 
 VIDEO ABOUT THE TEAM: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/ERrz6FQtUw9Hg2-ek2OGb9sBx2pDGc9M3oa8XNDSkrA_2Q?e=O5fwdd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 
