@@ -320,341 +320,472 @@ En cuanto a la elaboración del código, hemos asignado a cada miembro del equip
 Además, hemos realizado reuniones adicionales para intercambiar ideas y resolver cualquier duda o problema que pudiera surgir durante el desarrollo del landing page. Estas sesiones han contribuido de manera positiva al éxito del proyecto.
 A continuación, presentamos algunas capturas de pantalla que muestran los commits realizados por los miembros del equipo en GitHub:
 
-### Evidences
-
-![Team Members](../assets/chapter05/teamMembers.png)
-
-![Contributors](../assets/chapter05/Sprint1_Team_Collaboration_Insights.png)
-
-![Network Graph](../assets/chapter05/sprint1_NetworkGraph.png)
-
-
-### 5.2.1 Sprint 2
-
-En esta sección, documentaremos y explicaremos el progreso tanto en el desarrollo del producto como en la colaboración del equipo durante el Sprint 1. Seguimos un proceso definido que abarca desde la planificación hasta la revisión y documentación del trabajo realizado. A lo largo de las siguientes secciones, detallaremos cómo se llevó a cabo la planificación del sprint, qué tareas se incluyeron en el Sprint Backlog, las pruebas y evidencia de desarrollo para la revisión del sprint, así como la documentación de los servicios y las percepciones clave sobre la colaboración del equipo durante este periodo
-
-### 5.2.2.1 Sprint Planning 2
-
-Para este segundo Sprint, se detallan los aspectos principales del Sprint Planning Meeting que tuvimos mediante la plataforma Discord. Este encuentro es crucial para establecer los objetivos de este nuevo sprint, determinar las nuevas user stories que se abordarán y asignar tareas al equipo. Es por ello que se presentará un breve resumen del Sprint Planning Meeting para este período.
-
-
-| Sprint #                             | Sprint 1           |
-|--------------------------------------|--------------------|
-| Sprint Planning Background                                |
-| Date                                 |  2024-04-23        |
-| Time                                 |  07:50 PM          |
-| Location                             |  Virtual (Discord) |
-| Prepared By                          |   Miguel Huarcaya Chavez   |
-| Attendees (to planning meeting)      |  Todo el equipo |
-| Sprint 1 – 1 Review Summary          |  Durante el segundo sprint, se actualizó la version de nuestro Landing Page, añadiendo una pequeña funcionalidad; asímismo, se elaboró y desplegó la primera versión de nuestro Web Applicaction, consolidando algunos features  de los user stories que tenemos en nuestro Sprint Backlog.  |
-| Sprint 1 – 1 Retrospective Summary   |  Como restrospectiva, sentimos que la parte de adaptibilidad y posicionamiento de algunos componentes visuales dentro del Web Application, pueden mejorar para el siguiente Sprint.  |
-| Sprint Goal & User Stories                                |
-| Sprint 1 Goal                        | Focalizar la interoperabilidad de cada uno de los componentes de nuestro Web Application para que este se encuentre funcional para los diferentes escenarios en base a nuestros segmentos objetivos.    |
-| Sprint 1 Velocity                    | Acordamos aceptar 12 Story Points para este segundo Sprint, esto en base tanto al tiempo que el cual nos encontrabamos como nuestra capacidad de entrega para este sprint.     |
-| Sum of Story Points                  | Abarcando desde el US1 al US6, hemos establecedio que cada uno de ellos tiene un estimation points de 2.  |
-
-### 5.2.2.2 Sprint Backlog 2
-
-El Sprint 2 está centrado en la implementación de las funcionalidades clave de la aplicación web, priorizando las historias de usuario identificadas. El objetivo principal que tenemos es proporcionar a nuestros segmentos objetivos, los cuales vienen a ser los choferes como los administradores de flota, una interacción dinámica y simple al momento de utilizar nuestra aplicación; buscando que se atiendan a sus principales actividades cotidianas. Al completar las tareas asociadas a las historias de usuario definidas, sentaremos las bases para futuras iteraciones, asegurando que la página de inicio cumpla con las expectativas de los usuarios y contribuya al éxito del proyecto.
-
-URL del Board en Trello: https://trello.com/invite/b/TT8YPgUz/ATTI4bb05e4b7d8c2ff4ea3deb78d28ab54e3E09ABBF/movigestion-product-backlog
-
-![Board Trello](../assets/chapter05/Sprint_Backlog_2_board.png)
-
-<table>
-    <tr>
-        <td colspan="2">Sprint #</td>
-        <td colspan="6">Sprint 2</td>
-    </tr>
-    <tr>
-        <td colspan="2">User Story</td>
-        <td colspan="6">Work-Item / Task</td>
-    </tr>
-    <tr>
-        <td>Id</td>
-        <td>Title</td>
-        <td>Id</td>
-        <td>Title</td>
-        <td>Descripcion</td>
-        <td>Estimation (Hours)</td>
-        <td>Assigned To</td>
-        <td>Status (To-do / In / Process / ToReview / Done)</td>
-    </tr>
-    <tr>
-        <td>US01</td>
-        <td>Web Application - Visualización de estadísticas de transportistas</td>
-        <td>T11</td>
-        <td>Visualización de paquetes entregados por un transportista.</td>
-        <td>Mostrar la Visualización del registro de paquetes entregados por un transportista para medir su rendimiento.</td>
-        <td>3 hora</td>
-        <td>Nestor Velarde</td>
-        <td>Done</td>
-    </tr>
-    <tr>
-        <td>US02</td>
-        <td>Web Application - Visualización de estadísticas de transportistas</td>
-        <td>T12</td>
-        <td>Visualización de reportes de un transportista.</td>
-        <td>Permitir la visualización de los reportes hechos por los transportistas para que el gerente tome decisiones estratégicas en los próximos envíos.</td>
-        <td>3 hora</td>
-        <td>Jose diego Huamani</td>
-        <td>Done</td>
-    </tr>
-    <tr>
-        <td>US03</td>
-        <td>Web Application - Visualización de estadísticas de transportistas</td>
-        <td>T13</td>
-        <td>Visualización de envíos asignados a un transportista.</td>
-        <td>Crear una Visualización de los envíos asignados de un transportista para el gerente mida el rendimiento de sus empleados durante sus trayectos.</td>
-        <td>3 hora</td>
-        <td>Nestor Velarde</td>
-        <td>Done</td>
-    </tr>
-    <tr>
-        <td>US04</td>
-        <td>Web Application - Visualización de envíos asignados a un transportista</td>
-        <td>T14</td>
-        <td>Visualización de envíos asignados.</td>
-        <td>Crear una Visualización de los envíos que se le ha hecho a un determinado transportista y que este incluya detalles sobre los envíos y destinos correspondientes para que pueda organizar mejor el orden de sus tareas.</td>
-        <td>3 hora</td>
-        <td>Elias Torres</td>
-        <td>Done</td>
-    </tr>
-    <tr>
-        <td>US05</td>
-        <td>Web Application - Visualización de estadísticas propias</td>
-        <td>T15</td>
-        <td>Visualización de paquetes entregados.</td>
-        <td>Mostrar la Visualización los paquetes que el transportista ha entregado, para que este pueda tener un comprobante de medición del trabajo diario.</td>
-        <td>3 hora</td>
-        <td>Miguel Huarcaya</td>
-        <td>Done</td>
-    </tr>
-    <tr>
-        <td>US06</td>
-        <td>Web Application - Visualización de estadísticas propias</td>
-        <td>T16</td>
-        <td>Visualización de reportes realizados.</td>
-        <td>Mostrar la visualización de los reportes que desarrolló el transportista durante su labor, con la finalidad de tener un historial de incidencia en su trabajo.</td>
-        <td>3 hora</td>
-        <td>José Huamani</td>
-        <td>Done</td>
-    </tr>
-</table>
-
-### 5.2.2.3.Development Evidence for Sprint Review.
 
-Como parte de la revisión del segundo sprint y para proporcionar pruebas tangibles de nuestro progreso, hemos documentado todos los cambios realizados en forma de *commits* en el repositorio donde se aloja nuestro Web Application. Durante este sprint, nos enfocamos en el desarrollo de la primera versión de nuestro Frontend Web Application de nuestra startup. Los commits registrados, reflejan el trabajo árduo que hemos realizado:
 
-<table>
-	<tbody>
-		<tr>
-			<td>Repository</td>
-			<td>Branch</td>
-			<td>Commit ID</td>
-			<td>Commit message</td>
-			<td>Commit Message Body</td>
-			<td>Commit on (date)</td>
-		</tr>
-		<tr>
-			<td rowspan="9">Link de nuestra FRONT-END</td>
-			<td>feature/main-content-flow</td>
-			<td>008c9d66f26e1417581e23bab4701f4ca65b4bfe</td>
-			<td>feat(main-content-flow): add workshop card and list.</td>
-			<td>-</td>
-			<td>01/05/2024</td>
-		</tr>
-		<tr>
-			<td>feature/reports-management</td>
-			<td>8b2227fe6607b078f43507878282b86d00ca9636</td>
-			<td>feat(reports-management): visualization vehicle componentices</td>
-			<td>-</td>
-			<td>01/05/2024</td>
-		</tr>
-		<tr>
-			<td>feature/shipment-management</td>
-			<td>c9049f7622e6179476839d1fd3acf3c317729715</td>
-			<td>feat(shipment-management): added Main in app.vue</td>
-			<td>-</td>
-			<td>01/05/2024</td>
-		</tr>
-		<tr>
-			<td>feature/vehicules-management</td>
-			<td>ad27a20cd9013fb31b91b390b38fe30ad74e00fa</td>
-			<td>feat(vehicules-management): added content for main view</td>
-			<td>-</td>
-			<td>01/05/2024</td>
-		</tr>
-	</tbody>
-</table>
+------
+------
+------
+### 5.2.2 SPRINT 2
+En esta sección, comentaremos y explicaremos el progreso tanto en el desarrollo del producto como en la colaboración del equipo durante el Sprint 2. Seguimos un proceso definido que abarca desde la planificación hasta la revisión y documentación del trabajo realizado. A lo largo de las siguientes secciones, detallaremos cómo se llevó a cabo la planificación del sprint, qué tareas se incluyeron en el Sprint Backlog, las pruebas y evidencia de desarrollo para la revisión del sprint, así como la documentación de los servicios y las percepciones clave sobre la colaboración del equipo durante este periodo.
 
-### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.2.1 Sprint Planing 2
+En esta sección, se detallan los aspectos principales del Sprint Planning Meeting para el Sprint n. Este encuentro es crucial para establecer los objetivos del sprint, determinar las user stories que se abordarán y asignar tareas al equipo. A continuación, se presenta un resumen del Sprint Planning Meeting para este período
 
-Para la entrega de este Sprint, se alcanzó a implementar la actualización del Landing Page que se presentó en el Sprint 1, y además se desarrolló la creación de la primera versión del Web Application de nuestro Startup donde este se enfoca en la parte funcional y visual de los principales apartados donde interactuará cada uno de nuestros segmentos objetivos.
+![Sprint Planing 2](/assets/chapter05/sprintPlaning2.png)
 
-| Repository                                | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
-| [BicasTeam-AppWeb](https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-AppWeb) | main | asdasd     | conventional commit | deploy AppWeb | 01/05/2024|
+#### 5.2.2.2 Sprint Backlog 2
+El Sprint 2 está centrado en el frontend de nuestra aplicación web, priorizando las historias de usuario identificadas. Nuestro objetivo principal es proporcionar a los usuarios una experiencia inicial sólida al presentar una navegación intuitiva y acceso rápido a las funcionalidades relevantes. Al completar las tareas asociadas a las historias de usuario definidas, sentaremos una buena base para la aplicación web, asegurando que lo propuesto contribuya al éxito del proyecto.
+URL del Board en Trello: 
 
-<br>
+Link Trello: https://trello.com/invite/b/5B5dHJXJ/ATTI89c324fa13b11e255137811b14e197e78549A8F8/appweb-sprinbacklog-2 
 
-| Web Application Desplegada                                          |[BicasTeam-WebApp]()                | 
-|---------------------|---------------------|
+![ Trello Sprint Backlog 2](/assets/chapter05/trelloSprintPlaning2.png)
 
-### 5.2.2.5.Execution Evidence for Sprint Review.
+![ Sprint backlog 2](/assets/chapter05/sprint%20backlog%202.png)
 
-Funcionalidades Implementadas en el desarrollo del FrontEnd:
-- Visualización de Login y Register para Businessman y Carrier
+#### 5.2.2.3 Development Evidence for Sprint review
+Esta sección documenta y presenta la serie de commits realizados en el repositorio de la Aplicación Web. Estos commits, que son una parte integral del proceso de desarrollo, se han gestionado utilizando la metodología GitFlow y siguiendo estrictamente las convenciones establecidas para los commits. Esta evidencia sirve como un registro transparente y trazable de nuestro progreso y esfuerzos de desarrollo a lo largo del sprint.
 
-![Login Bussinessman](../assets/chapter05/Acces-Businessman.png)
+![ development Evidence](/assets/chapter05/developmentEvidence.png)
 
-- Acceso a su perfil con login y password personal. 
 
-![Login_Acces Bussinessman](../assets/chapter05/Login-Businessman.png)
+#### 5.2.2.4 Testing Suite Evidence for Sprint Review
+En esta sección, presentamos la evidencia de las pruebas realizadas durante el sprint. Hemos utilizado Gherkin para definir los escenarios de prueba y hemos registrado cada prueba en commits específicos en nuestro repositorio. A continuación, se muestra un registro de estos commits:
+![ Test Sprint backlog](/assets/chapter05/testSprintBacklog2.png)
 
-- Para Businessman se incluyó lo las funcionalidades de 'Reporte', 'Organización', 'Vehicules' y 'Home'.
-
-![Organizations Businessman](../assets/chapter05/Organizations-Businessman.png)
-
-- Verificación de reportes 
-
-![Report Businessman](../assets/chapter05/Report-Businessman.png)
-
-- Puede verificar los vehiculos registrados y monitorear en ello. 
-
-![Vehicule Carrier](../assets/chapter05/vehicules.png)
-
-
-Por otro lado, desarrollamos los interfaces para los carrier o transportistas, a continuación las funcionalidades. 
-
-- Login del trasportista para acceder a su cuenta
-
-![Login Carrier](../assets/chapter05/Login-carrier.png)
-
-- Vista principal del carrier para verifcar algunos tareas para la entrega u otros por parte de Businessman. 
-
-![Home Carrier](../assets/chapter05/Home-carrier.png)
-
-
-- Vista para realizar reportes por parte de carrier
-
-![Report Carrier](../assets/chapter05/Report-carrier.png)
-
-### 5.2.2.6.Services Documentation Evidence for Sprint Review.
-
-
-
-### 5.2.2.7.Software Deployment Evidence for Sprint Review.
-
-En esta parte del Sprint, se detallará la secuencia de pasos que se llevó a cabo para realizar nuestro deployment de la Web Application con el servicio de Hosting de *Google Firebase*.
-
-1. Instalamos el CLI de Firebase en el root de nuestro proyecto.
-
-![Firebase CLI]()
-
-2. Procedemos a logearnos con nuestro coreo gmail y luego inicializamos el proyecto desde la root folder.
-
-![Login Firebase CLI]()
-
-
-3. Después, habilitamos las dependencias de hosting y database in real-time y lo vinculamos con nuestro proyecto.
-
-![]()
-
-![]()
-
-4. Finalmente, nos saldrá 2 enlaces (uno que es del hosting y otro para la consola del proyecto), de lo cual nos permitirá visualizar nuestro proyecto ya desplegado en el browser.
-
-![]()
-
-
-5. Y este seria el resultado final...
-
-![]()
-
-### 5.2.2.8.Team Collaboration Insights during Sprint.
-
-Llegamos a nuestro segundo Sprint. Logramos completar el desarrollo de la primera versión de nuestro Web Application y hemos logrado actualizar nuestro Landing Page; nos apoyamos de manera crucial ante cualquier inconveniente o duda que ocurría durante la implementación de nuestro proyecto. La colaboración entre los miembros del equipo, queda como siempre, más que reflejada en los diversos *commits* realizados en el repositorio de GitHub, los cuales han sido debidamente documentados en las capturas de pantalla adjuntas para una mejor interpretación y busqueda de la información.
-
-En cuanto a la elaboración del código, mediante una reunión hemos asignado a cada miembro del equipo una sección específica del Web Application. Esta estrategia nos ha permitido avanzar de manera muy proactiva y de forma continua para llegar al fin del Sprint.
-
-Adicionalmente, hemos realizado reuniones adicionales para intercambiar ideas y resolver cualquier duda o problema que pudiera surgir durante el desarrollo del Web Application; por lo que, estas sesiones han contribuido de manera positiva para seguir alcanzando el éxito esperado.
-
-A continuación, presentamos algunas capturas de pantalla que muestran los commits realizados por todos los miembros del equipo en cada repositorio de GitHub:
-
-### Evidences
-
-![Team Members](../assets/chapter05/teamMembers.png)
-
-### Landing Pages (Update version)
-
-![Contributors](../assets/chapter05/Contributors_Landing.png)
-
-![Network Graph](../assets/chapter05/Network_Graph_Landing.png)
-
-### Web Application
-
-![Commits](../assets/chapter05/Commits_AppWeb.png)
-
-![Network Graph](../assets/chapter05/Network-Graph-WebApp.png)
-
-
-### 5.2.3. Sprint 3
-
-### 5.2.3.1.Sprint Planning 3.
-### 5.2.3.2.Sprint Backlog 3.
-### 5.2.3.3.Development Evidence for Sprint Review.
-### 5.2.3.4.Testing Suite Evidence for Sprint Review.
-### 5.2.3.5.Execution Evidence for Sprint Review.
-### 5.2.3.6.Services Documentation Evidence for Sprint Review.
-### 5.2.3.7.Software Deployment Evidence for Sprint Review.
-### 5.2.3.8.Team Collaboration Insights during Sprint.
-
-### 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-El siguiente diseño de entrevistas aplica para los segmentos objetivos de nuestro proyecto líder es decir tanto a los empresarios y los choferes.
-
-Recolectar la siguiente información de nuestro entrevistado empresario: 
-- Nombre completos 
-- Ocupación
-- Tipo de empresa
-- Rubro de transporte.
-
-Antes de pasar a las preguntas principales se le muestra a nuestro entrevistado ( empresario y   chofer)  en landing page y aplicación web mencionandoles la funcionalidad principales de esta para que se pueda entrar en el contexto y tener familiarizado con los interfases.
-
-preguntas principales:
-
-1. ¿Cuál es su nombre?,  ¿Cuántos años tienes?,  ¿Cuál es el rubro de su empresa?,  ¿Cuántos choferes tiene a su cargo?
-2. Después de tener una experiencia en nuestro landing page, ¿Qué podrías acotar o recomendar para mejorar de estas interfaces de manera general?
-3. Después de ver la aplicación web modo y gestión qué podría acotar o recomendar para mejorar para el siguiente Sprint?
-4. ¿Qué apartados te llamaron mas la atencion en nuestra plataforma?
-5. ¿Cómo describirías tu experiencia inicial al utilizar nuestra aplicación web? ¿Fue fácil encontrar lo que estabas buscando?
-6. ¿Qué opinas de la interfaz de usuario de la aplicación web? ¿Es fácil de usar y entender?
-7. ¿Has tenido alguna dificultad técnica o encontraste algún problema mientras navegabas por la aplicación web?
-8. ¿Qué características o funcionalidades adicionales te gustaría ver en la aplicación web?
-9. ¿Qué te parece la opciones "shipment", "Report", "Vehicule"? ¿Lo consideras beneficioso?
-10. ¿Qué tipo de información sobre las opciones "shipment", "Report", "Vehicule" te gustaría ver en nuestra aplicación web ?
-11. ¿Cómo te enteraste de nuestra aplicación? ¿Qué piensas sobre nuestra estrategia de marketing y promoción respecto a landing page?
-12. ¿Tienes alguna otra sugerencia o comentario que quieras compartir con nosotros?
-
-### 5.3.2. Registro de Entrevistas.
-
-- Entrevista a Businessman
-- Nombres: Vladimir Quique Espinoza
-
-- Empresario y Gerente de transporte de ‘Cargo express Espinoza’
-
-- Edad : 28 años
-
-- Ciudad natal: Lima, San Isidro.
-
-![Entrevista](../assets/chapter05/entrevistabusi.png)
-
-Ver video [Aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EZVsHR_m-J1Hp3uOn85uHiYBdFAUAUr8A965BEV1SLvNzw?e=dtY7hW) 
-
-Resumen:
-Durante la entrevista con Vladimir nos comentan que él es actualmente el gerente de la empresa cargos express Espinoza,  una empresa familiar con una trayectoria de más de 10 años en el rubro de cargas,  la empresa fue fundada por su papá quien  era un antiguo trabajador en los puertos de callao al ver la necesidad de muchas cargas se le propuso formar una empresa de transporte de cargas.
+
+#### 5.2.2.5 Execution Evidence for Sprint Review
+Durante el Sprint 2, se logró un progreso significativo en la implementación de las características clave del frontend en la aplicación web. El equipo completó con éxito las historias de usuario asignadas para este sprint, que incluyeron el desarrollo del frontend en nuestra aplicación web, también con la integración de acceso visible a todas las opciones, incluso de un llamado a la acción prominente para dirigir a los visitantes a la aplicación web. El equipo trabajó de manera colaborativa para garantizar que las características implementadas cumplan con los requisitos y contribuyan a una experiencia de usuario positiva.
+
+![Evidence](/assets/chapter05/evidenceApp/homeBusinessman.png)
+![Evidence](/assets/chapter05/evidenceApp/homeCarrier.png)
+![Evidence](/assets/chapter05/evidenceApp/login.png)
+![Evidence](/assets/chapter05/evidenceApp/profile.png)
+![Evidence](/assets/chapter05/evidenceApp/registerInfo.png)
+![Evidence](/assets/chapter05/evidenceApp/registerSucessfully.png)
+![Evidence](/assets/chapter05/evidenceApp/registerType.png)
+![Evidence](/assets/chapter05/evidenceApp/reportsBusinessman.png)
+![Evidence](/assets/chapter05/evidenceApp/reportsCarrier.png)
+![Evidence](/assets/chapter05/evidenceApp/shipmentsBusinessman.png)
+![Evidence](/assets/chapter05/evidenceApp/shipmentsCarrier.png)
+![Evidence](/assets/chapter05/evidenceApp/vehicleCarrier.png)
+![Evidence](/assets/chapter05/evidenceApp/vehiclesBusinessman.png)
+
+
+
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review
+Durante este Sprint 2, nos enfocamos en desarrollar el “App web Solution”, sin implementación de ningún servicio. Por lo tanto, este punto quedará sin actividad en este aspecto.
+
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review
+Durante el Sprint 2, llevamos a cabo el despliegue de nuestra aplicación web en GitHub Pages. A continuación, detallamos los pasos realizados:
+- Creación del Repositorio en GitHub: Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de aplicación web.
+- Configuración de la Rama main: Aseguramos que la rama principal del repositorio se llamará main, ya que GitHub Pages toma esta rama como base para el despliegue automático.
+- Preparación del Contenido: Desarrollamos y diseñamos nuestra aplicación web, asegurándonos de que todos los archivos y recursos necesarios estuvieran presentes en el repositorio.
+- Generación del enlace de GitHub Pages: Navegamos a la sección "Pages" en la configuración del repositorio en GitHub. Configuramos la fuente del GitHub Pages para que tomara el contenido de la rama main.
+- Despliegue Automático: GitHub Pages automáticamente detectó los cambios en la rama main y desplegó la aplicación web en la URL proporcionada por GitHub Pages.
+
+
+#### 5.2.2.8 Team Collaboration Insights during Sprint
+Durante este segundo Sprint, hemos avanzado el desarrollo de la aplicación web y hemos colaborado estrechamente en su implementación. La colaboración entre los miembros del equipo se refleja en los diversos commits realizados en el repositorio de GitHub, los cuales han sido debidamente documentados en las capturas de pantalla adjuntas. Para asegurar una colaboración efectiva, hemos implementado GitFlow como nuestra metodología de trabajo colaborativo en Git. Con GitFlow, hemos creado ramas para cada una de las secciones de nuestra aplicación web. Esto nos ha permitido trabajar de manera organizada y centrarnos en completar correctamente las historias de usuario designadas para cada sección. En cuanto a la elaboración del código, hemos asignado a cada miembro del equipo una sección específica de la aplicación web. Esta estrategia nos ha permitido avanzar de manera más eficiente y completar el trabajo antes de la fecha de entrega. Además, hemos realizado reuniones adicionales para intercambiar ideas y resolver cualquier duda o problema que pudiera surgir durante el desarrollo del landing page. Estas sesiones han contribuido de manera positiva al éxito del proyecto. A continuación, presentamos algunas capturas de pantalla que muestran los commits realizados por los miembros del equipo en GitHub:
+
+![ANALitica](/assets/chapter05/analityc1.png)
+![ANALitica](/assets/chapter05/analityc2.png)
+![ANALitica](/assets/chapter05/analityc3.png)
+
+---
+
+### 5.2.3 Sprint 3
+En esta sección, comentaremos y explicaremos el progreso tanto en el desarrollo del producto como en la colaboración del equipo durante el Sprint 3. Seguimos un proceso definido que abarca desde la planificación hasta la revisión y documentación del trabajo realizado. A lo largo de las siguientes secciones, detallaremos cómo se llevó a cabo la planificación del sprint, qué tareas se incluyeron en el Sprint Backlog, las pruebas y evidencia de desarrollo para la revisión del sprint, así como la documentación de los servicios y las percepciones clave sobre la colaboración del equipo durante este periodo.
+
+#### 5.2.3.1 Sprint Planning 3
+En esta sección, se detallan los aspectos principales del Sprint Planning Meeting para el Sprint n. Este encuentro es crucial para establecer los objetivos del sprint, determinar las user stories que se abordarán y asignar tareas al equipo. A continuación, se presenta un resumen del Sprint Planning Meeting para este período.
+|Sprint #|Sprint 3|
+| :- | :- |
+|Sprint Planning Background||
+|Date|2024-05-24|
+|Time|04:23 PM|
+|Location|Google Meet|
+|Prepared by|Miguel Huarcaya Chavez|
+|Attendees (to planning meeting)|Nestor Velarde, Elias Torres, Miguel Huarcaya Chavez, Diego Huaman|
+|Sprint 3 – 1 Review Summary|Después de realizar todos los procedimientos establecidos para la identificación de objetivos y áreas de retroalimentación, hemos podido concluir la reunión del sprint 3 con éxito en términos de avance en los productos de software y en la colaboración general del equipo. El proceso de mejora con la retroalimentación y la programación de varias secciones nuevas en el servicio web significó un gran proceso de mejora para la construcción y realización del sprint, además de reforzar el compromiso de nuestro equipo y la mejora exponencial de las actividades indicadas.|
+|Sprint 3 – 1 Retrospective Summary|Para el proceso de la retrospectiva del Sprint 3, fue necesario que nuestro equipo revisará a detalle toda la retroalimentación recibida ante el primer sprint realizado, para luego generar un análisis a profundidad del desempeño general e individual de todos los miembros del equipo de trabajo. Después de ese proceso, pudimos identificar varias áreas de mejora en las cuales centrarnos para así poder garantizar la entrega de un mejor trabajo y un buen producto para todos nuestros clientes, promoviendo la mejora continua y optimizando los métodos de trabajo en los próximos sprints durante el ciclo de vida del proyecto.|
+|Sprint Goal & User Stories||
+|Sprint 3 Goal|Alcanzar una métrica de cumplimiento del 100%, lo que indicará que se ha logrado los objetivos del sprint 3.|
+|Sprint 3 Velocity|Con el equipo para este sprint 3 decidimos aceptar 6 Story Points|
+|Sum of Story Points|La suma de los Story Points para los User Stories que se están incluyendo en este Sprint es 32.|
+
+#### 5.2.3.2 Sprint Backlog 3
+El Sprint 3 está centrado en el servicio web, priorizando las historias de usuario identificadas. Nuestro objetivo principal es proporcionar a los usuarios una experiencia inicial sólida al presentar una navegación intuitiva y acceso rápido a las funcionalidades relevantes. Al completar las tareas asociadas a las historias de usuario definidas, sentaremos una buena base para el servicio web, asegurando que lo propuesto contribuya al éxito del proyecto.
+
+URL del Board en Trello:
+
+<https://trello.com/invite/b/vTLeIEal/ATTIa1968d7983179167e3fad507a5040fe21920F95D/appweb-sprintbacklog-3> 
+
+![Trello Sprint 3](/assets/chapter05%20-%20spring%203/trello-sprint-3.png)
+
+|&emsp;&emsp;&emsp;&emsp;<a name="_heading=h.kn5t1eh5nzqr"></a>Sprint #|&emsp;&emsp;&emsp;&emsp;Sprint 3|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|&emsp;&emsp;&emsp;&emsp;User Story|&emsp;&emsp;&emsp;&emsp;Work-Item / Task|||||||
+|&emsp;&emsp;&emsp;&emsp;Id|&emsp;&emsp;&emsp;&emsp;Title|&emsp;&emsp;&emsp;&emsp;Id|&emsp;&emsp;&emsp;&emsp;Title|&emsp;&emsp;&emsp;&emsp;Descripción|&emsp;&emsp;&emsp;&emsp;Estimation (Hours)|&emsp;&emsp;&emsp;&emsp;Assigned to|&emsp;&emsp;&emsp;&emsp;Status (To-do / In / Process / ToReview / Done)|
+|&emsp;&emsp;&emsp;&emsp;US09|&emsp;&emsp;&emsp;&emsp;Asignación de flotas|&emsp;&emsp;&emsp;&emsp;T14|&emsp;&emsp;&emsp;&emsp;Desarrollo de interfaz y lógica de asignación de flotas|&emsp;&emsp;&emsp;&emsp;Crear una interfaz en la aplicación web que permita al gerente seleccionar y asignar flotas a los transportistas, junto con la lógica de backend necesaria para actualizar las bases de datos con las asignaciones realizadas.|&emsp;&emsp;&emsp;&emsp;4|&emsp;&emsp;&emsp;&emsp;Elias Torres|&emsp;&emsp;&emsp;&emsp;Done|
+|&emsp;&emsp;&emsp;&emsp;US14|&emsp;&emsp;&emsp;&emsp;Reporte de accidentes en la carretera|&emsp;&emsp;&emsp;&emsp;T15|&emsp;&emsp;&emsp;&emsp;Implementación de sistema de reporte de accidentes|&emsp;&emsp;&emsp;&emsp;Crear un formulario en la aplicación móvil o web para que los transportistas reporten accidentes, junto con un endpoint en el servidor que reciba y almacene los reportes, e implemente notificaciones automáticas a los gerentes.|&emsp;&emsp;&emsp;&emsp;5|&emsp;&emsp;&emsp;&emsp;Diego huaman|&emsp;&emsp;&emsp;&emsp;Done|
+|&emsp;&emsp;&emsp;&emsp;US15|&emsp;&emsp;&emsp;&emsp;Reporte de problemas con el paquete|&emsp;&emsp;&emsp;&emsp;T16|&emsp;&emsp;&emsp;&emsp;Implementación de sistema de reporte de problemas con el paquete|&emsp;&emsp;&emsp;&emsp;Crear un formulario en la aplicación móvil o web para reportar problemas con los paquetes, junto con un endpoint en el servidor que reciba y almacene los reportes, e implemente notificaciones automáticas a los gerentes y clientes.|&emsp;&emsp;&emsp;&emsp;4|&emsp;&emsp;&emsp;&emsp;Miguel Huarcaya|&emsp;&emsp;&emsp;&emsp;Done|
+|&emsp;&emsp;&emsp;&emsp;US16|&emsp;&emsp;&emsp;&emsp;Reporte de problemas técnicos|&emsp;&emsp;&emsp;&emsp;T17|&emsp;&emsp;&emsp;&emsp;Implementación de sistema de reporte de problemas técnicos|&emsp;&emsp;&emsp;&emsp;Crear un formulario en la aplicación móvil o web para reportar problemas técnicos, junto con un endpoint en el servidor que reciba y almacene los reportes, e implementa notificaciones automáticas a los gerentes.|&emsp;&emsp;&emsp;&emsp;5|&emsp;&emsp;&emsp;&emsp;Elias Torres|&emsp;&emsp;&emsp;&emsp;Done|
+|&emsp;&emsp;&emsp;&emsp;US23|&emsp;&emsp;&emsp;&emsp;Eliminar registro|&emsp;&emsp;&emsp;&emsp;T18|&emsp;&emsp;&emsp;&emsp;Desarrollo de endpoint para eliminar registro|&emsp;&emsp;&emsp;&emsp;Crear un endpoint en la API que permite eliminar registros específicos de la base de datos, incluyendo la lógica de backend para realizar las verificaciones necesarias antes de la eliminación.|&emsp;&emsp;&emsp;&emsp;4|&emsp;&emsp;&emsp;&emsp;Nestor Velarde|&emsp;&emsp;&emsp;&emsp;Done|
+|<p>&emsp;&emsp;&emsp;&emsp;US24</p><p>&emsp;&emsp;&emsp;&emsp;</p>|&emsp;&emsp;&emsp;&emsp;Agregar registro|&emsp;&emsp;&emsp;&emsp;T19|&emsp;&emsp;&emsp;&emsp;Desarrollo de endpoint para agregar registro|&emsp;&emsp;&emsp;&emsp;Crear un endpoint en la API que permita agregar nuevos registros a la base de datos, incluyendo la lógica de backend para validar los datos antes de su inserción.|&emsp;&emsp;&emsp;&emsp;5|&emsp;&emsp;&emsp;&emsp;Elias Torres|&emsp;&emsp;&emsp;&emsp;Done|
+|&emsp;&emsp;&emsp;&emsp;US25|&emsp;&emsp;&emsp;&emsp;Actualizar registro|&emsp;&emsp;&emsp;&emsp;T20|&emsp;&emsp;&emsp;&emsp;Desarrollo de endpoint para actualizar registro|&emsp;&emsp;&emsp;&emsp;Crear un endpoint en la API que permita actualizar registros existentes en la base de datos, incluyendo la lógica de backend para validar los datos antes de su actualización.|&emsp;&emsp;&emsp;&emsp;5|&emsp;&emsp;&emsp;&emsp;Diego Huaman|&emsp;&emsp;&emsp;&emsp;Done|
+
+#### 5.2.3.3 Development Evidence for Sprint Review
+Esta sección documenta y presenta la serie de commits realizados en el repositorio del Servicio Web. Estos commits, que son una parte integral del proceso de desarrollo, se han gestionado utilizando la metodología GitFlow y siguiendo estrictamente las convenciones establecidas para los commits. Esta evidencia sirve como un registro transparente y trazable de nuestro progreso y esfuerzos de desarrollo a lo largo del sprint.
+
+TODO: Imagen Commits 
+![Development Evidence fpr Spóinrt Review]()
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Committed on (Date)|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|upc-OpenSource-BicasTeam-Api|main|cc1ecb8|chore|create default project|27-05|
+|upc-OpenSource-BicasTeam-Api|feature/profile-management|3c630b1|chore|implemented persistence base configuration|27-05|
+|upc-OpenSource-BicasTeam-Api|feature/profile-management|46d523d|feat|added aggregate user|27-05|
+|upc-OpenSource-BicasTeam-Api|feature/profile-management|05ef98f|feat|added user repository|27-05|
+|upc-OpenSource-BicasTeam-Api|feature/profile-management|7b06c81|feat|implemented query service and command for user aggregate|27-05|
+|upc-OpenSource-BicasTeam-Api|feature/profile-management|431353c|feat|added user controller|27-05|
+|upc-OpenSource-BicasTeam-Api|feature/profile-management|554df5b|chore|implemented persistence base configuration|27-05|
+|upc-OpenSource-BicasTeam-Api|feature/profile-management|5475552|fix|base configuration|27-05|
+|upc-OpenSource-BicasTeam-Api|feature/shipments|cb61040|feat|added layers domain, infrastructure and application|28-05|
+|upc-OpenSource-BicasTeam-Api|feature/shipments|b913385|feat|added resources and transform|28-05|
+|upc-OpenSource-BicasTeam-Api|feature/shipments|9ee7c1c|feat|added shipment controller|28-05|
+|upc-OpenSource-BicasTeam-Api|feature/shipments|8cdc129|chore|implemented interface layer base configuration, including configuration statements in main program|28-05|
+|upc-OpenSource-BicasTeam-Api|feature/shipments|132998c|chore|added database context|28-05|
+|upc-OpenSource-BicasTeam-Api|feature/communication-reports|49269c5|feat|added report aggregate|01-06|
+|upc-OpenSource-BicasTeam-Api|feature/communication-reports|7c0c3ef|feat|added repositories and services for the model|01-06|
+|upc-OpenSource-BicasTeam-Api|feature/communication-reports|328d93b|feat|added infrastructure and application for the report|01-06|
+|upc-OpenSource-BicasTeam-Api|feature/communication-reports|77af4a6|feat|added resources and transform|01-06|
+|upc-OpenSource-BicasTeam-Api|feature/communication-reports|a0a9813|chore|implemented interface layer base configuration, including configuration statements in main program|01-06|
+|upc-OpenSource-BicasTeam-Api|feature/vehicles|0977fa1|feat|added aggregate vehicle|02-06|
+|upc-OpenSource-BicasTeam-Api|feature/vehicles|0ce3c84|feat|added command and query services|02-06|
+|upc-OpenSource-BicasTeam-Api|feature/vehicles|a6fac64|feat|added resources and transform|02-06|
+|upc-OpenSource-BicasTeam-Api|feature/vehicles|ee78294|feat|added vehicle controller|02-06|
+|upc-OpenSource-BicasTeam-Api|feature/vehicles|3395c27|chore|implemented interface layer base configuration in main program|02-06|
+
+#### 5.2.3.4 Execution Evidence for Sprint Review
+En esta sección, presentamos la evidencia de las pruebas realizadas durante el sprint. Hemos utilizado Gherkin para definir los escenarios de prueba y hemos registrado cada prueba en commits específicos en nuestro repositorio. A continuación, se muestra un registro de estos commits:
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|upc-OpenSource-BicasTeam-Api|feature/profile-management|328d93b|feat|add test for profile management|02-06|
+|upc-OpenSource-BicasTeam-Api|feature/shipments|132998c|feat|add test for shipments|02-06|
+|upc-OpenSource-BicasTeam-Api|feature/communication-reports|7c0c3ef|feat|add test for communication-reports|02-06|
+|upc-OpenSource-BicasTeam-Api|feature/vehicles|e221a5b|feat|add test for vehicles|02-06|
+
+#### 5.2.3.5 Services Documentation Evidence for Sprint Review
+El equipo ha logrado despegar el web service de MoviGestion. Todas las historias de usuario asignadas para este sprint fueron completadas exitosamente. En primer lugar, nos enfocamos en el desarrollo y la implementación del web service que es fundamental para la aplicación MoviGestion. Este esfuerzo incluyó la creación de APIs RESTful, la integración segura y eficiente con la base de datos, y la implementación de pruebas exhaustivas para asegurar la fiabilidad y el rendimiento del servicio. 
+
+Capturas de pantalla:
+
+TODO: CAPTURAS DEL WEB SERVICE DESPLEGADO
+![CAPTURAS DEL WEB SERVICE DESPLEGADO]()
+
+#### 5.2.3.6 Software Deployment Evidence for Sprint Review
+Durante el Sprint 3, el equipo ha trabajado intensamente en la documentación de los Web Services desarrollados. Utilizando OpenAPI, hemos documentado todos los endpoints relevantes, asegurando que cada uno de ellos esté claramente definido y accesible para los desarrolladores. Esta documentación es esencial para garantizar una integración fluida y eficiente del web service con otros componentes de la aplicación y con sistemas externos.
+
+|&emsp;&emsp;&emsp;&emsp;Endpoint|&emsp;&emsp;&emsp;&emsp;Acción Implementada|&emsp;&emsp;&emsp;&emsp;Verbo HTTP|&emsp;&emsp;&emsp;&emsp;Sintaxis de Llamada|&emsp;&emsp;&emsp;&emsp;Parámetros|&emsp;&emsp;&emsp;&emsp;Ejemplo de Response|
+| :- | :- | :- | :- | :- | :- |
+|&emsp;&emsp;&emsp;&emsp;/report|&emsp;&emsp;&emsp;&emsp;Crear reporte|&emsp;&emsp;&emsp;&emsp;POST|&emsp;&emsp;&emsp;&emsp;/api/v1/report|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|
+|&emsp;&emsp;&emsp;&emsp;/report/{id}|&emsp;&emsp;&emsp;&emsp;Obtener reporte por Id|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/report/{id}|&emsp;&emsp;&emsp;&emsp;id|&emsp;&emsp;&emsp;&emsp;|
+|&emsp;&emsp;&emsp;&emsp;/report/user/{userId}|&emsp;&emsp;&emsp;&emsp;Obtener reportes por id de usuario|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/report/users/{userId}|&emsp;&emsp;&emsp;&emsp;userId|&emsp;&emsp;&emsp;&emsp;|
+|&emsp;&emsp;&emsp;&emsp;/report|&emsp;&emsp;&emsp;&emsp;Obtener todo los reportes|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/report|&emsp;&emsp;&emsp;&emsp;none|&emsp;&emsp;&emsp;&emsp;|
+|&emsp;&emsp;&emsp;&emsp;/vehicle|&emsp;&emsp;&emsp;&emsp;Crear vehiculo|&emsp;&emsp;&emsp;&emsp;POST|&emsp;&emsp;&emsp;&emsp;/api/v1/vehicle|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|
+|&emsp;&emsp;&emsp;&emsp;/vehicle/{id}|&emsp;&emsp;&emsp;&emsp;Obtener vehículo por Id|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/vehicle/{id}|&emsp;&emsp;&emsp;&emsp;id|&emsp;&emsp;&emsp;&emsp;|
+|&emsp;&emsp;&emsp;&emsp;/vehicle|&emsp;&emsp;&emsp;&emsp;Obtener todo los vehículos|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/vehicle|&emsp;&emsp;&emsp;&emsp;none|&emsp;&emsp;&emsp;&emsp;|
+|&emsp;&emsp;&emsp;&emsp;/shipment|&emsp;&emsp;&emsp;&emsp;Crear envío|&emsp;&emsp;&emsp;&emsp;POST|&emsp;&emsp;&emsp;&emsp;/api/v1/shipment|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|
+|&emsp;&emsp;&emsp;&emsp;/shipment/{id}|&emsp;&emsp;&emsp;&emsp;Obtener envío por Id|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/shipment/{id}|&emsp;&emsp;&emsp;&emsp;id|&emsp;&emsp;&emsp;&emsp;|
+|<p>&emsp;&emsp;&emsp;&emsp;/shipment/user/{userId}</p><p>&emsp;&emsp;&emsp;&emsp;</p>|&emsp;&emsp;&emsp;&emsp;Obtener envíos por id de usuario|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/shipment/users/{userId}|&emsp;&emsp;&emsp;&emsp;userId|&emsp;&emsp;&emsp;&emsp;|
+|&emsp;&emsp;&emsp;&emsp;/shipment|&emsp;&emsp;&emsp;&emsp;Obtener todo los envíos|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/shipment|&emsp;&emsp;&emsp;&emsp;none|&emsp;&emsp;&emsp;&emsp;|
+|&emsp;&emsp;&emsp;&emsp;/user|&emsp;&emsp;&emsp;&emsp;Crear perfil|&emsp;&emsp;&emsp;&emsp;POST|&emsp;&emsp;&emsp;&emsp;/api/v1/user|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|
+|&emsp;&emsp;&emsp;&emsp;/user/{id}|&emsp;&emsp;&emsp;&emsp;Obtener perfil por Id|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/user/{id}|&emsp;&emsp;&emsp;&emsp;id|&emsp;&emsp;&emsp;&emsp;|
+|&emsp;&emsp;&emsp;&emsp;/user|&emsp;&emsp;&emsp;&emsp;Obtener todo los perfil|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/user|&emsp;&emsp;&emsp;&emsp;none|&emsp;&emsp;&emsp;&emsp;|
+
+CAPTURAS DE INTERACCION CON LA DOCUMENTACION:
+A continuación, se incluyen capturas de pantalla que muestran la interacción con la documentación de los web services, utilizando datos de muestra.
+
+1. Endopoint de crear Reporte (/report) - POST
+
+![1]()
+
+Descripción: La captura muestra la documentación del endpoint para crear un nuevo reporte, incluyendo los parámetros requeridos y un ejemplo del response.
+
+1. Endpoint de Obtener Reporte por ID (/report/{id}) - GET:
+
+![2]()
+
+Descripción: La captura presenta la documentación del endpoint para obtener un reporte por ID, con la sintaxis de llamada y un ejemplo de response.
+
+1. Endpoint de Crear Vehículo (/vehicle) - POST:
+
+![3]()
+
+Descripción: La imagen muestra cómo documentamos la creación de un nuevo vehículo, especificando los parámetros y un ejemplo del response.
+
+1. Endpoint de Obtener Envío por ID (/shipment/{id}) - GET:
+
+![4]()
+
+ Descripción: La captura ilustra la documentación del endpoint para obtener un envío por ID, incluyendo un ejemplo del request y response.
+
+ #### <a name="_heading=h.ikcf394glpjk"></a>**URL del Repositorio:**
+   El código fuente del Web Services se encuentran en el siguiente repositorio:
+
+- **Repositorio de Web Service:** [https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-api.git](https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-api.git)
+
+#### 5.2.3.7 Team Collaboration Insights during Sprint
+Durante el Sprint 3, llevamos a cabo el despliegue de nuestra web service en GitHub Pages. A continuación, detallamos los pasos realizados:
+
+- Creación del Repositorio en GitHub: Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de web service.
+- Configuración de la Rama main: Aseguramos que la rama principal del repositorio se llamará main, ya que esta rama sirve como base para el despliegue automático.
+- Preparación del Contenido: Desarrollamos y diseñamos nuestra web service, asegurándonos de que todos los archivos y recursos necesarios estuvieran presentes en el repositorio.
+- Generación del enlace del hosting: Creamos nuestra cuenta en el hosting, le asignamos un nombre y desplegamos el web service en la URL proporcionada por el hosting.
+
+#### 5.2.3.8 Team Collaboration Insights During Sprint
+Durante este segundo Sprint, hemos avanzado el desarrollo del web service y hemos colaborado estrechamente en su implementación. La colaboración entre los miembros del equipo se refleja en los diversos commits realizados en el repositorio de GitHub, los cuales han sido debidamente documentados en las capturas de pantalla adjuntas. Para asegurar una colaboración efectiva, hemos implementado GitFlow como nuestra metodología de trabajo colaborativo en Git. Con GitFlow, hemos creado ramas para cada una de las secciones de nuestro web service. Esto nos ha permitido trabajar de manera organizada y centrarnos en completar correctamente las historias de usuario designadas para cada sección. En cuanto a la elaboración del código, hemos asignado a cada miembro del equipo una sección específica del web service. Esta estrategia nos ha permitido avanzar de manera más eficiente y completar el trabajo antes de la fecha de entrega. Además, hemos realizado reuniones adicionales para intercambiar ideas y resolver cualquier duda o problema que pudiera surgir durante el desarrollo del web service. Estas sesiones han contribuido de manera positiva al éxito del proyecto. A continuación, presentamos algunas capturas de pantalla que muestran los commits realizados por los miembros del equipo en GitHub:
+
+TODO: Captura gitHub de commits
+![Team Collaobraiton]()
+
+## 5.3  Validation Interviews
+
+### 5.3.1 Diseño de Entrevsitas
+**Para los Empresarios:**
+
+- ¿Cuál es su opinión general sobre la plataforma MoviGestion tras la demostración?
+- ¿Qué características de MoviGestion le resultaron más útiles para la gestión de su flota?
+- ¿Hay alguna función que no encontró en MoviGestion y que consideraría esencial para su operación?
+- ¿Cómo evalúa la interfaz de usuario en términos de facilidad de uso y navegación?
+- ¿Cuánto tiempo cree que le tomaría a su equipo adaptarse al uso de MoviGestion?
+- ¿Cuáles son los principales desafíos que enfrenta actualmente en la gestión de su flota?
+- ¿Cómo cree que MoviGestion podría ayudarle a superar esos desafíos?
+- ¿Qué tan útil considera la funcionalidad de registro de incidencias en la plataforma?
+- ¿Qué aspectos de la gestión de envíos exitosos le parecen más críticos para su operación?
+- ¿Está dispuesto a recomendar MoviGestion a otros empresarios del sector? ¿Por qué?
+- ¿Cómo valora la seguridad de la información y los datos en la plataforma MoviGestion?
+
+**Para los Transportistas:**
+
+- ¿Cuál fue su impresión general de la plataforma MoviGestion después de la demostración?
+- ¿Qué tan fácil le resultó navegar y utilizar las funciones de MoviGestion?
+- ¿Qué características de MoviGestion le parecieron más útiles para su trabajo diario?
+- ¿Hay alguna función que no encontró en MoviGestion y que consideraría útil para su labor?
+- ¿Cómo cree que MoviGestion podría ayudarle a realizar su trabajo de manera más eficiente?
+- ¿Qué tan útil considera la funcionalidad de registro de incidencias para reportar problemas en tiempo real?
+- ¿Qué tan fácil le resultó el proceso de seguimiento de envíos en MoviGestion?
+- ¿Cómo valora la capacidad de monitorear los sitios de entrega a través de la plataforma?
+- ¿Le parece intuitiva la interfaz de usuario de MoviGestion? ¿Hay algo que cambiaría?
+- ¿Cómo le gustaría que MoviGestion le notificara sobre nuevas tareas o cambios en las entregas?
+- ¿Qué mejoras le gustaría ver en futuras actualizaciones de la plataforma?
+- ¿Cómo valora la seguridad de la información y los datos en la plataforma MoviGestion?
+- ¿Cree que MoviGestion le ayudaría a reducir el tiempo de inactividad y aumentar la productividad?
+- ¿Estaría dispuesto a recomendar MoviGestion a otros transportistas? ¿Por qué?
+
+### 5.3.2 Registro de Entrevistas
+1. ### <a name="_heading=h.mqpm42spx03x"></a>***Segmento objetivo: Empresarios***
+   **Entrevista N°1:**
+
+![Entrevista 1](/assets/chapter05%20-%20reviews/entrevistaBussinesman1.png)
+
+- **Datos principales:**
+- **Nombre completo del entrevistado:** Vladimir Quique Espinoza
+- **Edad:** 28 años
+- **Distrito: Lima, San Isidro**
+- **Link: [Aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EZVsHR_m-J1Hp3uOn85uHiYBdFAUAUr8A965BEV1SLvNzw?e=dtY7hW) **
+
+- **Resumen:** Durante la entrevista con Vladimir nos comentan que él es actualmente el gerente de la empresa cargos express Espinoza,  una empresa familiar con una trayectoria de más de 10 años en el rubro de cargas,  la empresa fue fundada por su papá quien  era un antiguo trabajador en los puertos de callao al ver la necesidad de muchas cargas se le propuso formar una empresa de transporte de cargas.
 En la primera parte Vladimir nos Comenta sobre nuestra aplicación web desarrollada los siguientes detalles, sobre el landing page  está bien diseñada con interfaz amigable y un color bien atractivo los botones funcionales,  tiene secciones bien organizadas más allá de eso me llama la atención el objetivo que tienen de su producto de software de mejorar la gestión y organización en rubros de transporte. Por otro lado, de la aplicación web es muy buena desde la Perspectiva de mi Visión también lo sección de botones están bien organizados y funcionales y tambien optaría nuestro software porque me ayudaría a gestionar y organizar mejor su empresa.
 
 
-### 5.3.3. Evaluaciones según heurísticas.
+**Entrevista N°2:**
+
+![Entrevsita 2](/assets/chapter05%20-%20reviews/entrevistaBussinesman2.png)
+
+- **Datos principales:**
+- **Nombre completo del entrevistado:** Abraham Quenta
+- **Edad:** 28 años
+- **Distrito:** Tacna
+- **Link: [Video_20240605003047183_by_VideoShow.mp4**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191a453_upc_edu_pe/EVoUsQcedjZHkRdxa-Z7_YUBLTmGiwmlqNwTjrWrYxZ4Bw?e=3pSUjY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
+- **Inicio de la entrevista:** 0:00
+- **Duración:** 10:45
+- **Resumen:** Abraham se presenta como un profesional del transporte con 5 años de experiencia en el sector transporte provincial, cuya ruta principal es de Tacna a Puno. Comenta sobre la página de destino de su servicio, que incluye información sobre los servicios ofrecidos y permite la personalización del idioma. Abraham explora las características y funcionalidades del sitio web, como la gestión de la flota, los informes de los conductores y la gestión de vehículos, y aprecia el aspecto organizativo de la plataforma, señalando que es fácil encontrar las funciones deseadas. Abraham menciona algunos problemas menores con la visibilidad del texto y la navegación, pero en general considera que la interfaz de usuario es clara y sencilla. información del vehículo, así como las estrategias de marketing y el diseño de la página de destino, pero en general. considera que la aplicación es valiosa, especialmente para monitorear las actividades de los conductores.
+
+**Segmento objetivo: Transportistas**
+
+**Entrevista N°1:**
+
+![Entrevsita 3](/assets/chapter05%20-%20reviews/entrevistaCarrier1.png)
+
+- **Datos principales:**
+- **Nombre completo del entrevistado:** Martín Merino Ávila
+- **Edad:** 50 años
+- **Distrito:** Villa El Salvador
+- **Link: [https://upcedupe-my.sharepoint.com/transportista-Martín Merino Ávila](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EY5rIHwdoYJEo1060clcg08Bj9EUW4PKzVWG0qSQZ9iLKw?e=qVv4x8)**
+- **Inicio de entrevista:** 0:00
+- **Duración:** 7:50
+- **Resumen:** El transportista Martín Merino Ávila expresó algunas dudas sobre la plataforma MoviGestion, especialmente en relación a la cantidad de tiempo que podría tomar adaptarse a una nueva herramienta, pero tras la demostración y uso práctico, encontró la interfaz más intuitiva de lo que esperaba. Nos comentó que las funciones de registro de incidencias eran lo mejor. Aunque cree que la plataforma podría beneficiarse de más opciones de personalización, le gusta la seguridad de la información. Al final, Martín reconoció que MoviGestion es una opción sólida y estaría dispuesta a recomendarla a otros transportistas.
+
+**Entrevista N°2:**
+
+![Entrevsita 4](/assets/chapter05%20-%20reviews/entrevistaCarrier2.png)
+
+- **Datos principales:**
+- **Nombre completo del entrevistado:** Ricardo Chate Flores
+- **Edad:** 45 años
+- **Distrito:** Cercado de Lima
+- **Link: [https://upcedupe-my.sharepoint.com/transportista-Ricardo Chate Flores](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EXSD46lHMXBHhtXU68u21MAB1k4GPVrGtb73aiHuhk-O4A?e=baM5qv)**
+- **Inicio de entrevista:** 0:00
+- **Duración:** 8:00
+- **Resumen:** El transportista Ricardo Chate Flores expresó una opinión positiva sobre MoviGestion, destacando su facilidad de uso y navegación intuitiva. Consideró útiles las funciones de registro de incidencias y seguimiento de envíos para su trabajo diario. Valora la capacidad de monitorear los sitios de entrega y mencionó que la plataforma podría ayudarle a trabajar de manera más eficiente. Aunque satisfecho con las funcionalidades actuales, sugirió la necesidad de notificaciones más personalizables. José destacó la seguridad de la información y está dispuesto a recomendar MoviGestion a otros transportistas, ya que cree que puede reducir el tiempo de inactividad y aumentar la productividad.
+
+**Entrevista N°3:**
+
+![Entrevsita 5](/assets/chapter05%20-%20reviews/entrevistaCarrier3.png)
+
+- **Datos principales:**
+- **Nombre completo del entrevistado:** Víctor Cuba Bautista
+- **Edad:** 42 años
+- **Distrito:** Villa El Salvador
+- **Link: [https://upcedupe-my.sharepoint.com/transportista-Víctor Cuba Bautista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/Ee0tJI_1TaVDlx1FOyZIwjwBiTQSNEtbkeaMh9ggxyFgFQ?e=vercnA)**
+- **Inicio de entrevista:** 0:00
+- **Duración:** 4:50
+- **Resumen:** El transportista Víctor Cuba Bautista tras probar la plataforma, reconoció que el uso de las funciones eran más sencillos de lo que esperaba. Encontró especialmente útil el registro de incidencias en tiempo real. Aunque le gustaría ver mejoras en algunas funcionalidades adicionales, valora la capacidad de monitorear los sitios de entrega y la seguridad de los datos proporcionada por la plataforma. Al final, Víctor concluyó que MoviGestion es una herramienta efectiva que puede mejorar su eficiencia y reducir el tiempo de inactividad, y estaría dispuesto a recomendarla a otros transportistas.
+
+### 5.3.3 Evaluaciones segun heuristicas
+Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando heurísticas de usabilidad, arquitectura de información e inclusive design de la experiencia propuesta. Para esto la sección usamos la estructura del formato para evaluaciones de heurísticas indicado.
+
+**UX Heuristics & Principles Evaluation**
+
+**Usability – Inclusive Design – Information Architecture**
+\***
+
+
+**CARRERA                	: Ingeniería de Software**
+
+**CURSO                    	: Aplicaciones Web**
+
+**SECCIÓN                   	: SV54**
+
+**AUDITOR                 	: Bicas Team**
+
+**CLIENTE                  	: MoviGestion**
+1. ## <a name="_heading=h.3ibjgvegxoc5"></a>** 
+   **SITE o APP A EVALUAR:**
+
+   **MoviGestion**
+
+   **TAREAS A EVALUAR:**
+
+   *El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:*
+
+*1.* 	*Gestión y edición de perfil de usuario.*
+
+*2.     Visualización de asignación de envíos que pertenecen a cada transportista*
+
+*3. 	Agregar un nuevo vehículo a la flota de vehículos.*
+
+*4. 	Eliminar un vehículo de la flota de vehículos.*
+
+*5. 	Visualización de alertas de cada transportista.*
+
+**ESCALA DE SEVERIDAD:**
+
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
+
+|***Nivel***|***Descripción***|
+| :- | :- |
+|*1*|*Problema superficial: puede ser fácilmente superado o hasta ignorado por el usuario ó ocurre con muy poca frecuencia. El error no necesita ser arreglado de forma inmediata en la mayoría de las casos, a no ser que exista disponibilidad de tiempo.*|
+|*2*|*Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara antes de la siguiente entrega o actualización.*|
+|*3*|*Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.*|
+|*4*|*Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.*|
+
+
+**TABLA RESUMEN:**
+
+|*#*|*Problema*|*Escala de severidad*|*Heurística/Principio violada(o)*|
+| :-: | :-: | :-: | :-: |
+|*1*|*Incluye un botón “See More” pero no tiene funcionalidad*|*3*|*Information Architecture: Is it usable?*|
+|*2*|*No parece haber consistencia en la forma en que se presentan las opciones para actualizar la información*|*2*|*Usability: Consistencia y estándares*|
+|*3*|*Información de pagos no está claramente presentada*|*3*|*Usability: Visibilidad del estado del sistema*|
+|*4*|*No funciona cancelar el agregado de un vehículo.*|*2*|*Usability: Libertad y control del usuario*|
+
+
+
+
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+*PROBLEMA #1:* 
+
+*Severidad: 3*
+
+*Heurística violada: Information Architecture: Is it usable?*
+
+*Problema:*
+
+*La aplicación incluye un botón “See More” pero no tiene funcionalidad, lo que confunde a los usuarios y les impide acceder a contenido adicional esperado.*
+
+![H1](/assets/chapter05%20-%20heuristc%20and%20final/h1.png)
+
+*Recomendación:*
+
+*Eliminar el botón “See More” si no hay contenido adicional disponible, o implementar la funcionalidad esperada para que los usuarios puedan acceder a más información.*
+
+*PROBLEMA #2:* 
+
+*Severidad: 2*
+
+*Heurística violada: Usability - Consistencia y estándares*
+
+*Problema:*
+
+*La interfaz de Settings incluye campos para Nickname, Bio, Email y Avatar, pero no parece haber consistencia en la forma en que se presentan las opciones para actualizar la información. Por ejemplo, el botón ‘Choose’ para actualizar el avatar está separado del campo ‘Avatar’, lo que podría confundir a los usuarios.*
+
+![H2](/assets/chapter05%20-%20heuristc%20and%20final/h2.png)
+
+*Recomendación:*
+
+*Asegurar que todos los campos de entrada y botones relacionados estén agrupados de manera coherente y clara para mejorar la comprensión y la facilidad de uso.*
+
+*PROBLEMA #3:* 
+
+*Severidad: 3*
+
+*Heurística violada: Usability: Visibilidad del estado del sistema*
+
+*Problema:*
+
+*La información relacionada con Organization no está claramente presentada, lo que puede causar confusión a la hora de querer tener información y dificulta la asignación de envíos.*
+
+![H3](/assets/chapter05%20-%20heuristc%20and%20final/h3.png)
+
+*Recomendación:*
+
+*Mejorar la presentación y accesibilidad de la información relacionada con "Organization" puede mejorar significativamente la experiencia del usuario y facilitar la asignación de envíos en la aplicación.* 
+
+*PROBLEMA #4:* 
+
+*Severidad: 2*
+
+*Heurística violada: Usability: Libertad y control del usuario*
+
+*Problema:*
+
+*Al momento de ingresar los datos del nuevo vehículo, no se puede cerrar hasta darle darle al botón “Close” y luego se tiene que eliminar en el botón “Delete Vehicle”, esto obliga a agregar nuevos carros no deseados, también incrementando así la cantidad de esfuerzo del usuario.*
+
+![H4](/assets/chapter05%20-%20heuristc%20and%20final/h4.png)
+
+*Recomendación:*
+
+*Hacer que el botón "Close" tenga la funcionalidad para cerrar la ventana emergente sin guardar los datos del vehículo ingresados.*
+
+---
+
+## 5.4 Video About The Product
+
+<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EVzNfjl7ZRtAvgrVtGxeeSEB24lFo7SCNzRMpCjNjY7bRg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sBmRa5>
+

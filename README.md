@@ -67,15 +67,10 @@ Universidad Peruana de Ciencias Aplicadas
 # Project Report Collaboration Insights
 Link de Repositorio: https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-Report.git
 
-<!--  Adicionalmente, para cada entrega explica cómo
-se han desarrollado las actividades de elaboración del informe y se presenta
-capturas en imagen de los analíticos de colaboración y commits en GitHub para el
-repositorio del informe, realizados por los miembros del equipo. Todos los miembros
-del equipo deben tener participación en la elaboración del informe. Esta sección
-debe ir expandiéndose con descripciones y evidencias en cada entrega. Lo descrito y
-evidenciado debe tener coherencia con el Registro de Versiones del Informe -->
+EVIDENCIA COMMITS REPORT: 
 
-<!-- TODO: Subir screenshot de commits luego dew hacer merge -->
+![COMITS REPORT](/assets/chapter00/commits%20report.png)
+
 ---
 ---
 ---
@@ -279,6 +274,15 @@ del ABET – EAC - Student Outcome 5
         <br>
         -Contribución en puntos del Needfinding
         <br>
+        TP:</strong> <br>
+        -Desarrollo de font-end en la aplicación web.
+        <br>
+        -Mejora con el landing page
+        <br>
+        -Creación de ramas para el desarrollo de Aplicación web.
+        <br>
+        -Realización de Login, Register y vesualización de vehiculos en AppWeb.
+        <br>
         <strong>Velarde Gonzales Nestor Hernan
         <br>
         TB1:</strong> <br>
@@ -289,6 +293,15 @@ del ABET – EAC - Student Outcome 5
         -Implementación del diagrama de clases
         <br>
         -Mejora del Software Configuration Management
+        <br>
+         TP:</strong> <br>
+        -Aportar en el apartado del capitulo 05.
+        <br>
+        -Aporte en mejora en landing page.
+        <br>
+        -Desarollo de la parte organización en la AppWeb en front-end.
+        <br>
+        -Mejora general del informe.
         <br>
         <strong>Elias Torres
         <br>
@@ -303,6 +316,17 @@ del ABET – EAC - Student Outcome 5
         <br>
         -Implementación del landing page
         <br>
+        TP:</strong> <br>
+        -Mejora en Landing page
+        <br>
+        -Contribución en el Cap. 05.
+        <br>
+        -Desarrollo del front-end de la aplicación web. 
+        <br>
+        -Implementación del API-Services en Front-end.
+        <br>
+        -Implementación y mejora en el informe según las observaciones dadas en TB1.
+        <br>
         <strong>Huamani Sanchez Jose Diego
         <br>
         TB1:</strong> <br>
@@ -316,9 +340,19 @@ del ABET – EAC - Student Outcome 5
         <br>
         -Contribución con el landing page
         <br>
+        TP:</strong> <br>
+        -Desarrollo del Capitulo 05.
+        <br>
+        -Desarollo del Front-End de la parte de reportes tanto del Bussinesman y Carrier.
+        <br>
+        -Contribución en la mejora del lading page.
+        <br>
+        -Despliegue del AppWeb del front-end.
+        <br>
+        -Mojora general del informe según las observaciones dadas en TB1.
+        <br>
         <td>-La planificación del proyecto aseguró una buena distribución de tareas. Además, la colaboración activa de los miembros del equipo permitió la revision y corrección múltiple de tareas que se consideraban completadas.
         <br>
-        -De la misma manera, destacamos el valor de la comunicación interna en el trabajo, lo que facilitó la realización eficiente de cada tarea previniendo la acumulacion excesiva de trabajo.</td>
     </tr>
     <tr>
         <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software</td>
@@ -327,28 +361,46 @@ del ABET – EAC - Student Outcome 5
         TB1:</strong> <br>
         Durante este entregable aprendí a realizar correctamente los user persona e impact map.
         <br>
+        TP:</strong> <br>
+        Durante este proceso de desarrollo del Sprint 2 aprendí usar correctamente la lógica del negocio en una aplicación web desarrollada en Angular.
+        <br>
         <strong>Velarde Gonzales Nestor Hernan
         <br>
         TB1:</strong> <br>
         Para esta entrega supimos elegir nuestros segmentos y personas para la entrevista, de esta manera conocemos sus puntos de vista.
+        <br>
+        TP:</strong> <br>
+        Para esta entrega nos esforzamos en la mejora y desarrollo del Front-end de nuestra AppWeb para nuestros segmentos objetivos.
         <br>
         <strong>Elias Torres
         <br>
         TB1:</strong> <br>
         He trabajado en el proyecto con nuevas herramientas vistas en el statement, así tendremos un entregable más profesional.
         <br>
+        TB1:</strong> <br>
+        Aprendí usar Angular frameword especialmente para los desarroolos del Front-End en aplicaciones Web y estuve activo durante el desarrollo del sprint 2.
+        <br>
         <strong>Huamani Sanchez Jose Diego
         <br>
         TB1:</strong> <br>
         En el desarrollo nos enfocamos en analizar la competencia para observar las necesidades del entorno.
         <br>
+        TP:</strong> <br>
+        Durante el desarrollo fue encargado de coordinar con el equipo para mejoras e implementación del front-end, aprendí usar nuevas herramientas en el angular.
+        <br>
         <td>Es esencial que el equipo se coordine para adaptarse a los cambios de planes en respuesta a los desafíos emergentes. Esta adaptabilidad no solo permite una resolución eficaz de los problemas, sino que también fomenta la resiliencia del equipo, permitiendo una mayor capacidad para manejar futuros obstáculos.</td>
     </tr>
 </table>
 
-# Conclusiones (Avance)
+# Conclusiones progresivas:
 
+## TB1:
 La implementación del proceso Lean UX en el Capítulo 1 ha facilitado una comprensión más profunda y una aplicación más eficaz de las herramientas en nuestra propuesta orientada al servicio de transporte para clientes. Además, ha contribuido a una definición más precisa de nuestro público objetivo o segmento al cual se dirige nuestra aplicación. Al finalizar la fase inicial de nuestro proyecto y tras identificar los principales problemas enfrentados por nuestros segmentos, llegamos a la conclusión de que la aplicación web MoviGestion sería beneficiosa para mejorar la experiencia tanto de los transportistas como de los empresarios que tienen flotas de camiones al utilizar la herramienta. El proceso de entrevistas ha sido fundamental para esclarecer la visión del proyecto desde la perspectiva del usuario, lo que ha resultado crucial para mejorar las funcionalidades de la aplicación.
+
+## TP: 
+Para esta entrega, hemos llegado a la conclusión de que las coordinaciones constantes dentro de nuestro equipo han sido esenciales para lograr un buen avance en este trabajo parcial. Durante el desarrollo del Sprint 2, hemos aplicado buenas técnicas y fomentado un ambiente de trabajo colaborativo en el equipo. Esta combinación de comunicación efectiva y enfoque en las mejores prácticas ha sido fundamental para alcanzar nuestros objetivos.
+
+Durante este período, hemos visto una mejora significativa en la productividad y calidad del trabajo realizado. La aplicación de las buenas técnicas de desarrollo nos ha permitido abordar los desafíos de manera más eficiente y responder de manera efectiva a los cambios en los requisitos del proyecto. Además, el trabajo en equipo ha fortalecido nuestra capacidad para resolver problemas de manera conjunta y aprovechar al máximo las habilidades individuales de cada miembro del equipo, el Sprint 2 fue desarrollada y desplegada a la nube. 
 
 # Bibliografia 
 Berné, M. (2023, 8 marzo). Criterios de aceptación: ejemplos para elaborarlos. Blog. https://www.scrummanager.com/blog/2023/03/criterios-de-aceptacion-definicion-y-ejemplos/ 
@@ -365,7 +417,16 @@ Link gitHub Repositorio: https://github.com/upc-OpenSource-BicasTeam/upc-OpenSou
 
 Link Github Landing page: https://github.com/upc-OpenSource-BicasTeam/upc-opensource-bicasteam-landingpage.github.io.git
 
-LandingPage Desplegado:  https://upc-opensource-bicasteam.github.io/upc-opensource-bicasteam-landingpage.github.io/
+Landing Page Desplegado:  https://6633f8d952829c3da8cab57f--capable-crumble-c0e22a.netlify.app/
+
+Repositorio de AppWeb: https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-AppWeb.git
+
+AppWeb desplegada: https://upc-opensource-bicasteam.github.io/upc-OpenSource-BicasTeam-AppWeb/login
+
+Repositorio Api: <https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-api.git>
+
+TODO:
+Api Desplegado:
 
 Figma Landing Page: https://www.figma.com/file/gu0SdYkebsOKLB8p5YvOzL/BicasTeam-OpenSource?type=design&node-id=0%3A1&mode=design&t=nmvBnCRmQ5e71hnB-1
 
@@ -374,3 +435,12 @@ Figma App Web: https://www.figma.com/file/UznJufoIMBwWow9ny8cXO5/Web-Application
 PivotalTracker-ProductBacklog: https://www.pivotaltracker.com/projects/2700650
 
 Video EXPO TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EZ6Kt73cpO5PirOijCVKSVQBhQg6HxCrW25xdp_jKfMJIQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=B8NpyQ
+
+VIDEO EXPO TP1:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EfaLmMLckx1Kq_ZuYNLlGUABYdZCjkFYCZa6iPgSWQVWKg?e=nfmfOf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+VIDEO EXPO TB2: 
+
+VIDEO ABOUT THE TEAM: 
+
+VIDEO ABOUT THE PRODUCT: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EVzNfjl7ZRtAvgrVtGxeeSEB24lFo7SCNzRMpCjNjY7bRg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sBmRa5>
