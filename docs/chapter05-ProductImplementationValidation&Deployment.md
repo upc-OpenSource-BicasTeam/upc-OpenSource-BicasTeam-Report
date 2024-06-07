@@ -586,7 +586,74 @@ TODO: Captura gitHub de commits
 - ¿Estaría dispuesto a recomendar MoviGestion a otros transportistas? ¿Por qué?
 
 ### 5.3.2 Registro de Entrevistas
+1. ### <a name="_heading=h.mqpm42spx03x"></a>***Segmento objetivo: Empresarios***
+   **Entrevista N°1:**
 
+![Entrevista 1](/assets/chapter05%20-%20reviews/entrevistaBussinesman1.png)
+
+- **Datos principales:**
+- **Nombre completo del entrevistado:** Vladimir Quique Espinoza
+- **Edad:** 28 años
+- **Distrito: Lima, San Isidro**
+- **Link: [Aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EZVsHR_m-J1Hp3uOn85uHiYBdFAUAUr8A965BEV1SLvNzw?e=dtY7hW) **
+
+- **Resumen:** Durante la entrevista con Vladimir nos comentan que él es actualmente el gerente de la empresa cargos express Espinoza,  una empresa familiar con una trayectoria de más de 10 años en el rubro de cargas,  la empresa fue fundada por su papá quien  era un antiguo trabajador en los puertos de callao al ver la necesidad de muchas cargas se le propuso formar una empresa de transporte de cargas.
+En la primera parte Vladimir nos Comenta sobre nuestra aplicación web desarrollada los siguientes detalles, sobre el landing page  está bien diseñada con interfaz amigable y un color bien atractivo los botones funcionales,  tiene secciones bien organizadas más allá de eso me llama la atención el objetivo que tienen de su producto de software de mejorar la gestión y organización en rubros de transporte. Por otro lado, de la aplicación web es muy buena desde la Perspectiva de mi Visión también lo sección de botones están bien organizados y funcionales y tambien optaría nuestro software porque me ayudaría a gestionar y organizar mejor su empresa.
+
+
+**Entrevista N°2:**
+
+![Entrevsita 2](/assets/chapter05%20-%20reviews/entrevistaBussinesman2.png)
+
+- **Datos principales:**
+- **Nombre completo del entrevistado:** Abraham Quenta
+- **Edad:** 28 años
+- **Distrito:** Tacna
+- **Link: [Video_20240605003047183_by_VideoShow.mp4**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191a453_upc_edu_pe/EVoUsQcedjZHkRdxa-Z7_YUBLTmGiwmlqNwTjrWrYxZ4Bw?e=3pSUjY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
+- **Inicio de la entrevista:** 0:00
+- **Duración:** 10:45
+- **Resumen:** Abraham se presenta como un profesional del transporte con 5 años de experiencia en el sector transporte provincial, cuya ruta principal es de Tacna a Puno. Comenta sobre la página de destino de su servicio, que incluye información sobre los servicios ofrecidos y permite la personalización del idioma. Abraham explora las características y funcionalidades del sitio web, como la gestión de la flota, los informes de los conductores y la gestión de vehículos, y aprecia el aspecto organizativo de la plataforma, señalando que es fácil encontrar las funciones deseadas. Abraham menciona algunos problemas menores con la visibilidad del texto y la navegación, pero en general considera que la interfaz de usuario es clara y sencilla. información del vehículo, así como las estrategias de marketing y el diseño de la página de destino, pero en general. considera que la aplicación es valiosa, especialmente para monitorear las actividades de los conductores.
+
+**Segmento objetivo: Transportistas**
+
+**Entrevista N°1:**
+
+![Entrevsita 3](/assets/chapter05%20-%20reviews/entrevistaCarrier1.png)
+
+- **Datos principales:**
+- **Nombre completo del entrevistado:** Martín Merino Ávila
+- **Edad:** 50 años
+- **Distrito:** Villa El Salvador
+- **Link: [https://upcedupe-my.sharepoint.com/transportista-Martín Merino Ávila](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EY5rIHwdoYJEo1060clcg08Bj9EUW4PKzVWG0qSQZ9iLKw?e=qVv4x8)**
+- **Inicio de entrevista:** 0:00
+- **Duración:** 7:50
+- **Resumen:** El transportista Martín Merino Ávila expresó algunas dudas sobre la plataforma MoviGestion, especialmente en relación a la cantidad de tiempo que podría tomar adaptarse a una nueva herramienta, pero tras la demostración y uso práctico, encontró la interfaz más intuitiva de lo que esperaba. Nos comentó que las funciones de registro de incidencias eran lo mejor. Aunque cree que la plataforma podría beneficiarse de más opciones de personalización, le gusta la seguridad de la información. Al final, Martín reconoció que MoviGestion es una opción sólida y estaría dispuesta a recomendarla a otros transportistas.
+
+**Entrevista N°2:**
+
+![Entrevsita 4](/assets/chapter05%20-%20reviews/entrevistaCarrier2.png)
+
+- **Datos principales:**
+- **Nombre completo del entrevistado:** Ricardo Chate Flores
+- **Edad:** 45 años
+- **Distrito:** Cercado de Lima
+- **Link: [https://upcedupe-my.sharepoint.com/transportista-Ricardo Chate Flores](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EXSD46lHMXBHhtXU68u21MAB1k4GPVrGtb73aiHuhk-O4A?e=baM5qv)**
+- **Inicio de entrevista:** 0:00
+- **Duración:** 8:00
+- **Resumen:** El transportista Ricardo Chate Flores expresó una opinión positiva sobre MoviGestion, destacando su facilidad de uso y navegación intuitiva. Consideró útiles las funciones de registro de incidencias y seguimiento de envíos para su trabajo diario. Valora la capacidad de monitorear los sitios de entrega y mencionó que la plataforma podría ayudarle a trabajar de manera más eficiente. Aunque satisfecho con las funcionalidades actuales, sugirió la necesidad de notificaciones más personalizables. José destacó la seguridad de la información y está dispuesto a recomendar MoviGestion a otros transportistas, ya que cree que puede reducir el tiempo de inactividad y aumentar la productividad.
+
+**Entrevista N°3:**
+
+![Entrevsita 5](/assets/chapter05%20-%20reviews/entrevistaCarrier3.png)
+
+- **Datos principales:**
+- **Nombre completo del entrevistado:** Víctor Cuba Bautista
+- **Edad:** 42 años
+- **Distrito:** Villa El Salvador
+- **Link: [https://upcedupe-my.sharepoint.com/transportista-Víctor Cuba Bautista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/Ee0tJI_1TaVDlx1FOyZIwjwBiTQSNEtbkeaMh9ggxyFgFQ?e=vercnA)**
+- **Inicio de entrevista:** 0:00
+- **Duración:** 4:50
+- **Resumen:** El transportista Víctor Cuba Bautista tras probar la plataforma, reconoció que el uso de las funciones eran más sencillos de lo que esperaba. Encontró especialmente útil el registro de incidencias en tiempo real. Aunque le gustaría ver mejoras en algunas funcionalidades adicionales, valora la capacidad de monitorear los sitios de entrega y la seguridad de los datos proporcionada por la plataforma. Al final, Víctor concluyó que MoviGestion es una herramienta efectiva que puede mejorar su eficiencia y reducir el tiempo de inactividad, y estaría dispuesto a recomendarla a otros transportistas.
 
 ### 5.3.3 Evaluaciones segun heuristicas
 
