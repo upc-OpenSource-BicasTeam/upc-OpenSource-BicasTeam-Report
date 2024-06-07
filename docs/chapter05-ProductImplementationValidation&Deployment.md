@@ -609,7 +609,52 @@ A continuación, presentamos algunas capturas de pantalla que muestran los commi
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 ### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
+
 ### 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
+El siguiente diseño de entrevistas aplica para los segmentos objetivos de nuestro proyecto líder es decir tanto a los empresarios y los choferes.
+
+Recolectar la siguiente información de nuestro entrevistado empresario: 
+- Nombre completos 
+- Ocupación
+- Tipo de empresa
+- Rubro de transporte.
+
+Antes de pasar a las preguntas principales se le muestra a nuestro entrevistado ( empresario y   chofer)  en landing page y aplicación web mencionandoles la funcionalidad principales de esta para que se pueda entrar en el contexto y tener familiarizado con los interfases.
+
+preguntas principales:
+
+1. ¿Cuál es su nombre?,  ¿Cuántos años tienes?,  ¿Cuál es el rubro de su empresa?,  ¿Cuántos choferes tiene a su cargo?
+2. Después de tener una experiencia en nuestro landing page, ¿Qué podrías acotar o recomendar para mejorar de estas interfaces de manera general?
+3. Después de ver la aplicación web modo y gestión qué podría acotar o recomendar para mejorar para el siguiente Sprint?
+4. ¿Qué apartados te llamaron mas la atencion en nuestra plataforma?
+5. ¿Cómo describirías tu experiencia inicial al utilizar nuestra aplicación web? ¿Fue fácil encontrar lo que estabas buscando?
+6. ¿Qué opinas de la interfaz de usuario de la aplicación web? ¿Es fácil de usar y entender?
+7. ¿Has tenido alguna dificultad técnica o encontraste algún problema mientras navegabas por la aplicación web?
+8. ¿Qué características o funcionalidades adicionales te gustaría ver en la aplicación web?
+9. ¿Qué te parece la opciones "shipment", "Report", "Vehicule"? ¿Lo consideras beneficioso?
+10. ¿Qué tipo de información sobre las opciones "shipment", "Report", "Vehicule" te gustaría ver en nuestra aplicación web ?
+11. ¿Cómo te enteraste de nuestra aplicación? ¿Qué piensas sobre nuestra estrategia de marketing y promoción respecto a landing page?
+12. ¿Tienes alguna otra sugerencia o comentario que quieras compartir con nosotros?
+
 ### 5.3.2. Registro de Entrevistas.
+
+- Entrevista a Businessman
+- Nombres: Vladimir Quique Espinoza
+
+- Empresario y Gerente de transporte de ‘Cargo express Espinoza’
+
+- Edad : 28 años
+
+- Ciudad natal: Lima, San Isidro.
+
+![Entrevista](../assets/chapter05/entrevistabusi.png)
+
+Ver video [Aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EZVsHR_m-J1Hp3uOn85uHiYBdFAUAUr8A965BEV1SLvNzw?e=dtY7hW) 
+
+Resumen:
+Durante la entrevista con Vladimir nos comentan que él es actualmente el gerente de la empresa cargos express Espinoza,  una empresa familiar con una trayectoria de más de 10 años en el rubro de cargas,  la empresa fue fundada por su papá quien  era un antiguo trabajador en los puertos de callao al ver la necesidad de muchas cargas se le propuso formar una empresa de transporte de cargas.
+En la primera parte Vladimir nos Comenta sobre nuestra aplicación web desarrollada los siguientes detalles, sobre el landing page  está bien diseñada con interfaz amigable y un color bien atractivo los botones funcionales,  tiene secciones bien organizadas más allá de eso me llama la atención el objetivo que tienen de su producto de software de mejorar la gestión y organización en rubros de transporte. Por otro lado, de la aplicación web es muy buena desde la Perspectiva de mi Visión también lo sección de botones están bien organizados y funcionales y tambien optaría nuestro software porque me ayudaría a gestionar y organizar mejor su empresa.
+
+
 ### 5.3.3. Evaluaciones según heurísticas.
