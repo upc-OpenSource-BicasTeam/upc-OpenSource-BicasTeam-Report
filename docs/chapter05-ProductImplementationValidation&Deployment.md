@@ -437,9 +437,8 @@ URL del Board en Trello:
 
 #### 5.2.3.3 Development Evidence for Sprint Review
 Esta sección documenta y presenta la serie de commits realizados en el repositorio del Servicio Web. Estos commits, que son una parte integral del proceso de desarrollo, se han gestionado utilizando la metodología GitFlow y siguiendo estrictamente las convenciones establecidas para los commits. Esta evidencia sirve como un registro transparente y trazable de nuestro progreso y esfuerzos de desarrollo a lo largo del sprint.
-
-TODO: Imagen Commits 
-![Development Evidence fpr Spóinrt Review]()
+ 
+![Development Evidence fpr Spóinrt Review](/assets/chapter05%20-%20spring%203/DevelopmetEvidenceForSprintReview%203.png)
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Committed on (Date)|
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -482,8 +481,7 @@ El equipo ha logrado despegar el web service de MoviGestion. Todas las historias
 
 Capturas de pantalla:
 
-TODO: CAPTURAS DEL WEB SERVICE DESPLEGADO
-![CAPTURAS DEL WEB SERVICE DESPLEGADO]()
+![CAPTURAS DEL WEB SERVICE DESPLEGADO](/assets/chapter05%20-%20spring%203/services-documentation.png)
 
 #### 5.2.3.6 Software Deployment Evidence for Sprint Review
 Durante el Sprint 3, el equipo ha trabajado intensamente en la documentación de los Web Services desarrollados. Utilizando OpenAPI, hemos documentado todos los endpoints relevantes, asegurando que cada uno de ellos esté claramente definido y accesible para los desarrolladores. Esta documentación es esencial para garantizar una integración fluida y eficiente del web service con otros componentes de la aplicación y con sistemas externos.
@@ -510,25 +508,25 @@ A continuación, se incluyen capturas de pantalla que muestran la interacción c
 
 1. Endopoint de crear Reporte (/report) - POST
 
-![1]()
+![1](/assets/chapter05%20-%20spring%203/report-post.png)
 
 Descripción: La captura muestra la documentación del endpoint para crear un nuevo reporte, incluyendo los parámetros requeridos y un ejemplo del response.
 
 1. Endpoint de Obtener Reporte por ID (/report/{id}) - GET:
 
-![2]()
+![2](/assets/chapter05%20-%20spring%203/report.png)
 
 Descripción: La captura presenta la documentación del endpoint para obtener un reporte por ID, con la sintaxis de llamada y un ejemplo de response.
 
 1. Endpoint de Crear Vehículo (/vehicle) - POST:
 
-![3]()
+![3](/assets/chapter05%20-%20spring%203/vehicle-post.png)
 
 Descripción: La imagen muestra cómo documentamos la creación de un nuevo vehículo, especificando los parámetros y un ejemplo del response.
 
 1. Endpoint de Obtener Envío por ID (/shipment/{id}) - GET:
 
-![4]()
+![4](/assets/chapter05%20-%20spring%203/shipment.png)
 
  Descripción: La captura ilustra la documentación del endpoint para obtener un envío por ID, incluyendo un ejemplo del request y response.
 
@@ -548,8 +546,8 @@ Durante el Sprint 3, llevamos a cabo el despliegue de nuestra web service en Git
 #### 5.2.3.8 Team Collaboration Insights During Sprint
 Durante este segundo Sprint, hemos avanzado el desarrollo del web service y hemos colaborado estrechamente en su implementación. La colaboración entre los miembros del equipo se refleja en los diversos commits realizados en el repositorio de GitHub, los cuales han sido debidamente documentados en las capturas de pantalla adjuntas. Para asegurar una colaboración efectiva, hemos implementado GitFlow como nuestra metodología de trabajo colaborativo en Git. Con GitFlow, hemos creado ramas para cada una de las secciones de nuestro web service. Esto nos ha permitido trabajar de manera organizada y centrarnos en completar correctamente las historias de usuario designadas para cada sección. En cuanto a la elaboración del código, hemos asignado a cada miembro del equipo una sección específica del web service. Esta estrategia nos ha permitido avanzar de manera más eficiente y completar el trabajo antes de la fecha de entrega. Además, hemos realizado reuniones adicionales para intercambiar ideas y resolver cualquier duda o problema que pudiera surgir durante el desarrollo del web service. Estas sesiones han contribuido de manera positiva al éxito del proyecto. A continuación, presentamos algunas capturas de pantalla que muestran los commits realizados por los miembros del equipo en GitHub:
 
-TODO: Captura gitHub de commits
-![Team Collaobraiton]()
+
+![Team Collaobraiton](/assets/chapter05%20-%20spring%203/TeamCollaborationInsightsDuringSprint%203.png)
 
 ## 5.3  Validation Interviews
 
