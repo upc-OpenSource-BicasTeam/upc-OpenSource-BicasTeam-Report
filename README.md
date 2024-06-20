@@ -428,32 +428,32 @@ Tune, N. (2018, 1 agosto). Domain-Driven Architecture Diagrams - Strategy, Archi
 
 
 # Anexos
-Link gitHub Repositorio: https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-Report.git
+- Link gitHub Repositorio: [Click aquí](https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-Report.git) 
 
-Link Github Landing page: https://github.com/upc-OpenSource-BicasTeam/upc-opensource-bicasteam-landingpage.github.io.git
+- Link Github Landing page: [Click aquí](https://github.com/upc-OpenSource-BicasTeam/upc-opensource-bicasteam-landingpage.github.io.git)
 
-Landing Page Desplegado:  <https://upc-opensource-bicasteam.github.io/upc-opensource-bicasteam-landingpage.github.io/>
+- Landing Page Desplegado: [Click aquí](<https://upc-opensource-bicasteam.github.io/upc-opensource-bicasteam-landingpage.github.io/>)
 
-Repositorio de AppWeb: https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-AppWeb.git
+- Repositorio de AppWeb: [Click Aquí](https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-AppWeb.git)
 
-AppWeb desplegada: https://upc-opensource-bicasteam.github.io/upc-OpenSource-BicasTeam-AppWeb/login
+- AppWeb desplegada: [Click Aquí](https://upc-opensource-bicasteam.github.io/upc-OpenSource-BicasTeam-AppWeb/login)
 
-Repositorio Api: <https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-api.git>
+- Repositorio Api: [Click Aquí](<https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-api.git>)
 
 
-Figma Landing Page: https://www.figma.com/file/gu0SdYkebsOKLB8p5YvOzL/BicasTeam-OpenSource?type=design&node-id=0%3A1&mode=design&t=nmvBnCRmQ5e71hnB-1
+- Figma Landing Page: [Click Aquí](https://www.figma.com/file/gu0SdYkebsOKLB8p5YvOzL/BicasTeam-OpenSource?type=design&node-id=0%3A1&mode=design&t=nmvBnCRmQ5e71hnB-1)
 
-Figma App Web: https://www.figma.com/file/UznJufoIMBwWow9ny8cXO5/Web-Application_BicasTeam?type=design&node-id=126%3A98&mode=design&t=QAcsG0V5XHFwF6rg-1
+- Figma App Web: [Click Aquí](https://www.figma.com/file/UznJufoIMBwWow9ny8cXO5/Web-Application_BicasTeam?type=design&node-id=126%3A98&mode=design&t=QAcsG0V5XHFwF6rg-1)
 
-PivotalTracker-ProductBacklog: https://www.pivotaltracker.com/projects/2700650
+- PivotalTracker-ProductBacklog: [Click Aquí](https://www.pivotaltracker.com/projects/2700650)
 
-Video EXPO TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EZ6Kt73cpO5PirOijCVKSVQBhQg6HxCrW25xdp_jKfMJIQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=B8NpyQ
+- Video EXPO TB1: [Click Aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EZ6Kt73cpO5PirOijCVKSVQBhQg6HxCrW25xdp_jKfMJIQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=B8NpyQ)
 
-VIDEO EXPO TP1:
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EfaLmMLckx1Kq_ZuYNLlGUABYdZCjkFYCZa6iPgSWQVWKg?e=nfmfOf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- VIDEO EXPO TP1: [Click Aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EfaLmMLckx1Kq_ZuYNLlGUABYdZCjkFYCZa6iPgSWQVWKg?e=nfmfOf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-VIDEO EXPO TB2: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EaEeMCxVb8hJvexNjeGlaMwBSEGAn7hs-3n_N0ktuo-S9Q?e=WDP9m7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+- VIDEO EXPO TB2: [Click Aquí](<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EaEeMCxVb8hJvexNjeGlaMwBSEGAn7hs-3n_N0ktuo-S9Q?e=WDP9m7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>)
 
-VIDEO ABOUT THE TEAM: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/ERrz6FQtUw9Hg2-ek2OGb9sBx2pDGc9M3oa8XNDSkrA_2Q?e=O5fwdd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+- VIDEO ABOUT THE TEAM: [Click Aquí](<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/ERrz6FQtUw9Hg2-ek2OGb9sBx2pDGc9M3oa8XNDSkrA_2Q?e=O5fwdd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>)
 
-VIDEO ABOUT THE PRODUCT: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EVzNfjl7ZRtAvgrVtGxeeSEB24lFo7SCNzRMpCjNjY7bRg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sBmRa5>
+- VIDEO ABOUT THE PRODUCT: [Click Aquí](<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EVzNfjl7ZRtAvgrVtGxeeSEB24lFo7SCNzRMpCjNjY7bRg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sBmRa5>)
+
