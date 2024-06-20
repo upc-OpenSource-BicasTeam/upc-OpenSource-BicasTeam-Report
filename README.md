@@ -1,57 +1,76 @@
-![Logo Upc](https://www.upc.edu.pe/static/img/logo_upc_red.png "Logo upc")
-Universidad Peruana de Ciencias Aplicadas
-
+<br/><br/>
 <center>
-
-# Informe de Trabajo Final
+<img src="https://www.upc.edu.pe/static/img/logo_upc_red.png" width="120">
 </center>
+<br/>
 
 
-### <center>Aplicaciones Web</center> 
-<center>Ciclo: 2024-01</center>
-<center>Carrera: Ingenieria de Software</center>  
-<center>Seccion: SV54</center> 
-<center>Profesor: Hugo Allan Mori Paiva</center> 
+### <center> Universidad Peruana de Ciencias Aplicadas </center>
+### <center> **Ingeniería de software** </center>
+### <center> **Ciclo:** Quinto </center>
+### <center> **CURSO:** Desarrollo de Aplicaciones Open Source </center>
+### <center> **SECCIÓN:** SV54 </center>
+### <center> **Profesor:** Hugo Allan Mori Paiva </center> <br/>
+## <center> **Informe de Trabajo Final** </center> <br/>
+### <center> **Nombre del startup:** Bicas team </center>
+### <center> **Nombre del producto:** MoviGestion </center>
 
-### Startup: Bicas team
-### Producto: MoviGestion
-### Integrantes:
+## <center> **Integrantes** </center>
 
 <table align="center">
     <tr>
-        <th>Nombre</th>
+        <th>Apellidos, Nombres</th>
         <th>Codigo</th>
     </tr>
     <tr>
-        <td>Huarcaya Chavez Miguel Alejandro Daniel</td>
+        <td>Huarcaya Chavez, Miguel Alejandro Daniel</td>
         <td>u202116207</td>
     </tr>
     <tr>
-        <td>Velarde Gonzales Nestor Hernan</td>
+        <td>Velarde Gonzales, Nestor Hernan</td>
         <td>u20211c221</td>
     </tr>
     <tr>
-        <td>Elias Torres Espinoza</td>
+        <td>Torres Espinoza, Elias</td>
         <td>u20191A453</td>
     </tr>
     <tr>
-        <td>Huamani Sanchez Jose Diego</td>
+        <td>Huamani Sanchez, Jose Diego</td>
         <td>u202110458</td>
     </tr>
 </table>
 
-<center>Abril, 2024</center>
+<br/>
 
----
----
----
+## <center> **Junio, 2024** </center>
 
+<br/> <br/> <br/> <br/> <br/> 
+
+## Registro de Versiones del Informe
 <table>
     <tr>
         <th>Version</th>
         <th>Fecha</th>
         <th>Autor</th>
-        <th>Descripcion de modificacion</th>
+        <th>Descripcion de <br/>modificación</th>
+    </tr>
+    <tr>
+        <td>1.0</td>
+        <td>14/04/2024</td>
+        <td>Todos</td>
+        <td>Despliegue de TB1 </td>
+    </tr>
+    <tr>
+        <td>1.0</td>
+        <td>14/04/2024</td>
+        <td>Todos</td>
+        <td>Despliegue de TB1 </td>
+    </tr>
+    <tr>
+        <td>1.0</td>
+        <td>14/04/2024</td>
+        <td>Todos</td>
+        <td>Despliegue de TB1 </td>
     </tr>
     <tr>
         <td>1.0</td>
@@ -61,19 +80,15 @@ Universidad Peruana de Ciencias Aplicadas
     </tr>
 </table>
 
----
----
----
+
 # Project Report Collaboration Insights
-Link de Repositorio: https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-Report.git
+Link de Repositorio: [Click Aquí](https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-Report.git)
 
 EVIDENCIA COMMITS REPORT: 
 
 ![COMITS REPORT](/assets/chapter00/commits%20report.png)
 
----
----
----
+
 # Contenido
 [Capítulo I: Introducción](#CAPITULO-1:-Introducción)
 
@@ -262,7 +277,7 @@ del ABET – EAC - Student Outcome 5
         <th>Conclusiones</th>
     </tr>
     <tr>
-        <td>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software</td>
+        <td>Participa en equipos <br>multidisciplinarios<br> con eficacia,<br> eficiencia y objetividad,<br> en el marco de un <br>proyecto en soluciones<br> de ingeniería de <br>software</td>
         <td><strong>Miguel Huarcaya
         <br>
         TB1:</strong> <br>
@@ -351,11 +366,11 @@ del ABET – EAC - Student Outcome 5
         <br>
         -Mojora general del informe según las observaciones dadas en TB1.
         <br>
-        <td>-La planificación del proyecto aseguró una buena distribución de tareas. Además, la colaboración activa de los miembros del equipo permitió la revision y corrección múltiple de tareas que se consideraban completadas.
+        <td>-La planificación del <br> proyecto aseguró<br> una buena distribución <br>de tareas. Además, <br>la colaboración activa<br> de los miembros del <br>equipo permitió la <br>revision y corrección<br> múltiple de tareas<br> que se consideraban<br> completadas.
         <br>
     </tr>
     <tr>
-        <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software</td>
+        <td>Conoce al menos<br> un sector empresarial<br> o dominio de aplicación<br> de soluciones de<br> software</td>
         <td><strong>Miguel Huarcaya
         <br>
         TB1:</strong> <br>
@@ -388,7 +403,7 @@ del ABET – EAC - Student Outcome 5
         TP:</strong> <br>
         Durante el desarrollo fue encargado de coordinar con el equipo para mejoras e implementación del front-end, aprendí usar nuevas herramientas en el angular.
         <br>
-        <td>Es esencial que el equipo se coordine para adaptarse a los cambios de planes en respuesta a los desafíos emergentes. Esta adaptabilidad no solo permite una resolución eficaz de los problemas, sino que también fomenta la resiliencia del equipo, permitiendo una mayor capacidad para manejar futuros obstáculos.</td>
+        <td>Es esencial que el <br>equipo se coordine <br>para adaptarse a <br>los cambios de<br> planes en respuesta <br>a los desafíos<br> emergentes. Esta<br> adaptabilidad no <br>solo permite <br>una resolución <br>eficaz de los problemas,<br> sino que también <br>fomenta la resiliencia <br>del equipo, permitiendo <br>una mayor capacidad <br>para manejar futuros <br>obstáculos.</td>
     </tr>
 </table>
 
