@@ -24,19 +24,19 @@
     </tr>
     <tr>
         <td>Huarcaya Chavez, Miguel Alejandro Daniel</td>
-        <td>u202116207</td>
+        <td>U202116207</td>
     </tr>
     <tr>
         <td>Velarde Gonzales, Nestor Hernan</td>
-        <td>u20211c221</td>
+        <td>U20211C221</td>
     </tr>
     <tr>
         <td>Torres Espinoza, Elias</td>
-        <td>u20191A453</td>
+        <td>U20191A453</td>
     </tr>
     <tr>
         <td>Huamani Sanchez, Jose Diego</td>
-        <td>u202110458</td>
+        <td>U202110458</td>
     </tr>
 </table>
 
@@ -47,36 +47,88 @@
 <br/> <br/> <br/> <br/> <br/> 
 
 ## Registro de Versiones del Informe
-<table>
+<table border="1px">
     <tr>
         <th>Version</th>
         <th>Fecha</th>
-        <th>Autor</th>
-        <th>Descripcion de <br/>modificación</th>
+        <th>Autor (es)</th>
+        <th>Descripcion de modificación</th>
     </tr>
     <tr>
         <td>1.0</td>
-        <td>14/04/2024</td>
-        <td>Todos</td>
-        <td>Despliegue de TB1 </td>
+        <td>27/03/2024</td>
+        <td>
+            Huarcaya Chavez, Miguel A. </br>
+            Torres Espinoza, Elias </br>
+            Huamani Sanchez, Jose Diego </br>
+            Velarde Gonzales, Nestor </br>
+        </td>
+        <td>Analisis del contexto real y definimos el proyecto basado en el negocio del contexto real. Por otro lado, realizamos las siguientes actividades actividades para el inicio del nuevo proyecto:  </br>
+        - Crear una organización en GitHub </br>
+        - Crear un repositorio para el informe y uno del Front-End. </br>
+        - crear ramas de trabajo. </br>
+        </td>
     </tr>
     <tr>
-        <td>1.0</td>
-        <td>14/04/2024</td>
-        <td>Todos</td>
-        <td>Despliegue de TB1 </td>
+        <td>1.1</td>
+        <td>03/04/2024</td>
+        <td>
+            Huamani Sanchez, Jose Diego </br>
+            Velarde Gonzales, Néstor H.  </br>
+        </td>
+        <td>
+        Desarrollo de la primera version de diseños Mock-Up, para dicho tarea de implemento los diseños de landing page y aplicación web, usamos como herramienta principal el Figma. </br>
+        </td>
     </tr>
     <tr>
-        <td>1.0</td>
-        <td>14/04/2024</td>
-        <td>Todos</td>
-        <td>Despliegue de TB1 </td>
+        <td>1.2</td>
+        <td>5/04/2024</td>
+        <td>
+            Huarcaya Chavez, Miguel A. </br>
+            Torres Espinoza, Elias </br>
+        </td>
+        <td>Desarrollo del landing page del proyecto Movigestión con fin de promover nuestro servicio para nuestros segmentos potenciales. Se aplicó las buenas practicas de desarrollo con herramientas: </br>
+        - html </br>
+        - css </br>
+        - javascript </br>
+        - Bootstrap 5 </br>
+        </td>
     </tr>
     <tr>
-        <td>1.0</td>
-        <td>14/04/2024</td>
-        <td>Todos</td>
-        <td>Despliegue de TB1 </td>
+        <td>1.3</td>
+        <td>10/04/2024</td>
+        <td>
+            Huarcaya Chavez, Miguel A. </br>
+            Torres Espinoza, Elias </br>
+            Huamani Sanchez, Jose Diego </br>
+            Velarde Gonzales, Nestor </br>
+        </td>
+        <td>Informe completado al 100% para la entrega del TB1, de desplegó el landing page por medio de GitHub, para dicha versión del informe se entregó los videos de nuestros segmentos intrevistados. 
+        </td>
+    </tr>
+    <tr>
+        <td>1.4</td>
+        <td>22/04/2024</td>
+        <td>
+            Huarcaya Chavez, Miguel A. </br>
+            Torres Espinoza, Elias </br>
+            Huamani Sanchez, Jose Diego </br>
+            Velarde Gonzales, Nestor </br>
+        </td>
+        <td>Desarrollo de la primera versión del Front-End usando Angular y algunos framework de referencia para los interfaces, dicha implementación tiene como fake api para simular nuestra web.  
+        </td>
+    </tr>
+    <tr>
+        <td>1.5</td>
+        <td>30/04/2024</td>
+        <td>
+            Huarcaya Chavez, Miguel A. </br>
+            Torres Espinoza, Elias </br>
+            Huamani Sanchez, Jose Diego </br>
+            Velarde Gonzales, Nestor </br>
+        </td>
+        <td>Segunda reunión grupal, para la mejora deel informe y tocar temas relevantes sobre los avances del Front.  
+        </td>
     </tr>
 </table>
 
