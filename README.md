@@ -59,6 +59,24 @@ Universidad Peruana de Ciencias Aplicadas
         <td>Todos</td>
         <td>Despliegue de TB1 </td>
     </tr>
+    <tr>
+        <td>2.0</td>
+        <td>14/05/2024</td>
+        <td>Todos</td>
+        <td>Despliegue de TP </td>
+    </tr>
+    <tr>
+        <td>3.0</td>
+        <td>1/06/2024</td>
+        <td>Todos</td>
+        <td>Despliegue de TB2 </td>
+    </tr>
+    <tr>
+        <td>4.0</td>
+        <td>26/06/2024</td>
+        <td>Todos</td>
+        <td>Despliegue de TF </td>
+    </tr>
 </table>
 
 ---
@@ -211,7 +229,7 @@ EVIDENCIA COMMITS REPORT:
 
 [5.2.1.1. Sprint Planning 1]()
 
-[5.2.1.2. Sprint Backlog n]()
+[5.2.1.2. Sprint Backlog 1]()
 
 [5.2.1.3. Development Evidence for Sprint Review.]()
 
@@ -221,15 +239,73 @@ EVIDENCIA COMMITS REPORT:
 
 [5.2.1.6. Services Documentation Evidence for Sprint Review.]()
 
-[5.2..7. Software Deployment Evidence for Sprint Review]()
+[5.2.1.7. Software Deployment Evidence for Sprint Review]()
 
 [5.2.1.8. Team Collaboration Insights during Sprint.]()
 
-[5.3. Validation Interviews]()
+
+[5.2.2. Sprint 2]()
+
+[5.2.2.1. Sprint Planning 2]()
+
+[5.2.2.2. Sprint Backlog 2]()
+
+[5.2.2.3. Development Evidence for Sprint Review.]()
+
+[5.2.2.4. Testing Suite Evidence for Sprint Review]()
+
+[5.2.2.5. Execution Evidence for Sprint Review]()
+
+[5.2.2.6. Services Documentation Evidence for Sprint Review.]()
+
+[5.2.2.7. Software Deployment Evidence for Sprint Review]()
+
+[5.2.2.8. Team Collaboration Insights during Sprint.]()
+
+
+[5.2.3. Sprint 3]()
+
+[5.2.3.1. Sprint Planning 3]()
+
+[5.2.3.2. Sprint Backlog 3]()
+
+[5.2.3.3. Development Evidence for Sprint Review.]()
+
+[5.2.3.4. Testing Suite Evidence for Sprint Review]()
+
+[5.2.3.5. Execution Evidence for Sprint Review]()
+
+[5.2.3.6. Services Documentation Evidence for Sprint Review.]()
+
+[5.2.3.7. Software Deployment Evidence for Sprint Review]()
+
+[5.2.3.8. Team Collaboration Insights during Sprint.]()'
+
+
+[5.2.4. Sprint 4]()
+
+[5.2.4.1. Sprint Planning 4]()
+
+[5.2.4.2. Sprint Backlog 4]()
+
+[5.2.4.3. Development Evidence for Sprint Review.]()
+
+[5.2.4.4. Testing Suite Evidence for Sprint Review]()
+
+[5.2.4.5. Execution Evidence for Sprint Review]()
+
+[5.2.4.6. Services Documentation Evidence for Sprint Review.]()
+
+[5.2.4.7. Software Deployment Evidence for Sprint Review]()
+
+[5.2.4.8. Team Collaboration Insights during Sprint.]()
+
+
+[5.3. Validation Interviews.]()
 
 [5.3.1. Diseño de Entrevistas.]()
 
-[5.3.2. Registro de Entrevistas]()
+[5.3.2. Registro de Entrevistas.]()
 
 [5.3.3. Evaluaciones según heurísticas.]()
 
@@ -255,6 +331,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5
 
+
 <table>
     <tr>
         <th>Criterio Especifico</th>
@@ -266,26 +343,24 @@ del ABET – EAC - Student Outcome 5
         <td><strong>Miguel Huarcaya
         <br>
         TB1:</strong> <br>
-        -Implentación de las historias de usuarios y el Product Backlog
+        - Implentación de las historias de usuarios y el Product Backlog
         <br>
-        -Cooperación con el landing page
+        - Cooperación con el landing page
         <br>
-        -Realización del Impact Map
+        - Realización del Impact Map
         <br>
-        -Contribución en puntos del Needfinding
+        - Contribución en puntos del Needfinding
+        <br><strong>
+        TP1:</strong><br>
+        - Implmentacion de login y register en la rama main content flow del app web y organizador 
+        <br><strong>TB2:</strong><br>
+        -Implementacion de IAM y perfil del backend <br>
+        <strong>TF:</strong><br>
+        -Integracion de login y register en el front-end para conectarse con nuestra API.
+        <br><br>
+        <strong>Diego Huamani
         <br>
-        TP:</strong> <br>
-        -Desarrollo de font-end en la aplicación web.
-        <br>
-        -Mejora con el landing page
-        <br>
-        -Creación de ramas para el desarrollo de Aplicación web.
-        <br>
-        -Realización de Login, Register y vesualización de vehiculos en AppWeb.
-        <br>
-        <strong>Velarde Gonzales Nestor Hernan
-        <br>
-        TB1:</strong> <br>
+        TB1:</strong><br>
         -Aportar en el apartado de entrevistas y análisis
         <br>
         -Implementación de los puntos en el Style Guidelines
@@ -293,16 +368,11 @@ del ABET – EAC - Student Outcome 5
         -Implementación del diagrama de clases
         <br>
         -Mejora del Software Configuration Management
-        <br>
-         TP:</strong> <br>
-        -Aportar en el apartado del capitulo 05.
-        <br>
-        -Aporte en mejora en landing page.
-        <br>
-        -Desarollo de la parte organización en la AppWeb en front-end.
-        <br>
-        -Mejora general del informe.
-        <br>
+        <br><strong>
+        TP1:</strong><br>
+        -Elaboracion de reportes de la aplicacion<br><strong>TB2:</strong><br>
+        -Implementacion del endpoint "vehicles" en el backend<br><strong>TF:</strong>
+        <br>-Integracion de secccion de "reportes" con nuestra api<br><br>
         <strong>Elias Torres
         <br>
         TB1:</strong> <br>
@@ -315,19 +385,11 @@ del ABET – EAC - Student Outcome 5
         -Implementación del Domain-Driven Software Architecture
         <br>
         -Implementación del landing page
-        <br>
-        TP:</strong> <br>
-        -Mejora en Landing page
-        <br>
-        -Contribución en el Cap. 05.
-        <br>
-        -Desarrollo del front-end de la aplicación web. 
-        <br>
-        -Implementación del API-Services en Front-end.
-        <br>
-        -Implementación y mejora en el informe según las observaciones dadas en TB1.
-        <br>
-        <strong>Huamani Sanchez Jose Diego
+        <br><strong>TP1:</strong><br>
+        -Implementacion de home y estilos generales<br><strong>TB2:</strong><br>
+        -Implementacion de reportes y IAM<br><strong>TF:</strong><br>
+        -Integracion de seccion "home" con el api desplegada<br><br>
+        <strong>Nestor Velarde
         <br>
         TB1:</strong> <br>
         -Implementación del Startup Profile y segmentos objetivos
@@ -339,121 +401,57 @@ del ABET – EAC - Student Outcome 5
         -Ayuda en el Product Design
         <br>
         -Contribución con el landing page
-        <br>
-        TP:</strong> <br>
-        -Desarrollo del Capitulo 05.
-        <br>
-        -Desarollo del Front-End de la parte de reportes tanto del Bussinesman y Carrier.
-        <br>
-        -Contribución en la mejora del lading page.
-        <br>
-        -Despliegue del AppWeb del front-end.
-        <br>
-        -Mojora general del informe según las observaciones dadas en TB1.
-        <br>
+        <br><strong>TP1:</strong><br>
+        -Implementaicon de shipmetns de la aplicacion frontend<br><strong>TB2:</strong><br>
+        -Implementacion del endpoint de reportes del backend<br><strong>TF:</strong><br>
+        -Integraciond e seccion "shipments" con nuestra api<br><br>
+        </td>
         <td>-La planificación del proyecto aseguró una buena distribución de tareas. Además, la colaboración activa de los miembros del equipo permitió la revision y corrección múltiple de tareas que se consideraban completadas.
         <br>
+        -De la misma manera, destacamos el valor de la comunicación interna en el trabajo, lo que facilitó la realización eficiente de cada tarea previniendo la acumulacion excesiva de trabajo.<br>
+        - La implementación efectiva del sprint planning y la cooperación constante con la aplicación web destacaron la importancia del trabajo en equipo, contribuyendo así al éxito del proyecto.<br>-Cómo realizamos la implementación correcta del sprint planning y una buena cooperación constante en el servicio web, realizamos con éxito.
+        </td><br>
     </tr>
     <tr>
         <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software</td>
         <td><strong>Miguel Huarcaya
         <br>
         TB1:</strong> <br>
-        Durante este entregable aprendí a realizar correctamente los user persona e impact map.
-        <br>
-        TP:</strong> <br>
-        Durante este proceso de desarrollo del Sprint 2 aprendí usar correctamente la lógica del negocio en una aplicación web desarrollada en Angular.
-        <br>
-        <strong>Velarde Gonzales Nestor Hernan
+        Durante este entregable aprendi que los reportes en el sector de transportes se dividen en diferentes categorias
+        <br><strong>TP1:</strong><br>
+        -En esta entrega aprendi que debido a que el dispositivo mas usado por los transportistas es el celular, la resposividad de la aplicacion es crucial.<br><strong>TB2:</strong><br>
+        -En esta entrega aprendi que los datos manejados por la aplicacion deben de ser manejados respetando las reglas de negocio<br>
+        <strong>TF:</strong><br>
+        -En esta entrega comprendi que los transportistas deben estar relacionados con algun empresario, envios, reportes, y vehiculos.<br><br>
+        <strong>Diego Huamani
         <br>
         TB1:</strong> <br>
         Para esta entrega supimos elegir nuestros segmentos y personas para la entrevista, de esta manera conocemos sus puntos de vista.
-        <br>
-        TP:</strong> <br>
-        Para esta entrega nos esforzamos en la mejora y desarrollo del Front-end de nuestra AppWeb para nuestros segmentos objetivos.
-        <br>
+        <br><strong>TP1:</strong><br>
+        -Durante esta entrega aprendi el uso correcto de los conventional commits y lo imporatnte de una correcta organizacvion <br><strong>TB2:</strong><br>
+        -En esta entrega aprendi que el manejo de datos de los reportes debe respetar las reglas de negocio de la aplicacion
+        <br><strong>TF:</strong><br>
+        -Aprendi que es importante que todos los transportistas tengan acceso al total de reportes hechos por todos para facilitar la comunicacion grupal<br><br>
         <strong>Elias Torres
         <br>
         TB1:</strong> <br>
         He trabajado en el proyecto con nuevas herramientas vistas en el statement, así tendremos un entregable más profesional.
-        <br>
-        TB1:</strong> <br>
-        Aprendí usar Angular frameword especialmente para los desarroolos del Front-End en aplicaciones Web y estuve activo durante el desarrollo del sprint 2.
-        <br>
-        <strong>Huamani Sanchez Jose Diego
+        <br><strong>TP1:</strong><br>
+        -En esta entrega realizamos avances sobre una capa de nuestra solucion, la capa de presentacion<br><strong>TB2:</strong><br>
+        -En esta entrega aprendi que los datos manejados de envios deben de estar correctamente aislados pues contienen datos sensibles<br>
+        <strong>TF:</strong><br>
+        -En esta entrega aprendi que los datos de home debe tener un resumen de todos los datos relacionados al mismo<br><br>
+        <strong>Nestor Velarde
         <br>
         TB1:</strong> <br>
         En el desarrollo nos enfocamos en analizar la competencia para observar las necesidades del entorno.
-        <br>
-        TP:</strong> <br>
-        Durante el desarrollo fue encargado de coordinar con el equipo para mejoras e implementación del front-end, aprendí usar nuevas herramientas en el angular.
-        <br>
-        <td>Es esencial que el equipo se coordine para adaptarse a los cambios de planes en respuesta a los desafíos emergentes. Esta adaptabilidad no solo permite una resolución eficaz de los problemas, sino que también fomenta la resiliencia del equipo, permitiendo una mayor capacidad para manejar futuros obstáculos.</td>
+        <br><strong>TP1:</strong><br>
+        -Durante esta entrega aprendi a utilizar correctamente los convetional commits y una correcta organizaion grupal para el desarrollo de softawre de una solucion<br><strong>TB2:</strong><br>
+        -Para esta entrega note la importancia de que los datos de los vehiculos esten aislados pues manejan datos sensibles<br>
+        <strong>TF:</strong><br>
+        -Para esta entrega comprendi que todos los envios deben poder ser vistos por el administrador para ser mas eficiente<br><br>
+        </td>
+        <td>-Es esencial que el equipo se coordine para adaptarse a los cambios de planes en respuesta a los desafíos emergentes. Esta adaptabilidad no solo permite una resolución eficaz de los problemas, sino que también fomenta la resiliencia del equipo, permitiendo una mayor capacidad para manejar futuros obstáculos.<br><br>- En este proyecto, he mejorado mi habilidad para desarrollar el frontend de manera efectiva. Ha sido una oportunidad para adquirir conocimientos prácticos y habilidades específicas en el desarrollo web..<br><br>- He adquirido habilidades para desarrollar el backend de manera efectiva. Esta oportunidad me brindó conocimientos prácticos en el servicio web.</td>
     </tr>
 </table>
 
-# Conclusiones progresivas:
-
-## TB1:
-La implementación del proceso Lean UX en el Capítulo 1 ha facilitado una comprensión más profunda y una aplicación más eficaz de las herramientas en nuestra propuesta orientada al servicio de transporte para clientes. Además, ha contribuido a una definición más precisa de nuestro público objetivo o segmento al cual se dirige nuestra aplicación. Al finalizar la fase inicial de nuestro proyecto y tras identificar los principales problemas enfrentados por nuestros segmentos, llegamos a la conclusión de que la aplicación web MoviGestion sería beneficiosa para mejorar la experiencia tanto de los transportistas como de los empresarios que tienen flotas de camiones al utilizar la herramienta. El proceso de entrevistas ha sido fundamental para esclarecer la visión del proyecto desde la perspectiva del usuario, lo que ha resultado crucial para mejorar las funcionalidades de la aplicación.
-
-## TP: 
-Para esta entrega, hemos llegado a la conclusión de que las coordinaciones constantes dentro de nuestro equipo han sido esenciales para lograr un buen avance en este trabajo parcial. Durante el desarrollo del Sprint 2, hemos aplicado buenas técnicas y fomentado un ambiente de trabajo colaborativo en el equipo. Esta combinación de comunicación efectiva y enfoque en las mejores prácticas ha sido fundamental para alcanzar nuestros objetivos.
-
-## TB4:
-Durante este período, hemos visto una mejora significativa en la productividad y calidad del trabajo realizado. La aplicación de las buenas técnicas de desarrollo nos ha permitido abordar los desafíos de manera más eficiente y responder de manera efectiva a los cambios en los requisitos del proyecto. Además, el trabajo en equipo ha fortalecido nuestra capacidad para resolver problemas de manera conjunta y aprovechar al máximo las habilidades individuales de cada miembro del equipo, el Sprint 2 fue desarrollada y desplegada a la nube. 
-
-
-## TF:
-La introducción del enfoque Lean UX en el primer capítulo ha favorecido una comprensión más profunda y una aplicación más efectiva de las herramientas en nuestro proyecto de código abierto que utiliza Angular para el frontend y Spring Boot para el backend. Además, ha contribuido a una definición más precisa de nuestro público objetivo o segmento al que está dirigida nuestra aplicación. Al completar la fase inicial de nuestro proyecto y después de identificar los principales problemas enfrentados por nuestros segmentos, hemos llegado a la conclusión de que la aplicación web MoviGestion sería beneficiosa para mejorar la experiencia tanto de los transportistas como de los empresarios que poseen flotas de camiones al utilizar la herramienta. El proceso de entrevistas ha sido esencial para aclarar la visión del proyecto desde la perspectiva del usuario, lo que ha resultado crucial para mejorar las funcionalidades de la aplicación.
-
-Durante el Sprint 2, el equipo ha seguido un proceso estructurado desde la planificación hasta la revisión y documentación del trabajo realizado. Lo que nos ha servido para el desarrollo del producto, cumpliendo con las tareas incluidas en el Sprint Backlog, y se ha puesto énfasis en la colaboración del equipo. La evaluación de la planificación del sprint, la realización de pruebas y la documentación de servicios son aspectos clave abordados, junto con la identificación de percepciones clave sobre la colaboración del equipo. Estos esfuerzos proporcionan una base sólida para mejorar continuamente el proceso y garantizar la calidad y eficiencia en el desarrollo del producto.
-
-En el Sprint 3, ha sido un éxito al establecer una base técnica sólida para la aplicación MoviGestion. La implementación del web service utilizando Spring Boot no solo ha mejorado la eficiencia operativa del sistema, sino que también ha proporcionado una experiencia de usuario más fluida y segura. El enfoque en pruebas rigurosas, documentación detallada y colaboración efectiva ha sido clave para alcanzar estos logros y establecer un camino claro para futuras mejoras y desarrollos en el proyecto.
-
-Durante el Sprint 4, el equipo se centró en la implementación integral del web service en la aplicación web MoviGestion. Este esfuerzo ha sido crucial para consolidar las mejoras técnicas y funcionales que la aplicación necesita para ofrecer un servicio de transporte más eficiente y efectivo. La integración del web service se ha llevado a cabo con éxito, mejorando la interoperabilidad y la gestión de datos. Esto ha resultado en una experiencia de usuario más rápida y fiable, con una mayor seguridad en la transmisión de datos. La colaboración continua del equipo y la documentación detallada de todas las funcionalidades han sido factores clave para superar los desafíos técnicos y preparar el terreno para futuros desarrollos.
-
-El uso correcto de convenciones ágiles, como los bounded context y el uso de conventional commits, agiliza mucho el desarrollo pues facilita la comunicación del objetivo del proyecto a través de múltiples herramientas. La experiencia de este desarrollo nos permitió entender a cabalidad el desarrollo de una solución web utilizando Angular para la capa de presentación (front-end) y Spring Boot para la capa de back-end.
-
-# Bibliografia 
-Berné, M. (2023, 8 marzo). Criterios de aceptación: ejemplos para elaborarlos. Blog. https://www.scrummanager.com/blog/2023/03/criterios-de-aceptacion-definicion-y-ejemplos/ 
-
-Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/ 
-
-Markdown - La guía definitiva en español. (2022, 14 febrero). Markdown. https://markdown.es/ 
-
-Tune, N. (2018, 1 agosto). Domain-Driven Architecture Diagrams - Strategy, Architecture, Continuous Delivery, and DDD - Medium. Medium. 
-
-
-# Anexos
-Link gitHub Repositorio: https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-Report.git
-
-Link Github Landing page: https://github.com/upc-OpenSource-BicasTeam/upc-opensource-bicasteam-landingpage.github.io.git
-
-Landing Page Desplegado:  <https://upc-opensource-bicasteam.github.io/upc-opensource-bicasteam-landingpage.github.io/>
-
-Repositorio de AppWeb: https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-AppWeb.git
-
-AppWeb desplegada: https://upc-opensource-bicasteam.github.io/upc-OpenSource-BicasTeam-AppWeb/login
-
-Repositorio Api: <https://github.com/upc-OpenSource-BicasTeam/upc-OpenSource-BicasTeam-api.git>
-
-TODO:
-Api Desplegado:
-
-Figma Landing Page: https://www.figma.com/file/gu0SdYkebsOKLB8p5YvOzL/BicasTeam-OpenSource?type=design&node-id=0%3A1&mode=design&t=nmvBnCRmQ5e71hnB-1
-
-Figma App Web: https://www.figma.com/file/UznJufoIMBwWow9ny8cXO5/Web-Application_BicasTeam?type=design&node-id=126%3A98&mode=design&t=QAcsG0V5XHFwF6rg-1
-
-PivotalTracker-ProductBacklog: https://www.pivotaltracker.com/projects/2700650
-
-Video EXPO TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EZ6Kt73cpO5PirOijCVKSVQBhQg6HxCrW25xdp_jKfMJIQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=B8NpyQ
-
-VIDEO EXPO TP1:
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EfaLmMLckx1Kq_ZuYNLlGUABYdZCjkFYCZa6iPgSWQVWKg?e=nfmfOf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-VIDEO EXPO TB2: 
-
-VIDEO ABOUT THE TEAM: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/ERrz6FQtUw9Hg2-ek2OGb9sBx2pDGc9M3oa8XNDSkrA_2Q?e=O5fwdd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
-
-VIDEO ABOUT THE PRODUCT: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EVzNfjl7ZRtAvgrVtGxeeSEB24lFo7SCNzRMpCjNjY7bRg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sBmRa5>
