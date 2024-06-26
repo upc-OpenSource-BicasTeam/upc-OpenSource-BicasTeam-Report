@@ -2,8 +2,7 @@
 
 ## 4.1 Style Guidelines
 
-En esta sección, vamos a exponer el plan que hemos desarrollado para el diseño, los estilos y la apariencia de nuestra página web y las páginas de nuestra aplicación, con el fin de asegurar que nuestros
-usuarios disfruten de una interfaz que sea fácil de usar y amigable. Para alcanzar este objetivo, hemos decidido utilizar elementos visuales que sean tanto claros como estéticamente agradables, al mismo 
+En esta sección, vamos a exponer el plan que hemos desarrollado para el diseño, los estilos y la apariencia de nuestra página web y las páginas de nuestra aplicación, con el fin de asegurar que nuestros usuarios disfruten de un buen interfaz y que tenga la mejor experiencia. Para alcanzar este objetivo, hemos decidido utilizar elementos visuales que sean tanto claros como estéticamente agradables, al mismo 
 tiempo que hemos establecido ciertas restricciones para evitar la inclusión de elementos gráficos poco atractivos.
 
 ### 4.1.1 General Style Guidelines
@@ -12,7 +11,9 @@ tiempo que hemos establecido ciertas restricciones para evitar la inclusión de 
 
 La consideración de los colores es crucial porque influyen en la coherencia visual, la legibilidad y accesibilidad del diseño, la capacidad para transmitir mensajes y emociones, así como en la atracción visual y la usabilidad del producto final. En resumen, los colores dentro de las directrices de estilo son fundamentales para crear diseños atractivos, legibles, accesibles y coherentes que comuniquen eficazmente el mensaje deseado y mejoren la experiencia del usuario.
 
-![Paleta Colores 1](/assets/chapter04/color%201.png)
+_figura 21_
+Paleta de colores - Desing System
+![Paleta Colores 0](/assets/chapter04/Colours.png)
 
 * Tipografia:
 
@@ -32,7 +33,9 @@ Los colores utilizados en la web de nuestra aplicación siguen las pautas de la 
 
 Para asegurar una estética clásica que se adapte a los diversos fondos degradados presentes en nuestras aplicaciones, hemos elegido una paleta de grises. Esta decisión permite una mayor versatilidad visual, manteniendo la elegancia y la legibilidad del contenido sin importar la combinación de colores específica en la pantalla.
 
-![Fondos](/assets/chapter04/color%202.png)
+_figura 22_
+Paleta de colores - Desing System
+![Fondos](/assets/chapter04/Colours.png)
 
 * Tipografia:
 
@@ -172,8 +175,16 @@ El mockup siguió el orden establecido previamente tanto para el Desktop Web Bro
 ## 4.4 Web Applications UX/UI Design
 
 ### 4.4.1 Web Applications Wireframes
-![Web Applications Wireframes](/assets/chapter04/wireframe.PNG)
-![Web Applications Wireframes](/assets/chapter04/wireframe2.PNG)
+
+Para el desarrollo de los Wireframes de nuestra aplicación web también usamos la herramienta de Figma, usamos algunos plugins que la herramienta nos brinda para realizar un diseño adecuado por nuestro equipo. 
+
+_Figura 21_
+Wireframe login 
+![Web Applications Wireframes](/assets/chapter04/Wireframes-login.png)
+
+_Figura 21_
+Wireframe login Businessmen or Transportist
+![Web Applications Wireframes](/assets/chapter04/Wireframes-buss-trasp.png)
 ![Web Applications Wireframes](/assets/chapter04/wireframe3.PNG)
 
 ### 4.4.2 Web Applications Wireflow Diagrams
@@ -194,6 +205,8 @@ Si el usuario elige registrarse como “Transportist”, el proceso también com
 ![Web Applications Mock-ups](/assets/chapter04/Validate.png)
 ![Web Applications Mock-ups](/assets/chapter04/Succesfull.png)
 
+
+Link del Figma: https://www.figma.com/file/UznJufoIMBwWow9ny8cXO5/Web-Application_BicasTeam?type=design&node-id=250%3A490&mode=design&t=GOKAY8ODTttUllvI-1 
 
 ### 4.4.4 Web Applications User Flow Diagrams
 User Goal: El usuario tiene dos opciones de registro en la aplicación: como “Businessmen” o como “Transportist”.
