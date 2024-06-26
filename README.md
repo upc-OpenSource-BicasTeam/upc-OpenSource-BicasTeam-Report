@@ -340,7 +340,8 @@ del ABET – EAC - Student Outcome 5
         -Realización del Impact Map
         <br>
         -Contribución en puntos del Needfinding
-        <br>
+        <br> 
+        <br> <strong>
         TP:</strong> <br>
         -Desarrollo de font-end en la aplicación web.
         <br>
@@ -349,9 +350,9 @@ del ABET – EAC - Student Outcome 5
         -Creación de ramas para el desarrollo de Aplicación web.
         <br>
         -Realización de Login, Register y vesualización de vehiculos en AppWeb.
-        <br>
+        <br> <br>
         <strong>Velarde Gonzales Nestor Hernan
-        <br>
+        <br> 
         TB1:</strong> <br>
         -Aportar en el apartado de entrevistas y análisis
         <br>
