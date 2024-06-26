@@ -47,7 +47,7 @@
 <br/> <br/> <br/> <br/> <br/> 
 
 ## Registro de Versiones del Informe
-<table border="1px">
+<table align="center" border="1px">
     <tr>
         <th>Version</th>
         <th>Fecha</th>
@@ -319,7 +319,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5
 
-<table>
+<table align="center" border="1px">
     <tr>
         <th>Criterio Especifico</th>
         <th>Acciones Realizadas</th>
@@ -558,6 +558,9 @@ integrantes y el uso de múltiples herramientas de comunicación nos hemos ayuda
 Finalmente, nuestro proyecto cumple con los parametros de negocio y
 el desarrollo del software está estructurada con buenas técnicas de implementación, el domain drive desing ha sido fundamental para este proceso de desarrollo y de hecho como equipo estamos muy acuerdo de seguír aprendiendo Angular y java como herramientas esenciales para nuestro carrera profesional. 
 
+# Video About-the-Team
+
+Video de about the team: [Ver Aquí](<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/ERrz6FQtUw9Hg2-ek2OGb9sBx2pDGc9M3oa8XNDSkrA_2Q?e=O5fwdd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>)
 
 # Bibliografia 
 
