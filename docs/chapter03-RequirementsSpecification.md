@@ -13,7 +13,7 @@ EMPRESARIO:
 ### 3.2.1 User Stories Web Aplication
 
 EPICS
-<table>
+<table border="1px">
     <tr>
         <th>Epic ID</th>
         <th>Titulo</th>
@@ -67,7 +67,7 @@ EPICS
 </table>
 
 USER STORIES FOR APLICATION
-<table>
+<table border="1px">
     <tr>
         <th>Epic Id</th>
         <th>Story Id</th>
@@ -258,7 +258,7 @@ USER STORIES FOR APLICATION
 </table>
 
 USER STORIES FOR LANDING PAGE
-<table>
+<table border="1px">
     <tr>
         <th>Epic Id</th>
         <th>Story Id</th>
@@ -329,7 +329,7 @@ USER STORIES FOR LANDING PAGE
 
 
 USER TECHNICAL STORIES
-<table>
+<table border="1px">
     <tr>
         <th>Epic Id</th>
         <th>Story Id</th>
