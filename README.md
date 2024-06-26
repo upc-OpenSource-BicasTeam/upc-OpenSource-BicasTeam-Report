@@ -482,6 +482,14 @@ del ABET – EAC - Student Outcome 5
         TP:</strong> <br>
         Durante este proceso de desarrollo del Sprint 2 aprendí usar correctamente la lógica del negocio en una aplicación web desarrollada en Angular.
         <br>
+        <br>
+        TB2:</strong> <br>
+        Durante el desarrollo del proyecto entendí la importancia de aplicar el Domain Drive Design para organizar y estructurar un proyecto de software.
+        <br>
+        <br>
+        TF:</strong> <br>
+        Aprendí los deploy del Back-End para mostrar a nuestros usuarios finales, una de las importantes trabajos que realicé y aprendí es la comunicación entre Back-End y Front-End. 
+        <br>
         <strong>Velarde Gonzales Nestor Hernan
         <br>
         TB1:</strong> <br>
@@ -489,6 +497,13 @@ del ABET – EAC - Student Outcome 5
         <br>
         TP:</strong> <br>
         Para esta entrega nos esforzamos en la mejora y desarrollo del Front-end de nuestra AppWeb para nuestros segmentos objetivos.
+        <br>
+        TB2:</strong> <br>
+        Implementé el desarrollo del Back-End para propuesta del negocio aplicando el DDD. 
+        <br>
+        <br>
+        TF:</strong> <br>
+        Aprendí a implementar las comunicaciones entre Back-End y Front-End, además por mi lado es importante analizar los servidores y adecuarlos según como lo requiera.  
         <br>
         <strong>Elias Torres
         <br>
@@ -498,6 +513,13 @@ del ABET – EAC - Student Outcome 5
         TB1:</strong> <br>
         Aprendí usar Angular frameword especialmente para los desarroolos del Front-End en aplicaciones Web y estuve activo durante el desarrollo del sprint 2.
         <br>
+        TB2:</strong> <br>
+        Durante el desarrollo del proyecto entendí la importancia de aplicar el Domain Drive Design para organizar y estructurar un proyecto de software.
+        <br>
+        <br>
+        TF:</strong> <br>
+        Aprendí los deploy del Back-End para mostrar a nuestros usuarios finales, una de las importantes trabajos que realicé y aprendí es la comunicación entre Back-End y Front-End. 
+        <br>
         <strong>Huamani Sanchez Jose Diego
         <br>
         TB1:</strong> <br>
@@ -505,6 +527,13 @@ del ABET – EAC - Student Outcome 5
         <br>
         TP:</strong> <br>
         Durante el desarrollo fue encargado de coordinar con el equipo para mejoras e implementación del front-end, aprendí usar nuevas herramientas en el angular.
+        <br>
+        TB2:</strong> <br>
+        Durante el desarrollo del proyecto entendí la importancia de aplicar el Domain Drive Design para organizar y estructurar un proyecto de software.
+        <br>
+        <br>
+        TF:</strong> <br>
+        Aprendí los deploy del Back-End para mostrar a nuestros usuarios finales, una de las importantes trabajos que realicé y aprendí es la comunicación entre Back-End y Front-End. 
         <br>
         <td>Es esencial que el <br>equipo se coordine <br>para adaptarse a <br>los cambios de<br> planes en respuesta <br>a los desafíos<br> emergentes. Esta<br> adaptabilidad no <br>solo permite <br>una resolución <br>eficaz de los problemas,<br> sino que también <br>fomenta la resiliencia <br>del equipo, permitiendo <br>una mayor capacidad <br>para manejar futuros <br>obstáculos.</td>
     </tr>
@@ -520,14 +549,30 @@ Para esta entrega, hemos llegado a la conclusión de que las coordinaciones cons
 
 Durante este período, hemos visto una mejora significativa en la productividad y calidad del trabajo realizado. La aplicación de las buenas técnicas de desarrollo nos ha permitido abordar los desafíos de manera más eficiente y responder de manera efectiva a los cambios en los requisitos del proyecto. Además, el trabajo en equipo ha fortalecido nuestra capacidad para resolver problemas de manera conjunta y aprovechar al máximo las habilidades individuales de cada miembro del equipo, el Sprint 2 fue desarrollada y desplegada a la nube. 
 
+## TB2: 
+Durante este desarrollo del Sprint hemos implementado la primera versión del BackEnd para lograr el objetivo de nuestro aplicación web, la técnica de Domain Drive Design fue fundamental para organizar y estructurar nuestro bounded context y asi entender la idea de negocio entre todos del equipo BicasTeams. 
+
+## TF: 
+Analizando nuestro progreso desde el inicio del proyecto, nuestro trabajo en equipo a reflejado buen resultado, de hecho hubo muchas dificultades que se afrontó durante el desarrollo pero con una comunicación constante entre nuestros 
+integrantes y el uso de múltiples herramientas de comunicación nos hemos ayudado, durante el proceso de desarrollo de nuestro trabajo.
+Finalmente, nuestro proyecto cumple con los parametros de negocio y
+el desarrollo del software está estructurada con buenas técnicas de implementación, el domain drive desing ha sido fundamental para este proceso de desarrollo y de hecho como equipo estamos muy acuerdo de seguír aprendiendo Angular y java como herramientas esenciales para nuestro carrera profesional. 
+
+
 # Bibliografia 
-Berné, M. (2023, 8 marzo). Criterios de aceptación: ejemplos para elaborarlos. Blog. https://www.scrummanager.com/blog/2023/03/criterios-de-aceptacion-definicion-y-ejemplos/ 
 
-Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/ 
+- Berné, M. (2023, 8 marzo). Criterios de aceptación: ejemplos para elaborarlos. Blog. https://www.scrummanager.com/blog/2023/03/criterios-de-aceptacion-definicion-y-ejemplos/ 
 
-Markdown - La guía definitiva en español. (2022, 14 febrero). Markdown. https://markdown.es/ 
+- Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/ 
 
-Tune, N. (2018, 1 agosto). Domain-Driven Architecture Diagrams - Strategy, Architecture, Continuous Delivery, and DDD - Medium. Medium. 
+- Lucidchart (Lucid). (s.f.). Lucidchart: Diagramming and Visual Communication Made Easy. Lucid.
+
+- Recuperado de https://www.lucidchart.com [Consulta: 02 de Marzo de 2024].
+GitHub. (s.f.). Recuperado de https://github.com [Consulta: 24 de Marzo de 2024].
+
+- Markdown - La guía definitiva en español. (2022, 14 febrero). Markdown. https://markdown.es/ 
+
+- Tune, N. (2018, 1 agosto). Domain-Driven Architecture Diagrams - Strategy, Architecture, Continuous Delivery, and DDD - Medium. Medium. 
 
 
 # Anexos
