@@ -266,7 +266,7 @@ ENTREVISTA 1
 
 ![Entrevista 1 Empresarios](/assets/chapter02/Entrevista%20Empresario%203.PNG)
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191a453_upc_edu_pe/EUwHFOhfEWhMvyc7xG_vQU4BJORRZNxCY9RDij9BwYzrKg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2T6ADp
+[Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191a453_upc_edu_pe/EUwHFOhfEWhMvyc7xG_vQU4BJORRZNxCY9RDij9BwYzrKg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2T6ADp)
 
 Inicia: 0:00
 
@@ -286,7 +286,7 @@ ENTREVISTA 2
 
 ![CEntrevista empresarios 2](/assets/chapter02/Foto_Corpo_Beth.png)
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EXDku-n-Pj9ButBywOx7AN0Be6DVSGjmhOcfNFPVrSWQjw?e=DGxDSW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+[Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EXDku-n-Pj9ButBywOx7AN0Be6DVSGjmhOcfNFPVrSWQjw?e=DGxDSW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Inicia: 0:00 Min
 
@@ -307,7 +307,7 @@ ENTREVSITA 3
 
 ![Entrevista 2 Empresarios](/assets/chapter02/Entrevista%20Empresario%204.PNG)
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191a453_upc_edu_pe/Ee4VsZTV3elLuCnESEniJfoB2KL0J91OGdUuZiHVMfpX_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rBtEj1
+[Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191a453_upc_edu_pe/Ee4VsZTV3elLuCnESEniJfoB2KL0J91OGdUuZiHVMfpX_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rBtEj1)
 
 Inicia: 0:00
 
@@ -328,7 +328,7 @@ ENTREVISTA 1:
 
 ![Entrevista 1 Transportistas](/assets/chapter02/TransEntrevista%201.png)
 
-LINK: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EXSD46lHMXBHhtXU68u21MAB1k4GPVrGtb73aiHuhk-O4A?e=baM5qv
+[Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EXSD46lHMXBHhtXU68u21MAB1k4GPVrGtb73aiHuhk-O4A?e=baM5qv)
 
 Inicia: 0:00
 
@@ -357,7 +357,7 @@ ENTREVISTA 2:
 
 ![Entrevista 2 Transportistas](/assets/chapter02/TransEntrevista%202.png)
 
-LINK: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/Ee0tJI_1TaVDlx1FOyZIwjwBiTQSNEtbkeaMh9ggxyFgFQ?e=vercnA
+[Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/Ee0tJI_1TaVDlx1FOyZIwjwBiTQSNEtbkeaMh9ggxyFgFQ?e=vercnA)
 
 Inicia: 0:00 
 
@@ -383,7 +383,7 @@ ENTREVISTA 3:
 
 ![Entrevista 3 Transportistas](/assets/chapter02/TransEntrevista%203.png)
 
-LINK: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EY5rIHwdoYJEo1060clcg08Bj9EUW4PKzVWG0qSQZ9iLKw?e=qVv4x8
+[Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EY5rIHwdoYJEo1060clcg08Bj9EUW4PKzVWG0qSQZ9iLKw?e=qVv4x8)
 
 Inicia: 0:00 
 
