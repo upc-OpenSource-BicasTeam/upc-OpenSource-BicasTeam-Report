@@ -206,7 +206,7 @@ Si el usuario elige registrarse como “Transportist”, el proceso también com
 ![Web Applications Mock-ups](/assets/chapter04/Succesfull.png)
 
 
-Link del Figma: https://www.figma.com/file/UznJufoIMBwWow9ny8cXO5/Web-Application_BicasTeam?type=design&node-id=250%3A490&mode=design&t=GOKAY8ODTttUllvI-1 
+Link del Figma: [ver aquí](https://www.figma.com/file/UznJufoIMBwWow9ny8cXO5/Web-Application_BicasTeam?type=design&node-id=250%3A490&mode=design&t=GOKAY8ODTttUllvI-1)
 
 ### 4.4.4 Web Applications User Flow Diagrams
 User Goal: El usuario tiene dos opciones de registro en la aplicación: como “Businessmen” o como “Transportist”.
@@ -270,4 +270,4 @@ En esta seccion se definiran las clase que se identificaron en el Class Diagram:
 ### 4.8.1 Database Diagram
 ![Database Diagram](/assets/chapter04/DatabaseDiagramMoviGestion.png)
 
-Link for Vetabelo: https://my.vertabelo.com/public-model-view/5yI4V4ChbQGarfXWiMjxVVIcacFNuarlrFWq26NToht19NwAIKDlIQ60hc4OJ0M4?x=1918&y=2759&zoom=0.6028
+Link for Vetabelo: [Click Aquí](https://my.vertabelo.com/public-model-view/5yI4V4ChbQGarfXWiMjxVVIcacFNuarlrFWq26NToht19NwAIKDlIQ60hc4OJ0M4?x=1918&y=2759&zoom=0.6028)
