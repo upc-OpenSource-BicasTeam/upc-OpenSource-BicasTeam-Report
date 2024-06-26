@@ -17,7 +17,7 @@
 
 ## <center> **Integrantes** </center>
 
-<table align="center">
+<table align="center" border="1px">
     <tr>
         <th>Apellidos, Nombres</th>
         <th>Codigo</th>
@@ -308,9 +308,6 @@ EVIDENCIA COMMITS REPORT:
 
 [Anexos]()
 
----
----
----
 
 # Student Outcome
 El curso contribuye al cumplimiento del Student Outcome ABET:
@@ -330,12 +327,12 @@ del ABET – EAC - Student Outcome 5
     </tr>
     <tr>
         <td>Participa en equipos <br>multidisciplinarios<br> con eficacia,<br> eficiencia y objetividad,<br> en el marco de un <br>proyecto en soluciones<br> de ingeniería de <br>software</td>
-        <td><strong>Miguel Huarcaya
+        <td><strong>Miguel Huarcaya Chavez
         <br>
         TB1:</strong> <br>
-        -Implentación de las historias de usuarios y el Product Backlog
+        -Implentación de las historias de usuarios y el Product Backlog.
         <br>
-        -Cooperación con el landing page
+        -Cooperación con el landing page, desde el despliegue hasta el deploy. 
         <br>
         -Realización del Impact Map
         <br>
@@ -350,7 +347,26 @@ del ABET – EAC - Student Outcome 5
         -Creación de ramas para el desarrollo de Aplicación web.
         <br>
         -Realización de Login, Register y vesualización de vehiculos en AppWeb.
-        <br> <br>
+        <br> 
+        <br>
+         TB2:</strong> <br>
+        -Para el Sprint 3 de nuestra entrega ue crear un repositorio para el Back-End y crear ramas para el desarrollo del código de nuestro equipo. 
+        <br>
+        -Realicé algunas mejoras del Front-End, mas eficiente que la primera versión.  
+        <br>
+        -Realizé la primera versión del Back-End para nuestro producto. 
+        <br>
+        -Para la dicha entrega del TB2 fue el engargado de realizar el deploy de la primera versión del nuestro Back-End. 
+        <br>
+         TF:</strong> <br>
+        -Colaboré de manera eficaz en mi grupo para esta entrega del final cumpliendo al 100% de nuestro producto de software. 
+        <br>
+        -Realicé las conecciones de Back-End al Front-End para que la aplicación sea eficiente.  
+        <br>
+        -Realizé el deploy del Back-End al azure.  
+        <br>
+        -Colaboré de manera eficiente en los informes, junto a mi equipo.  
+        <br><br>
         <strong>Velarde Gonzales Nestor Hernan
         <br> 
         TB1:</strong> <br>
@@ -363,29 +379,29 @@ del ABET – EAC - Student Outcome 5
         -Mejora del Software Configuration Management
         <br>
          TP:</strong> <br>
-        -Aportar en el apartado del capitulo 05.
+        -Mi contribución para el desarrollo del Front-End fue crear un repositorio y crear ramas para implementar nuestro código de desarrollo.
         <br>
-        -Aporte en mejora en landing page.
+        -Aporte en mejora en landing page según las correcciones del Prof. del curso. 
         <br>
         -Desarollo de la parte organización en la AppWeb en front-end.
         <br>
-        -Mejora general del informe.
-        <br>
+        -Mejora general del informe según las guías de la rubrica. 
+        <br> <br>
         <strong>Elias Torres
         <br>
         TB1:</strong> <br>
-        -Realización de entrevistas
+        -Realización de entrevistas a nuestros segmentos objetivos.
         <br>
         -Contribución del As-Is y To-Be Scenario Mapping
         <br>
         -Ayuda en el product design 
         <br>
-        -Implementación del Domain-Driven Software Architecture
+        -Implementación del Domain-Driven Software Architecture según el modelo de nuestro producto.
         <br>
-        -Implementación del landing page
+        -Implementación y desarrollo del landing page.
         <br>
         TP:</strong> <br>
-        -Mejora en Landing page
+        -Mejora en Landing page incluyendo i18n
         <br>
         -Contribución en el Cap. 05.
         <br>
@@ -395,6 +411,23 @@ del ABET – EAC - Student Outcome 5
         <br>
         -Implementación y mejora en el informe según las observaciones dadas en TB1.
         <br>
+         TB2:</strong> <br>
+        -Para el Sprint 3 de nuestra entrega ue crear un repositorio para el Back-End y crear ramas para el desarrollo del código de nuestro equipo. 
+        <br>
+        -Realicé algunas mejoras del Front-End, mas eficiente que la primera versión.  
+        <br>
+        -Realizé la primera versión del Back-End para nuestro producto. 
+        <br>
+        -Para la dicha entrega del TB2 fue el engargado de realizar el deploy de la primera versión del nuestro Back-End. 
+        <br>
+         TF:</strong> <br>
+        -Colaboré de manera eficaz en mi grupo para esta entrega del final cumpliendo al 100% de nuestro producto de software. 
+        <br>
+        -Realicé las conecciones de Back-End al Front-End para que la aplicación sea eficiente.  
+        <br>
+        -Realizé el deploy del Back-End al azure.  
+        <br>
+        -Colaboré de manera eficiente en los informes, junto a mi equipo.  
         <strong>Huamani Sanchez Jose Diego
         <br>
         TB1:</strong> <br>
@@ -421,6 +454,23 @@ del ABET – EAC - Student Outcome 5
         <br>
         <td>-La planificación del <br> proyecto aseguró<br> una buena distribución <br>de tareas. Además, <br>la colaboración activa<br> de los miembros del <br>equipo permitió la <br>revision y corrección<br> múltiple de tareas<br> que se consideraban<br> completadas.
         <br>
+         TB2:</strong> <br>
+        -Para el Sprint 3 de nuestra entrega ue crear un repositorio para el Back-End y crear ramas para el desarrollo del código de nuestro equipo. 
+        <br>
+        -Realicé algunas mejoras del Front-End, mas eficiente que la primera versión.  
+        <br>
+        -Realizé la primera versión del Back-End para nuestro producto. 
+        <br>
+        -Para la dicha entrega del TB2 fue el engargado de realizar el deploy de la primera versión del nuestro Back-End. 
+        <br>
+         TF:</strong> <br>
+        -Colaboré de manera eficaz en mi grupo para esta entrega del final cumpliendo al 100% de nuestro producto de software. 
+        <br>
+        -Realicé las conecciones de Back-End al Front-End para que la aplicación sea eficiente.  
+        <br>
+        -Realizé el deploy del Back-End al azure.  
+        <br>
+        -Colaboré de manera eficiente en los informes, junto a mi equipo.  
     </tr>
     <tr>
         <td>Conoce al menos<br> un sector empresarial<br> o dominio de aplicación<br> de soluciones de<br> software</td>
