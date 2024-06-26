@@ -7,7 +7,7 @@ Universidad Peruana de Ciencias Aplicadas
 </center>
 
 
-### <center>Aplicaciones Web</center> 
+### <center>Desarrollo de Aplicaciones Open Source</center> 
 <center>Ciclo: 2024-01</center>
 <center>Carrera: Ingenieria de Software</center>  
 <center>Seccion: SV54</center> 
